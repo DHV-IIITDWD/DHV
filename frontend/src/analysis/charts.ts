@@ -133,11 +133,15 @@ export function sankey(t:string,nodes:string[],links:{source:string;target:strin
   return {...base(t,'item',false,'Flow width = number of institutions ranked in both years'),series:[{type:'sankey',top:56,bottom:10,left:10,right:110,nodeGap:10,data:nodes.map(n=>({name:n})),links,
    lineStyle:{color:'gradient',opacity:.35},itemStyle:{color:T.primary,borderColor:T.dark},label:{color:T.navy,fontSize:11},emphasis:{focus:'adjacency'}}]};}
 export function specToOption(s:ChartSpec):any{
+<<<<<<< HEAD
   if(s.type==='pie'&&s.pie)return pie(s.title,s.pie,false);
   if(s.type==='scatter'&&s.points)return scatter(s.title,s.points,s.xLabel,s.yLabel);
   if(s.type==='heatmap'&&s.heat)return heat(s.title,s.heat.xs,s.heat.ys,s.heat.cells,'','',{dec:2,label:true});
   if(s.type==='box'&&s.box)return {...base(s.title,'item',false),xAxis:axC(s.x,s.xLabel,false,s.x.length>8?40:0),yAxis:axV(s.yLabel),series:[{type:'boxplot',data:s.box,itemStyle:{color:T.pale,borderColor:T.primary}}]};
   if(s.type==='area')return line(s.title,s.x,s.series,s.xLabel,s.yLabel,false,true);
   return s.type==='bar'||s.type==='histogram'?{...base(s.title,'axis',s.series.length>1),xAxis:axC(s.x,s.xLabel,false,s.x.length>8?40:0),yAxis:axV(s.yLabel,false,true),
+=======
+  return s.type==='bar'?{...base(s.title,'axis',s.series.length>1),xAxis:axC(s.x,s.xLabel,false,s.x.length>8?40:0),yAxis:axV(s.yLabel,false,true),
+>>>>>>> 56e088a4e38f53be52a4a2e05c20d359a98eac80
     series:s.series.map((a,i)=>({type:'bar',name:a.name,data:a.data,itemStyle:{color:T.series[i%8]}}))}
    :line(s.title,s.x,s.series,s.xLabel,s.yLabel);}
