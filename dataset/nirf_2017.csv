@@ -1,0 +1,501 @@
+﻿year,category,rank,institute_name,city,state,score,institute_id,tlr,rpc,go,oi,pr
+2017,Overall,1.0,Indian Institute of Science Bangalore,Bengaluru,Karnataka,83.28,IR17-I-2-18243,83.11,87.59,87.97,61.48,83.33
+2017,Overall,2.0,Indian Institute of Technology Madras,Chennai,Tamil Nadu,73.97,IR17-I-1-1-77,69.49,72.6,84.02,76.75,68.7
+2017,Overall,3.0,Indian Institute of Technology Bombay,Mumbai,Maharashtra,71.78,IR17-I-2-18633,64.68,78.14,70.07,65.8,83.44
+2017,Overall,4.0,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,68.43,IR17-I-2-18630,55.07,70.46,85.11,72.85,64.72
+2017,Overall,5.0,Indian Institute of Technology Delhi,New Delhi,Delhi,64.18,IR17-I-2-1-79,55.45,68.48,65.92,68.69,69.53
+2017,Overall,6.0,Jawaharlal Nehru University,New Delhi,Delhi,61.53,IR17-I-2-1-319,62.11,33.96,98.71,82.4,47.27
+2017,Overall,7.0,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,60.69,IR17-I-2-18248,60.07,62.14,58.34,60.01,63.62
+2017,Overall,8.0,Indian Institute of Technology Guwahati,Guwahati,Assam,60.37,IR17-I-2-1-251,65.53,47.46,78.28,79.28,28.79
+2017,Overall,9.0,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,59.84,IR17-I-2-18677,52.24,56.6,83.38,72.7,32.38
+2017,Overall,10.0,Banaras Hindu University,Varanasi,Uttar Pradesh,58.92,IR17-I-2-18500,47.85,49.96,94.36,62.97,44.01
+2017,Overall,11.0,Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru,Karnataka,58.25,IR17-I-2-30673,78.28,51.93,68.79,47.44,6.92
+2017,Overall,12.0,Jadavpur University,Kolkata,West Bengal,57.32,IR17-I-2-10326,48.64,54.09,91.42,53.37,28.81
+2017,Overall,13.0,Anna University,Chennai,Tamil Nadu,56.5,IR17-I-2-18292,46.25,54.58,79.31,60.01,43.94
+2017,Overall,14.0,University of Hyderabad,Hyderabad,Telangana,56.3,IR17-I-2-1-2813521158,57.3,42.77,78.79,78.13,27.06
+2017,Overall,15.0,University of Delhi,Delhi,Delhi,55.37,IR17-I-2-18552,43.48,56.61,82.06,58.6,30.76
+2017,Overall,16.0,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,54.7,IR17-I-2-18267,62.9,39.49,65.77,82.17,26.12
+2017,Overall,17.0,Indian Institute of Management Ahmedabad,Ahmedabad,Gujarat,54.27,IR17-I-1-18698,78.14,13.85,62.91,80.97,59.91
+2017,Overall,18.0,Savitribai Phule Pune University,Pune,Maharashtra,52.81,IR17-I-2-1-618,56.39,35.03,85.13,72.26,11.2
+2017,Overall,19.0,Aligarh Muslim University,Aligarh,Uttar Pradesh,52.74,IR17-I-2-18189,58.56,36.2,87.43,51.55,16.62
+2017,Overall,20.0,Jamia Millia Islamia,New Delhi,Delhi,51.75,IR17-I-2-1-2814289415,58.98,27.99,81.63,83.55,9.73
+2017,Overall,21.0,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,51.46,IR17-I-2-18599,54.83,31.26,73.88,58.5,49.96
+2017,Overall,22.0,Vellore Institute of Technology,Vellore,Tamil Nadu,51.36,IR17-I-2-18572,41.65,42.87,75.57,75.99,32.95
+2017,Overall,23.0,Indian Agricultural Research Institute,New Delhi,Delhi,51.2,IR17-I-2-1-243,58.22,33.6,74.11,76.79,11.52
+2017,Overall,24.0,Indian Institute of Technology Indore,Indore,Madhya Pradesh,50.23,IR17-I-2-1-346,65.42,32.43,63.5,74.58,7.17
+2017,Overall,25.0,Indian Institute of Management Bangalore,Bengaluru,Karnataka,49.26,IR17-I-1-1-217,68.62,12.47,63.57,83.53,38.72
+2017,Overall,26.0,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,49.07,IR17-I-2-1-345,63.51,28.02,62.91,72.21,18.06
+2017,Overall,27.0,Calcutta University,Kolkata,West Bengal,48.9,IR17-I-2-18606,36.34,44.1,95.76,39.02,17.15
+2017,Overall,28.0,Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,48.84,IR17-I-2-15598,77.67,12.56,75.33,63.48,3.53
+2017,Overall,29.0,"Indian Institute of Science Education & Research, Pune",Pune,Maharashtra,48.28,IR17-I-1-18637,63.94,28.43,52.74,76.1,24.13
+2017,Overall,30.0,Manipal Academy of Higher Education-Manipal,Manipal,Karnataka,48.27,IR17-I-2-18364,64.76,29.31,58.66,55.51,27.67
+2017,Overall,31.0,Visva Bharati,Kolkata,West Bengal,48.19,IR17-I-2-18581,53.56,25.23,86.74,67.26,4.71
+2017,Overall,32.0,Indian Institute of Technology Ropar,Rupnagar,Punjab,47.84,IR17-I-2-1-340,66.25,24.68,62.91,75.73,4.07
+2017,Overall,33.0,Siksha`O` Anusandhan University,Bhubaneswar,Odisha,46.72,IR17-I-2-1-624,63.31,17.17,66.02,78.18,15.57
+2017,Overall,34.0,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,46.57,IR17-I-1-1-370,44.43,31.32,71.92,73.68,20.92
+2017,Overall,35.0,Homi Bhabha National Institute,Mumbai,Maharashtra,46.45,IR17-I-2-18230,79.17,8.75,66.98,58.08,8.7
+2017,Overall,35.0,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,46.45,IR17-I-2-18559,59.33,23.12,63.42,86.49,3.79
+2017,Overall,37.0,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,45.62,IR17-I-2-18639,68.77,16.43,61.11,74.31,4.06
+2017,Overall,38.0,Osmania University,Hyderabad,Telangana,45.52,IR17-I-2-18414,46.63,20.56,91.98,58.41,11.16
+2017,Overall,39.0,Indian Institute of Management Calcutta,Kolkata,West Bengal,45.17,IR17-I-1-18700,70.17,6.04,62.15,74.17,24.61
+2017,Overall,40.0,"Punjab Agricultural University, Ludhiana",Ludhiana,Punjab,44.99,IR17-I-1-30713,77.94,16.51,57.2,48.44,3.83
+2017,Overall,41.0,Institute of Chemical Technology,Mumbai,Maharashtra,44.95,IR17-I-2-18261,41.33,36.82,69.31,55.73,20.69
+2017,Overall,42.0,Jamia Hamdard,New Delhi,Delhi,44.84,IR17-I-2-17784,52.44,27.86,73.99,57.57,1.87
+2017,Overall,43.0,Gauhati University,Guwahati,Assam,44.42,IR17-I-2-30702,50.65,16.84,89.89,59.41,2.48
+2017,Overall,44.0,"Indian Institute of Science Education & Research, Kolkata",Mohanpur,West Bengal,44.38,IR17-I-1-18635,56.68,27.13,57.82,70.0,6.79
+2017,Overall,45.0,Bharathiar University,Coimbatore,Tamil Nadu,44.29,IR17-I-2-18567,45.67,35.58,63.73,62.6,9.11
+2017,Overall,46.0,National Institute of Technology Rourkela,Rourkela,Odisha,44.02,IR17-I-2-1-140,43.93,34.18,67.94,65.97,4.0
+2017,Overall,47.0,Kerala University,Thiruvananthapuram,Kerala,43.95,IR17-I-2-18317,50.61,14.62,89.18,64.47,0.89
+2017,Overall,48.0,Tezpur University,Tezpur,Assam,43.78,IR17-I-2-10563,51.89,28.83,62.76,63.05,7.09
+2017,Overall,49.0,TATA Institute of Social Sciences,Mumbai,Maharashtra,43.71,IR17-I-1-700,51.92,6.59,76.5,85.16,23.31
+2017,Overall,50.0,Shanmugha Arts Science Technology & Research Academy (SASTRA),Thanjavur,Tamil Nadu,43.5,IR17-I-2-18477,43.1,31.09,68.04,65.18,11.1
+2017,Overall,51.0,Indian Institute of Management Lucknow,Lucknow,Uttar Pradesh,43.35,IR17-I-1-18704,63.94,6.94,62.69,82.57,12.92
+2017,Overall,52.0,"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,43.27,IR17-I-2-1-333,55.38,17.55,62.99,80.48,7.52
+2017,Overall,53.0,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,43.21,IR17-I-1-18632,40.04,34.27,67.12,67.08,7.88
+2017,Overall,54.0,Panjab University,Chandigarh,Chandigarh,43.13,IR17-I-2-1-2814248400,36.7,40.79,66.18,47.4,18.99
+2017,Overall,55.0,S.R.M Institute of Science and Technology,Chennai,Tamil Nadu,43.07,IR17-I-2-1-596,45.8,25.07,64.33,78.65,10.8
+2017,Overall,56.0,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,43.06,IR17-I-1-1-249,69.46,11.63,51.78,70.33,13.45
+2017,Overall,57.0,Mysore University,Mysore,Karnataka,42.83,IR17-I-2-1-457,41.59,20.1,93.17,53.51,3.44
+2017,Overall,58.0,"National Institute of Pharmaceutical Education and Research, Hyderabad",Hyderabad,Telangana,42.74,IR17-I-2-18693,61.28,14.3,60.78,75.15,3.9
+2017,Overall,59.0,Pondicherry University,Puducherry,Pondicherry,42.7,IR17-I-2-18424,44.07,26.33,72.73,65.61,4.67
+2017,Overall,60.0,Tamil Nadu Veterinary & Animal Sciences University,Chennai,Tamil Nadu,42.48,IR17-I-2-1-697,75.08,6.36,61.11,57.5,0.67
+2017,Overall,61.0,Sri Ramachandra University,Chennai,Tamil Nadu,42.46,IR17-I-2-1-661,68.16,14.1,47.94,73.02,8.86
+2017,Overall,62.0,Anand Agricultural University,Anand,Gujarat,42.26,IR17-I-2-18276,72.99,5.89,70.24,42.67,2.75
+2017,Overall,63.0,Indian Institute of Management Udaipur,Udaipur,Rajasthan,42.15,IR17-I-1-18709,68.76,1.38,60.0,86.05,5.04
+2017,Overall,64.0,University of Madras,Chennai,Tamil Nadu,41.85,IR17-I-2-18341,44.22,29.26,62.26,62.75,10.82
+2017,Overall,65.0,National Institute of Technology Surathkal,Surathkal,Karnataka,41.8,IR17-I-1-1-493,42.31,21.43,71.88,62.86,20.13
+2017,Overall,66.0,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,41.75,IR17-I-1-18627,57.89,20.92,51.73,74.82,2.66
+2017,Overall,67.0,Indian Institute of Management Tiruchirappalli,Tiruchirappalli,Tamil Nadu,41.73,IR17-I-1-1-18708,71.34,1.09,60.0,77.67,2.31
+2017,Overall,68.0,Sri Venkateswara University,Tirupati,Andhra Pradesh,41.48,IR17-I-2-1-668,45.88,24.43,68.72,64.57,1.94
+2017,Overall,69.0,Andhra University,Visakhapatnam,Andhra Pradesh,41.38,IR17-I-2-1-31,40.32,18.59,80.31,55.75,20.72
+2017,Overall,70.0,"Indian Institute of Technology (Banaras Hindu University), Varanasi",Varanasi,Uttar Pradesh,41.37,IR17-I-2-18672,42.85,19.35,72.56,57.89,23.96
+2017,Overall,71.0,Indian Institute of Management Kashipur,Kashipur,Uttarakhand,41.36,IR17-I-1-1-347,72.76,1.47,60.0,70.17,0.72
+2017,Overall,72.0,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,41.3,IR17-I-2-18472,42.32,22.17,65.64,77.13,11.08
+2017,Overall,73.0,"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,West Bengal,41.28,IR17-I-2-18690,45.5,27.57,64.98,54.35,9.29
+2017,Overall,74.0,Jagadguru Sri Shivarathreeshwara University,Mysore,Karnataka,41.18,IR17-I-2-1-299,55.34,10.32,61.55,76.67,14.99
+2017,Overall,75.0,Thapar University,Patiala,Punjab,40.78,IR17-I-2-1-2813959492,39.35,29.05,70.16,49.1,13.17
+2017,Overall,76.0,Dr. D. Y. Patil Vidyapeeth Pune,Pune,Maharashtra,40.59,IR17-I-2-30671,64.52,4.9,60.27,65.47,11.61
+2017,Overall,77.0,North Eastern Hill University,Shillong,Meghalaya,40.51,IR17-I-2-18409,53.99,11.83,71.52,61.35,3.24
+2017,Overall,78.0,Indian Institute of Technology Gandhinagar,Ahmedabad,Gujarat,40.48,IR17-I-1-18628,59.15,17.34,51.27,63.65,9.24
+2017,Overall,79.0,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,40.47,IR17-I-2-1-336,46.39,12.75,68.53,69.17,20.95
+2017,Overall,80.0,Sri Sivasubrmaniya Nadar College of Engineering,Kalavakkam,Tamil Nadu,40.31,IR17-I-1-1-2811256746,52.45,14.02,64.06,61.58,13.86
+2017,Overall,81.0,Guru Angad Dev Veterinary & Animal Sciences University,Ludhiana,Punjab,40.1,IR17-I-2-18214,71.99,10.08,56.99,40.19,0.59
+2017,Overall,82.0,National Institute of Technology Warangal,Warangal,Telangana,40.05,IR17-I-2-18622,46.02,17.53,68.74,64.94,7.43
+2017,Overall,83.0,Indian Institute of Technology Patna,Patna,Bihar,39.87,IR17-I-2-1-344,52.27,19.13,55.08,71.52,2.8
+2017,Overall,84.0,Dr. Y.S.Parmar University of Horticulture & Forestry,Solan,Himachal Pradesh,39.54,IR17-I-2-1-178,68.64,4.39,65.58,44.54,0.64
+2017,Overall,85.0,Indian Institute of Management Kozhikode,Kozhikode,Kerala,39.2,IR17-I-1-18703,58.19,6.11,60.86,71.74,5.73
+2017,Overall,86.0,AMITY University,Gautam Budh Nagar,Uttar Pradesh,39.17,IR17-I-2-18259,38.5,23.36,63.06,61.86,18.06
+2017,Overall,87.0,Indian Institute of Crop Processing Technology,Thanjavur,Tamil Nadu,39.15,IR17-I-1-12080,62.29,1.56,60.86,76.83,1.42
+2017,Overall,88.0,PSG College of Technology,Coimbatore,Tamil Nadu,39.07,IR17-I-1-2811179135,45.79,14.34,61.11,62.6,25.48
+2017,Overall,89.0,Banasthali Vidyapith,Banasthali,Rajasthan,38.74,IR17-I-2-18508,37.11,9.99,82.16,74.26,7.46
+2017,Overall,90.0,Bharati Vidyapeeth,Pune,Maharashtra,38.73,IR17-I-2-18580,48.43,12.95,55.18,62.17,30.64
+2017,Overall,91.0,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,38.68,IR17-I-2-18474,51.11,11.81,57.85,76.63,5.81
+2017,Overall,92.0,Annamalai University,Annamalainagar,Tamil Nadu,38.59,IR17-I-2-1-33,39.03,26.87,68.64,47.19,3.67
+2017,Overall,93.0,Calicut University,Calicut,Kerala,38.45,IR17-I-2-18607,50.3,8.81,72.68,57.08,4.74
+2017,Overall,94.0,Mizoram University,Aizwal,Mizoram,38.36,IR17-I-2-1-448,52.31,5.27,70.52,69.93,0.03
+2017,Overall,95.0,Kurukshetra University,Kurushetra,Haryana,38.26,IR17-I-2-1-373,43.43,13.44,79.64,50.37,2.33
+2017,Overall,96.0,Shiv Nadar University,Chithera,Uttar Pradesh,37.95,IR17-I-2-10933,59.15,9.43,47.7,73.23,5.24
+2017,Overall,97.0,Symbiosis International University,Pune,Maharashtra,37.67,IR17-I-2-21078,44.8,8.92,60.44,80.33,14.31
+2017,Overall,98.0,"Indian Institute of Science Education & Research, Bhopal",Bhopal,Madhya Pradesh,37.32,IR17-I-2-18634,46.13,18.21,53.21,70.78,3.0
+2017,Overall,99.0,Rajiv Gandhi Indian Institute of Management,Shillong,Meghalaya,37.28,IR17-I-1-18710,61.42,1.89,60.0,62.21,0.57
+2017,Overall,100.0,KLE Academy of Higher Education and Research,Belagavi,Karnataka,37.25,IR17-I-2-1-N002,64.13,4.9,49.61,65.54,0.69
+2017,University,1.0,Indian Institute of Science Bangalore,Bengaluru,Karnataka,83.28,IR17-I-2-18243,83.11,87.59,87.97,61.48,83.33
+2017,University,2.0,Jawaharlal Nehru University,New Delhi,Delhi,61.53,IR17-I-2-1-319,62.11,33.96,98.71,82.4,47.27
+2017,University,3.0,Banaras Hindu University,Varanasi,Uttar Pradesh,58.92,IR17-I-2-18500,47.85,49.96,94.36,62.97,44.01
+2017,University,4.0,Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru,Karnataka,58.25,IR17-I-2-30673,78.28,51.93,68.79,47.44,6.92
+2017,University,5.0,Jadavpur University,Kolkata,West Bengal,57.32,IR17-I-2-10326,48.64,54.09,91.42,53.37,28.81
+2017,University,6.0,Anna University,Chennai,Tamil Nadu,56.5,IR17-I-2-18292,46.25,54.58,79.31,60.01,43.94
+2017,University,7.0,University of Hyderabad,Hyderabad,Telangana,56.3,IR17-I-2-1-2813521158,57.3,42.77,78.79,78.13,27.06
+2017,University,8.0,University of Delhi,Delhi,Delhi,55.37,IR17-I-2-18552,43.48,56.61,82.06,58.6,30.76
+2017,University,9.0,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,54.7,IR17-I-2-18267,62.9,39.49,65.77,82.17,26.12
+2017,University,10.0,Savitribai Phule Pune University,Pune,Maharashtra,52.81,IR17-I-2-1-618,56.39,35.03,85.13,72.26,11.2
+2017,University,11.0,Aligarh Muslim University,Aligarh,Uttar Pradesh,52.74,IR17-I-2-18189,58.56,36.2,87.43,51.55,16.62
+2017,University,12.0,Jamia Millia Islamia,New Delhi,Delhi,51.75,IR17-I-2-1-2814289415,58.98,27.99,81.63,83.55,9.73
+2017,University,13.0,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,51.46,IR17-I-2-18599,54.83,31.26,73.88,58.5,49.96
+2017,University,14.0,Vellore Institute of Technology,Vellore,Tamil Nadu,51.36,IR17-I-2-18572,41.65,42.87,75.57,75.99,32.95
+2017,University,15.0,Indian Agricultural Research Institute,New Delhi,Delhi,51.2,IR17-I-2-1-243,58.22,33.6,74.11,76.79,11.52
+2017,University,16.0,Calcutta University,Kolkata,West Bengal,48.9,IR17-I-2-18606,36.34,44.1,95.76,39.02,17.15
+2017,University,17.0,Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,48.84,IR17-I-2-15598,77.67,12.56,75.33,63.48,3.53
+2017,University,18.0,Manipal Academy of Higher Education-Manipal,Manipal,Karnataka,48.27,IR17-I-2-18364,64.76,29.31,58.66,55.51,27.67
+2017,University,19.0,Visva Bharati,Kolkata,West Bengal,48.19,IR17-I-2-18581,53.56,25.23,86.74,67.26,4.71
+2017,University,20.0,Siksha`O` Anusandhan University,Bhubaneswar,Odisha,46.72,IR17-I-2-1-624,63.31,17.17,66.02,78.18,15.57
+2017,University,21.0,Homi Bhabha National Institute,Mumbai,Maharashtra,46.45,IR17-I-2-18230,79.17,8.75,66.98,58.08,8.7
+2017,University,21.0,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,46.45,IR17-I-2-18559,59.33,23.12,63.42,86.49,3.79
+2017,University,23.0,Osmania University,Hyderabad,Telangana,45.52,IR17-I-2-18414,46.63,20.56,91.98,58.41,11.16
+2017,University,24.0,"Punjab Agricultural University, Ludhiana",Ludhiana,Punjab,44.99,IR17-I-1-30713,77.94,16.51,57.2,48.44,3.83
+2017,University,25.0,Institute of Chemical Technology,Mumbai,Maharashtra,44.95,IR17-I-2-18261,41.33,36.82,69.31,55.73,20.69
+2017,University,26.0,Jamia Hamdard,New Delhi,Delhi,44.84,IR17-I-2-17784,52.44,27.86,73.99,57.57,1.87
+2017,University,27.0,Gauhati University,Guwahati,Assam,44.42,IR17-I-2-30702,50.65,16.84,89.89,59.41,2.48
+2017,University,28.0,Bharathiar University,Coimbatore,Tamil Nadu,44.29,IR17-I-2-18567,45.67,35.58,63.73,62.6,9.11
+2017,University,29.0,Kerala University,Thiruvananthapuram,Kerala,43.95,IR17-I-2-18317,50.61,14.62,89.18,64.47,0.89
+2017,University,30.0,Tezpur University,Tezpur,Assam,43.78,IR17-I-2-10563,51.89,28.83,62.76,63.05,7.09
+2017,University,31.0,TATA Institute of Social Sciences,Mumbai,Maharashtra,43.71,IR17-I-1-700,51.92,6.59,76.5,85.16,23.31
+2017,University,32.0,Shanmugha Arts Science Technology & Research Academy (SASTRA),Thanjavur,Tamil Nadu,43.5,IR17-I-2-18477,43.1,31.09,68.04,65.18,11.1
+2017,University,33.0,Panjab University,Chandigarh,Chandigarh,43.13,IR17-I-2-1-2814248400,36.7,40.79,66.18,47.4,18.99
+2017,University,34.0,S.R.M Institute of Science and Technology,Chennai,Tamil Nadu,43.07,IR17-I-2-1-596,45.8,25.07,64.33,78.65,10.8
+2017,University,35.0,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,43.06,IR17-I-1-1-249,69.46,11.63,51.78,70.33,13.45
+2017,University,36.0,Mysore University,Mysore,Karnataka,42.83,IR17-I-2-1-457,41.59,20.1,93.17,53.51,3.44
+2017,University,37.0,Pondicherry University,Puducherry,Pondicherry,42.7,IR17-I-2-18424,44.07,26.33,72.73,65.61,4.67
+2017,University,38.0,Tamil Nadu Veterinary & Animal Sciences University,Chennai,Tamil Nadu,42.48,IR17-I-2-1-697,75.08,6.36,61.11,57.5,0.67
+2017,University,39.0,Sri Ramachandra University,Chennai,Tamil Nadu,42.46,IR17-I-2-1-661,68.16,14.1,47.94,73.02,8.86
+2017,University,40.0,Anand Agricultural University,Anand,Gujarat,42.26,IR17-I-2-18276,72.99,5.89,70.24,42.67,2.75
+2017,University,41.0,University of Madras,Chennai,Tamil Nadu,41.85,IR17-I-2-18341,44.22,29.26,62.26,62.75,10.82
+2017,University,42.0,Sri Venkateswara University,Tirupati,Andhra Pradesh,41.48,IR17-I-2-1-668,45.88,24.43,68.72,64.57,1.94
+2017,University,43.0,Andhra University,Visakhapatnam,Andhra Pradesh,41.38,IR17-I-2-1-31,40.32,18.59,80.31,55.75,20.72
+2017,University,44.0,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,41.3,IR17-I-2-18472,42.32,22.17,65.64,77.13,11.08
+2017,University,45.0,Jagadguru Sri Shivarathreeshwara University,Mysore,Karnataka,41.18,IR17-I-2-1-299,55.34,10.32,61.55,76.67,14.99
+2017,University,46.0,Thapar University,Patiala,Punjab,40.78,IR17-I-2-1-2813959492,39.35,29.05,70.16,49.1,13.17
+2017,University,47.0,Dr. D. Y. Patil Vidyapeeth Pune,Pune,Maharashtra,40.59,IR17-I-2-30671,64.52,4.9,60.27,65.47,11.61
+2017,University,48.0,North Eastern Hill University,Shillong,Meghalaya,40.51,IR17-I-2-18409,53.99,11.83,71.52,61.35,3.24
+2017,University,49.0,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,40.47,IR17-I-2-1-336,46.39,12.75,68.53,69.17,20.95
+2017,University,50.0,Guru Angad Dev Veterinary & Animal Sciences University,Ludhiana,Punjab,40.1,IR17-I-2-18214,71.99,10.08,56.99,40.19,0.59
+2017,University,51.0,Dr. Y.S.Parmar University of Horticulture & Forestry,Solan,Himachal Pradesh,39.54,IR17-I-2-1-178,68.64,4.39,65.58,44.54,0.64
+2017,University,52.0,AMITY University,Gautam Budh Nagar,Uttar Pradesh,39.17,IR17-I-2-18259,38.5,23.36,63.06,61.86,18.06
+2017,University,53.0,Banasthali Vidyapith,Banasthali,Rajasthan,38.74,IR17-I-2-18508,37.11,9.99,82.16,74.26,7.46
+2017,University,54.0,Bharati Vidyapeeth,Pune,Maharashtra,38.73,IR17-I-2-18580,48.43,12.95,55.18,62.17,30.64
+2017,University,55.0,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,38.68,IR17-I-2-18474,51.11,11.81,57.85,76.63,5.81
+2017,University,56.0,Annamalai University,Annamalainagar,Tamil Nadu,38.59,IR17-I-2-1-33,39.03,26.87,68.64,47.19,3.67
+2017,University,57.0,Calicut University,Calicut,Kerala,38.45,IR17-I-2-18607,50.3,8.81,72.68,57.08,4.74
+2017,University,58.0,Mizoram University,Aizwal,Mizoram,38.36,IR17-I-2-1-448,52.31,5.27,70.52,69.93,0.03
+2017,University,59.0,Kurukshetra University,Kurushetra,Haryana,38.26,IR17-I-2-1-373,43.43,13.44,79.64,50.37,2.33
+2017,University,60.0,Shiv Nadar University,Chithera,Uttar Pradesh,37.95,IR17-I-2-10933,59.15,9.43,47.7,73.23,5.24
+2017,University,61.0,Symbiosis International University,Pune,Maharashtra,37.67,IR17-I-2-21078,44.8,8.92,60.44,80.33,14.31
+2017,University,62.0,KLE Academy of Higher Education and Research,Belagavi,Karnataka,37.25,IR17-I-2-1-N002,64.13,4.9,49.61,65.54,0.69
+2017,University,63.0,University of Jammu,Jammu Tawi,Jammu And Kashmir,37.23,IR17-I-2-1-2809340824,44.96,17.36,71.1,42.5,0.59
+2017,University,64.0,Goa University-Goa,Goa,Goa,37.16,IR17-I-2-18200,43.69,11.65,68.15,64.16,5.09
+2017,University,65.0,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,Chennai,Tamil Nadu,37.13,IR17-I-2-1-11112,45.32,20.13,43.86,72.48,14.69
+2017,University,66.0,Kalyani University,Kalyani,West Bengal,36.84,IR17-I-2-18305,34.93,20.54,79.69,42.61,0.02
+2017,University,67.0,Mahatma Gandhi Unversity,Kottayam,Kerala,36.79,IR17-I-2-18356,39.81,15.3,73.72,52.78,2.43
+2017,University,68.0,Rajasthan University of Veterinary & Animal Sciences,Bikaner,Rajasthan,36.78,IR17-I-2-18446,58.97,1.52,61.19,63.32,0.6
+2017,University,69.0,Sri Sathya Sai Institute of Higher Learning,Anantapur,Andhra Pradesh,36.75,IR17-I-2-1-663,53.99,3.64,61.44,70.84,0.94
+2017,University,70.0,Meenakshi Academy of Higher Education and Research,Chennai,Tamil Nadu,36.47,IR17-I-2-1-445,56.87,2.75,59.66,66.49,0.09
+2017,University,71.0,Karunya Institute of Technology and Sciences-Coimbatore,Coimbatore,Tamil Nadu,36.44,IR17-I-2-18312,38.08,14.77,60.31,77.36,7.82
+2017,University,72.0,Dayalbagh Educational Institute,Agra,Uttar Pradesh,36.36,IR17-I-2-1-2812766280,51.44,6.21,46.9,81.21,15.65
+2017,University,73.0,University of Kashmir,Srinagar,Jammu And Kashmir,36.32,IR17-I-2-1-351,47.85,16.74,66.95,35.44,0.1
+2017,University,74.0,Dibrugarh University,Dibrugarh,Assam,36.28,IR17-I-2-1-159,43.38,8.35,69.95,66.98,0.68
+2017,University,75.0,Nirma University,Ahmedabad,Gujarat,36.21,IR17-I-2-18406,41.98,9.96,64.47,63.01,14.37
+2017,University,76.0,Rajiv Gandhi University,Rono Hills,Arunachal Pradesh,36.15,IR17-I-2-18449,54.28,3.43,56.43,74.78,0.57
+2017,University,77.0,Madurai Kamraj University,Madurai,Tamil Nadu,36.04,IR17-I-2-18342,43.14,25.87,47.93,54.17,3.33
+2017,University,78.0,Sri Venkateswara Veterinary University,Tirupati,Andhra Pradesh,35.92,IR17-I-2-1-670,60.66,1.04,61.23,51.62,0.05
+2017,University,79.0,Rajasthan University,Jaipur,Rajasthan,35.85,IR17-I-2-1-570,25.62,16.98,89.05,51.99,0.64
+2017,University,80.0,Guru Nanak Dev University,Amritsar,Punjab,35.83,IR17-I-2-18110,28.85,25.31,72.44,46.25,4.65
+2017,University,81.0,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,35.69,IR17-I-2-1-321,35.72,13.91,62.84,78.44,3.91
+2017,University,82.0,Guru Gobind Singh Indraprastha University,Dwarka,Delhi,35.6,IR17-I-2-12969,42.18,14.29,58.33,66.52,3.37
+2017,University,83.0,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,Puducherry,Pondicherry,35.5,IR17-I-2-1-653,60.12,4.67,35.08,86.23,4.34
+2017,University,83.0,NITTE University,Mangalore,Karnataka,35.5,IR17-I-2-18407,56.23,4.89,46.39,74.89,3.95
+2017,University,85.0,Periyar University,Salem,Tamil Nadu,35.44,IR17-I-2-18422,38.13,17.6,59.46,62.4,5.85
+2017,University,86.0,Cochin University of Science and Technology,Cochin,Kerala,35.42,IR17-I-2-18161,40.34,16.39,62.76,56.64,1.89
+2017,University,87.0,Vidyasagar University,Midnapore,West Bengal,35.23,IR17-I-2-15640,35.35,14.01,73.13,57.86,0.03
+2017,University,88.0,Bharathidasan University,Tiruchirappalli,Tamil Nadu,35.14,IR17-I-2-30492,39.08,27.22,46.39,51.66,8.03
+2017,University,89.0,Gandhi Institute of Technology and Management (GITAM),Visakhapatnam,Andhra Pradesh,35.09,IR17-I-2-1-2812182676,44.03,8.2,59.86,59.22,15.35
+2017,University,90.0,Karpagam Academy of Higher Education,Coimbatore,Tamil Nadu,34.86,IR17-I-2-18311,50.69,8.94,51.21,63.92,3.39
+2017,University,91.0,The Gandhigram Rural Institute - Deemed University,Gandhigram,Tamil Nadu,34.56,IR17-I-2-12265,39.88,15.06,58.14,57.62,6.91
+2017,University,92.0,Assam University-Silchar,Silchar,Assam,34.38,IR17-I-2-277952,45.75,12.09,56.02,52.53,5.65
+2017,University,93.0,Jaypee University of Information Technology-Solan,Solan,Himachal Pradesh,34.14,IR17-I-2-18296,33.76,13.92,60.56,74.6,2.61
+2017,University,94.0,PES University,Bengaluru,Karnataka,33.94,IR17-I-2-1-541,42.31,5.84,60.61,60.1,13.75
+2017,University,95.0,University of Allahabad,Allahabad,Uttar Pradesh,33.86,IR17-I-2-18551,22.61,17.9,77.84,58.61,2.84
+2017,University,96.0,Sri Krishnadevaraya University,Anantapur,Andhra Pradesh,33.76,IR17-I-2-1-N001,34.29,7.72,77.37,56.81,0.04
+2017,University,97.0,Alagappa University,Karaikudi,Tamil Nadu,33.66,IR17-I-2-18168,38.56,18.92,49.32,61.29,4.17
+2017,University,98.0,Narsee Monjee Institute of Management Studies -Mumbai,Mumbai,Maharashtra,33.6,IR17-I-2-18385,40.46,8.45,63.88,55.34,6.1
+2017,University,99.0,Jawaharlal Nehru Technological University,Kakinada,Andhra Pradesh,33.44,IR17-I-1-18289,36.81,14.03,60.18,57.19,4.32
+2017,University,100.0,B.S. Abdur Rahman Institute of Science and Technology,Chennai,Tamil Nadu,32.99,IR17-I-2-1-57,42.56,6.33,56.98,63.08,6.07
+2017,Engineering,1.0,Indian Institute of Technology Madras,Chennai,Tamil Nadu,87.96,IR17-ENGG-1-1-77,91.85,92.6,83.78,77.19,81.46
+2017,Engineering,2.0,Indian Institute of Technology Bombay,Mumbai,Maharashtra,87.87,IR17-ENGG-2-18633,91.15,94.68,83.64,69.7,84.24
+2017,Engineering,3.0,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,81.93,IR17-ENGG-2-18630,76.03,89.23,88.02,74.11,73.43
+2017,Engineering,4.0,Indian Institute of Technology Delhi,New Delhi,Delhi,81.08,IR17-ENGG-2-1-79,79.63,89.47,77.45,71.41,77.24
+2017,Engineering,5.0,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,76.83,IR17-ENGG-2-18248,84.28,77.28,74.29,61.35,73.59
+2017,Engineering,6.0,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,73.1,IR17-ENGG-2-18677,72.3,74.36,88.31,70.95,43.47
+2017,Engineering,7.0,Indian Institute of Technology Guwahati,Guwahati,Assam,72.3,IR17-ENGG-2-1-251,89.29,59.98,77.08,80.11,40.95
+2017,Engineering,8.0,Anna University,Chennai,Tamil Nadu,63.97,IR17-ENGG-2-18292,63.62,67.63,67.99,59.71,50.21
+2017,Engineering,9.0,Jadavpur University,Kolkata,West Bengal,62.59,IR17-ENGG-2-10326,59.42,71.38,74.96,49.76,33.82
+2017,Engineering,10.0,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,60.24,IR17-ENGG-2-1-345,82.6,36.21,71.26,73.75,29.72
+2017,Engineering,11.0,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,59.44,IR17-ENGG-1-1-370,62.0,46.27,74.38,75.81,45.04
+2017,Engineering,12.0,National Institute of Technology Rourkela,Rourkela,Odisha,58.78,IR17-ENGG-2-1-140,64.21,49.22,80.12,68.07,19.23
+2017,Engineering,13.0,Vellore Institute of Technology,Vellore,Tamil Nadu,58.16,IR17-ENGG-2-18572,56.49,54.02,64.91,75.56,44.6
+2017,Engineering,14.0,Institute of Chemical Technology,Mumbai,Maharashtra,57.97,IR17-ENGG-2-18261,70.35,47.58,74.25,59.54,17.8
+2017,Engineering,15.0,Indian Institute of Technology Indore,Indore,Madhya Pradesh,57.7,IR17-ENGG-2-1-346,83.73,32.72,70.72,75.64,10.64
+2017,Engineering,16.0,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,55.43,IR17-ENGG-2-18599,66.15,35.05,70.27,59.86,50.32
+2017,Engineering,17.0,"Indian Institute of Engineering Science And Technology, Shibpur",Howrah,West Bengal,54.42,IR17-ENGG-2-18690,71.02,40.3,59.43,58.47,32.82
+2017,Engineering,18.0,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,54.32,IR17-ENGG-1-18627,79.66,28.87,63.69,76.69,13.5
+2017,Engineering,19.0,Indian Institute of Technology Patna,Patna,Bihar,54.02,IR17-ENGG-2-1-344,74.78,27.7,72.78,72.78,14.35
+2017,Engineering,20.0,Jamia Millia Islamia,New Delhi,Delhi,53.7,IR17-ENGG-1-10356,60.01,38.73,80.24,73.39,6.92
+2017,Engineering,21.0,Indian Institute of Technology Ropar,Rupnagar,Punjab,52.93,IR17-ENGG-2-1-340,78.92,27.63,62.97,76.06,7.68
+2017,Engineering,22.0,National Institute of Technology Surathkal,Surathkal,Karnataka,52.87,IR17-ENGG-1-1-493,62.53,32.6,73.71,64.28,31.56
+2017,Engineering,23.0,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,52.58,IR17-ENGG-1-18632,57.19,40.14,69.42,67.49,27.52
+2017,Engineering,24.0,"College of Engineering, Pune",Pune,Maharashtra,52.14,IR17-ENGG-1-1-2809541361,70.56,24.47,70.09,69.81,26.33
+2017,Engineering,25.0,Shanmugha Arts Science Technology & Research Academy (SASTRA),Thanjavur,Tamil Nadu,51.44,IR17-ENGG-2-18477,62.38,36.31,67.32,67.13,16.73
+2017,Engineering,26.0,Thapar University,Patiala,Punjab,51.35,IR17-ENGG-2-1-2813959492,56.85,41.77,73.33,52.08,18.9
+2017,Engineering,27.0,Sri Sivasubrmaniya Nadar College of Engineering,Kalavakkam,Tamil Nadu,50.77,IR17-ENGG-1-1-2811256746,74.22,24.88,65.82,61.56,17.17
+2017,Engineering,28.0,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,50.6,IR17-ENGG-1-1-249,81.23,14.74,60.24,70.29,27.33
+2017,Engineering,28.0,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,50.6,IR17-ENGG-2-18639,78.98,17.99,66.78,74.26,7.24
+2017,Engineering,30.0,Indian Institute of Technology Gandhinagar,Ahmedabad,Gujarat,50.43,IR17-ENGG-1-18628,79.73,14.41,59.25,75.94,27.54
+2017,Engineering,31.0,"Indian Institute of Technology (Banaras Hindu University), Varanasi",Varanasi,Uttar Pradesh,49.92,IR17-ENGG-2-18672,61.22,25.36,71.67,59.03,37.11
+2017,Engineering,31.0,Birla Institute of Technology,Ranchi,Jharkhand,49.92,IR17-ENGG-2-1-2811781771,65.59,29.36,64.22,72.08,13.8
+2017,Engineering,33.0,PSG College of Technology,Coimbatore,Tamil Nadu,49.49,IR17-ENGG-1-2811179135,66.54,23.64,57.05,62.81,47.48
+2017,Engineering,34.0,National Institute of Technology Warangal,Warangal,Telangana,49.47,IR17-ENGG-2-18622,66.94,25.44,68.92,65.85,14.01
+2017,Engineering,35.0,S.R.M Institute of Science and Technology,Chennai,Tamil Nadu,49.2,IR17-ENGG-2-1-596,59.75,31.69,57.93,82.94,18.79
+2017,Engineering,36.0,"National Institute of Industrial Engineering, Mumbai",Mumbai,Maharashtra,47.47,IR17-ENGG-2-1-NEW5,80.8,1.25,71.62,77.94,7.54
+2017,Engineering,37.0,Thiagarajar College of Engineering,Madurai,Tamil Nadu,47.01,IR17-ENGG-2-1-2811366803,66.01,26.76,57.78,59.0,17.18
+2017,Engineering,38.0,Pondicherry Engineering College,Puducherry,Pondicherry,46.37,IR17-ENGG-1-11736,66.45,20.44,69.4,61.68,2.54
+2017,Engineering,39.0,Delhi Technological University,New Delhi,Delhi,46.19,IR17-ENGG-2-12907,50.95,24.48,72.9,67.16,22.64
+2017,Engineering,40.0,Zakir Husain College of Engineering & Technology,Aligarh,Uttar Pradesh,46.18,IR17-ENGG-2-10949,71.3,33.57,47.24,48.05,4.57
+2017,Engineering,41.0,Motilal Nehru National Institute of Technology,Allahabad,Uttar Pradesh,45.68,IR17-ENGG-2-1-357,56.0,30.32,66.14,56.74,8.82
+2017,Engineering,42.0,"Visvesvaraya National Institute of Technology, Nagpur (Deemed University)",Nagpur,Maharashtra,45.52,IR17-ENGG-1-1-225,60.59,21.88,61.04,69.96,15.72
+2017,Engineering,43.0,Manipal Institute of Technology,Manipal,Karnataka,45.38,IR17-ENGG-1-1-2816307230,70.66,11.94,59.32,63.31,24.06
+2017,Engineering,44.0,National Institute of Technology Calicut,Calicut,Kerala,44.5,IR17-ENGG-2-18613,53.28,21.15,60.77,73.98,26.25
+2017,Engineering,45.0,M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,44.35,IR17-ENGG-1-1-2811981253,67.06,13.09,65.46,62.97,9.07
+2017,Engineering,46.0,AMITY University,Gautam Budh Nagar,Uttar Pradesh,44.16,IR17-ENGG-2-18259,60.02,29.5,51.14,61.36,9.43
+2017,Engineering,47.0,Kalinga Institute of Industrial Technology,Bhubneshwar,Odisha,43.68,IR17-ENGG-2-1-336,52.55,14.08,71.82,66.05,27.39
+2017,Engineering,48.0,Sri Venkateswara University,Tirupati,Andhra Pradesh,43.53,IR17-ENGG-2-1-668,54.81,33.56,54.93,55.88,4.42
+2017,Engineering,49.0,R.V. College of Engineering,Bengaluru,Karnataka,43.42,IR17-ENGG-1-29885,69.03,12.13,60.62,54.58,14.86
+2017,Engineering,50.0,Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,43.3,IR17-ENGG-1-18659,50.43,28.91,61.07,62.28,10.65
+2017,Engineering,51.0,Coimbatore Institute of Technology,Coimbatore,Tamil Nadu,43.29,IR17-ENGG-1-11716,62.88,14.72,57.41,68.04,17.42
+2017,Engineering,52.0,B.M.S. College of Engineering,Bengaluru,Karnataka,42.86,IR17-ENGG-2-1-2812016223,68.76,5.48,62.43,68.13,12.85
+2017,Engineering,53.0,National Institute of Technology Silchar,Silchar,Assam,42.73,IR17-ENGG-1-18612,61.17,18.43,59.99,58.3,10.17
+2017,Engineering,54.0,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,42.63,IR17-ENGG-2-1-321,51.11,19.82,64.97,81.02,2.63
+2017,Engineering,55.0,National Institute of Technology Durgapur,Durgapur,West Bengal,42.56,IR17-ENGG-2-18649,48.09,34.95,50.88,57.93,16.69
+2017,Engineering,56.0,"Indraprastha Institute of Information Technology-New Delhi (IIIT New Delhi, Delhi)",New Delhi,Delhi,42.55,IR17-ENGG-1-18257,48.55,20.83,70.69,55.41,20.45
+2017,Engineering,57.0,Kongu Engineering College,Perundurai,Tamil Nadu,42.43,IR17-ENGG-1-12121,60.47,13.96,60.8,62.39,17.04
+2017,Engineering,58.0,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,Chennai,Tamil Nadu,42.31,IR17-ENGG-2-1-11112,60.49,23.07,42.07,73.59,14.68
+2017,Engineering,59.0,National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,42.02,IR17-ENGG-2-18615,55.11,19.99,62.59,67.66,1.95
+2017,Engineering,60.0,National Institute of Technology Kurukshetra,Kurukshetra,Haryana,41.61,IR17-ENGG-1-1-144,52.27,28.6,53.5,58.03,8.53
+2017,Engineering,61.0,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,41.25,IR17-ENGG-2-1-441,51.97,13.74,71.45,65.33,7.2
+2017,Engineering,62.0,Karunya Institute of Technology and Sciences-Coimbatore,Coimbatore,Tamil Nadu,40.97,IR17-ENGG-2-18312,54.14,20.06,49.83,77.68,9.66
+2017,Engineering,63.0,Jawaharlal Nehru Technological University,Hyderabad,Telangana,40.45,IR17-ENGG-1-18288,54.92,17.44,63.55,55.51,4.82
+2017,Engineering,64.0,Shri Ramdeobaba College of Engineering and Management,District Nagpur,Maharashtra,40.36,IR17-ENGG-2-24411,64.46,2.11,56.14,70.19,21.36
+2017,Engineering,65.0,Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,40.2,IR17-ENGG-1-18631,68.8,8.51,50.37,60.47,8.9
+2017,Engineering,66.0,Bharati Vidyapeeth Deemed University College of Engineering,Pune,Maharashtra,40.18,IR17-ENGG-2-10518,59.88,2.45,58.41,72.03,25.99
+2017,Engineering,67.0,"G. H. Raisoni College of Engineering, NAGPUR",Nagpur,Maharashtra,39.87,IR17-ENGG-2-12233,52.12,8.9,55.53,69.84,34.72
+2017,Engineering,68.0,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,39.64,IR17-ENGG-1-11519,58.15,12.72,54.89,66.69,7.28
+2017,Engineering,69.0,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur",Jabalpur,Madhya Pradesh,39.46,IR17-ENGG-2-1-424,45.09,20.91,62.1,69.27,3.13
+2017,Engineering,70.0,"Malaviya National Institute of Technology, Jaipur",Jaipur,Rajasthan,39.38,IR17-ENGG-2-18620,50.94,25.26,52.53,53.47,6.62
+2017,Engineering,70.0,Dhirubhai Ambani Institute of Information and Communication Technology,Gandhinagar,Gujarat,39.38,IR17-ENGG-1-18173,55.93,7.81,60.31,70.52,11.47
+2017,Engineering,72.0,Siddaganga Institute of Technology,Tumkur,Karnataka,39.36,IR17-ENGG-1-1-2812032529,64.56,5.41,59.89,59.86,4.0
+2017,Engineering,73.0,Mepco Schlenk Engineering College,Sivakasi,Tamil Nadu,39.21,IR17-ENGG-2-1-2811134396,54.66,11.5,60.25,60.08,13.05
+2017,Engineering,74.0,Guru Gobind Singh Indraprastha University,Dwarka,Delhi,39.16,IR17-ENGG-2-12969,51.63,25.78,53.25,49.44,3.45
+2017,Engineering,75.0,International Institute of Information Technology,Hyderabad,Telangana,38.95,IR17-ENGG-1-1-2812988445,40.86,24.99,62.56,51.3,15.51
+2017,Engineering,76.0,"Faculty of Technology & Engineering, The Maharaja Sayajirao University of Baroda",Vadodara,Gujarat,38.81,IR17-ENGG-1-17931,58.28,16.62,52.82,48.97,8.81
+2017,Engineering,77.0,Army Institute of Technology,Pune,Maharashtra,38.7,IR17-ENGG-1-1-2809338810,54.85,1.05,67.36,76.35,8.24
+2017,Engineering,78.0,"PSNA College of Engineering and Technology, Dindigul",Dindigul,Tamil Nadu,38.27,IR17-ENGG-1-1-2811457679,56.27,7.1,57.06,65.64,12.9
+2017,Engineering,79.0,Nirma University,Ahmedabad,Gujarat,38.07,IR17-ENGG-2-18406,54.77,13.56,54.21,56.89,10.38
+2017,Engineering,80.0,University College of Engineering,Hyderabad,Telangana,38.06,IR17-ENGG-1-1-2814018067,61.64,2.55,63.13,59.62,2.12
+2017,Engineering,81.0,Sagi Ramakrishnam Raju Engineering College,Bhimavaram,Andhra Pradesh,37.88,IR17-ENGG-2-1-2813435762,58.45,0.83,56.33,71.44,16.85
+2017,Engineering,82.0,Kumaraguru College of Technology,Coimbatore,Tamil Nadu,37.74,IR17-ENGG-2-1-2456189964,58.07,6.31,58.34,59.69,7.88
+2017,Engineering,83.0,Jaypee University of Information Technology-Solan,Solan,Himachal Pradesh,37.46,IR17-ENGG-2-18296,49.84,13.87,52.03,76.54,2.91
+2017,Engineering,84.0,R.M.K. Engineering College,Kavaraipettai,Tamil Nadu,37.45,IR17-ENGG-1-1-2811165868,60.64,4.51,55.86,61.68,5.67
+2017,Engineering,85.0,Punjab Engineering College,Chandigarh,Chandigarh,37.44,IR17-ENGG-1-1-556,51.52,6.65,60.52,62.62,16.34
+2017,Engineering,86.0,PES University,Bengaluru,Karnataka,37.31,IR17-ENGG-2-1-541,52.98,8.51,56.54,58.95,16.59
+2017,Engineering,87.0,National Institute of Technology Manipur,Manipur,Manipur,37.27,IR17-ENGG-2-18392,62.72,0.68,54.18,70.89,3.19
+2017,Engineering,88.0,"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,37.11,IR17-ENGG-1-18575,57.25,2.82,48.23,70.42,23.89
+2017,Engineering,89.0,B.S. Abdur Rahman Institute of Science and Technology,Chennai,Tamil Nadu,36.97,IR17-ENGG-2-1-57,62.6,9.92,42.97,62.83,3.51
+2017,Engineering,90.0,Chaitanya Bharathi Institute of Technology,Hyderabad,Telangana,36.93,IR17-ENGG-2-10487,58.85,1.35,57.79,65.58,7.45
+2017,Engineering,91.0,Saveetha Engineering College,Sriperumbudur,Tamil Nadu,36.88,IR17-ENGG-2-15188,49.94,4.73,64.45,70.27,5.64
+2017,Engineering,92.0,C.V. Raman College of Engineering,Bhubneshwar,Odisha,36.82,IR17-ENGG-1-26228,52.53,5.51,49.95,72.48,21.66
+2017,Engineering,93.0,College of Engineering Trivandrum,Thiruvananthapuram,Kerala,36.8,IR17-ENGG-2-10284,49.73,9.47,55.11,62.08,18.11
+2017,Engineering,94.0,"Maharashtra Institute of Technology, Pune",Pune,Maharashtra,36.75,IR17-ENGG-2-10476,62.7,3.4,52.13,63.39,1.46
+2017,Engineering,95.0,BMS Institute of Technology & Management,Bengaluru,Karnataka,36.67,IR17-ENGG-1-12784,60.5,5.27,50.66,62.29,5.78
+2017,Engineering,96.0,Sri Sai Ram Engineering College,Chennai,Tamil Nadu,36.64,IR17-ENGG-2-12411,54.19,3.84,59.32,68.75,4.86
+2017,Engineering,97.0,ST. Joseph's College of Engineering,Chennai,Tamil Nadu,36.51,IR17-ENGG-2-12581,59.47,6.74,49.39,64.92,2.8
+2017,Engineering,98.0,Andhra University,Visakhapatnam,Andhra Pradesh,36.42,IR17-ENGG-2-1-31,41.94,15.81,66.86,48.27,9.03
+2017,Engineering,99.0,K.S.Rangasamy College of Technology,Tiruchengode,Tamil Nadu,36.4,IR17-ENGG-2-1-2810997882,53.78,14.29,46.44,60.98,5.85
+2017,Engineering,100.0,National Institute of Technology Meghalaya,Shillong,Meghalaya,36.21,IR17-ENGG-2-1-365,62.02,4.12,48.34,60.6,6.29
+2017,Management,1.0,Indian Institute of Management Ahmedabad,Ahmedabad,Gujarat,78.96,IR17-MGMT-1-18698,90.71,51.44,90.36,85.77,96.73
+2017,Management,2.0,Indian Institute of Management Bangalore,Bengaluru,Karnataka,78.82,IR17-MGMT-1-1-217,84.48,62.56,91.33,87.05,77.37
+2017,Management,3.0,Indian Institute of Management Calcutta,Kolkata,West Bengal,76.6,IR17-MGMT-1-18700,90.96,48.43,98.27,80.66,70.61
+2017,Management,4.0,Indian Institute of Management Lucknow,Lucknow,Uttar Pradesh,71.58,IR17-MGMT-1-18704,84.81,45.72,90.61,88.72,54.34
+2017,Management,5.0,Indian Institute of Management Kozhikode,Kozhikode,Kerala,65.41,IR17-MGMT-1-18703,79.51,36.43,89.49,77.49,49.85
+2017,Management,6.0,Indian Institute of Technology Delhi,New Delhi,Delhi,64.51,IR17-MGMT-2-1-79,57.81,83.82,69.82,58.59,22.0
+2017,Management,7.0,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,63.12,IR17-MGMT-2-18630,54.56,70.62,82.38,71.74,19.15
+2017,Management,8.0,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,62.46,IR17-MGMT-2-18677,58.23,72.93,79.69,61.93,9.84
+2017,Management,9.0,Xavier Labour Relations Institute (XLRI),Jamshedpur,Jharkhand,61.08,IR17-MGMT-1-15637,84.78,23.89,91.33,57.88,44.24
+2017,Management,10.0,Indian Institute of Management Indore,Indore,Madhya Pradesh,59.59,IR17-MGMT-1-1-231,66.15,32.09,88.02,84.78,40.28
+2017,Management,11.0,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,57.19,IR17-MGMT-2-18248,79.59,44.28,68.57,47.06,16.06
+2017,Management,12.0,"National Institute of Industrial Engineering, Mumbai",Mumbai,Maharashtra,55.74,IR17-MGMT-2-1-NEW5,76.38,24.65,83.04,74.75,13.57
+2017,Management,13.0,Indian Institute of Management Tiruchirappalli,Tiruchirappalli,Tamil Nadu,55.46,IR17-MGMT-1-1-18708,77.37,12.15,85.2,81.63,34.11
+2017,Management,14.0,Indian Institute of Management Raipur,Raipur,Chhattisgarh,54.8,IR17-MGMT-1-1-348,78.16,19.78,84.56,68.88,16.16
+2017,Management,15.0,Indian Institute of Management Udaipur,Udaipur,Rajasthan,53.77,IR17-MGMT-1-18709,74.85,16.11,80.12,90.63,14.11
+2017,Management,16.0,Management Development Institute,Gurgaon,Haryana,53.12,IR17-MGMT-1-16147,78.11,15.84,89.08,53.1,18.11
+2017,Management,17.0,Vellore Institute of Technology,Vellore,Tamil Nadu,51.83,IR17-MGMT-2-18572,59.74,33.97,64.27,79.33,29.36
+2017,Management,18.0,S. P. Jain Institute of Management & Research,Mumbai,Maharashtra,51.42,IR17-MGMT-1-1-2809233566,66.39,18.97,88.48,55.65,25.45
+2017,Management,19.0,Indian Institute of Management Rohtak,Rohtak,Haryana,51.16,IR17-MGMT-1-1-350,63.67,26.86,81.84,69.04,7.35
+2017,Management,20.0,Indian Institute of Management Kashipur,Kashipur,Uttarakhand,51.07,IR17-MGMT-1-1-347,77.81,7.97,82.97,75.17,12.26
+2017,Management,21.0,Rajiv Gandhi Indian Institute of Management,Shillong,Meghalaya,50.44,IR17-MGMT-1-18710,78.22,7.68,83.07,66.8,13.84
+2017,Management,22.0,Kalinga Institute of Industrial Technology,Bhubneshwar,Odisha,50.43,IR17-MGMT-2-1-336,69.11,15.48,77.6,70.6,24.83
+2017,Management,23.0,Anna University,Chennai,Tamil Nadu,49.81,IR17-MGMT-2-18292,49.78,61.17,46.32,44.65,27.9
+2017,Management,24.0,"Institute of Management Technology, Ghaziabad",Ghaziabad,Uttar Pradesh,48.77,IR17-MGMT-1-1-2812245434,57.23,27.33,82.51,62.6,6.44
+2017,Management,25.0,Indian Institute of Management Ranchi,Ranchi,Jharkhand,48.7,IR17-MGMT-1-1-349,64.12,7.5,84.81,85.69,16.81
+2017,Management,26.0,PSG College of Technology,Coimbatore,Tamil Nadu,48.32,IR17-MGMT-1-2811179135,61.27,22.24,72.09,59.7,28.79
+2017,Management,27.0,International Management Institute,New Delhi,Delhi,48.23,IR17-MGMT-1-1-2813919609,70.4,17.11,75.72,59.69,8.75
+2017,Management,28.0,Banaras Hindu University,Varanasi,Uttar Pradesh,47.96,IR17-MGMT-2-18500,68.07,16.1,70.78,72.57,12.94
+2017,Management,29.0,Institute of Rural Management Anand,Anand,Gujarat,47.83,IR17-MGMT-1-1-2813047178,67.85,8.1,80.92,82.1,6.51
+2017,Management,30.0,Indian Institute of Foreign Trade,New Delhi,Delhi,46.79,IR17-MGMT-1-18239,55.34,22.58,72.16,55.03,34.93
+2017,Management,31.0,Nirma University,Ahmedabad,Gujarat,45.81,IR17-MGMT-2-18406,71.75,6.29,69.7,62.01,22.63
+2017,Management,32.0,Indian Institute of Forest Management,Bhopal,Madhya Pradesh,44.96,IR17-MGMT-1-1-2811797143,72.47,3.18,69.99,67.37,15.26
+2017,Management,33.0,Xavier University,Bhuabaneswar,Odisha,44.85,IR17-MGMT-2-18584,54.06,21.69,82.08,47.74,9.35
+2017,Management,34.0,Narsee Monjee Institute of Management Studies -Mumbai,Mumbai,Maharashtra,44.81,IR17-MGMT-2-18385,52.22,16.33,76.89,65.04,23.58
+2017,Management,35.0,Guru Gobind Singh Indraprastha University,Dwarka,Delhi,44.51,IR17-MGMT-2-12969,61.43,18.42,70.98,59.7,3.77
+2017,Management,35.0,Fore School of Management,New Delhi,Delhi,44.51,IR17-MGMT-1-1-2814097839,70.46,5.87,80.25,52.79,2.82
+2017,Management,37.0,Goa Institute of Management,"Poriem, Sattari",Goa,44.06,IR17-MGMT-1-15450,66.57,2.75,81.36,65.2,4.69
+2017,Management,38.0,Institute for Financial Management and Research,Satyavedu,Andhra Pradesh,43.6,IR17-MGMT-1-16716,58.43,3.72,83.21,82.79,0.26
+2017,Management,39.0,Tezpur University,Tezpur,Assam,43.29,IR17-MGMT-2-10563,56.73,12.35,75.47,68.95,5.85
+2017,Management,40.0,Bharati Vidyapeeth?s Institute of Management and Entrepreneurship Development,Pune,Maharashtra,42.85,IR17-MGMT-1-15764,65.65,2.24,62.89,70.21,28.76
+2017,Management,41.0,K.J. Somaiya Institute of Management Studies & Reserach,Mumbai,Maharashtra,42.17,IR17-MGMT-1-1-2809771998,63.16,5.6,75.52,47.95,16.44
+2017,Management,42.0,Sri Krishna College of Engineering and Technology,Coimbatore,Tamil Nadu,42.08,IR17-MGMT-2-1-2811092269,58.21,7.06,64.4,71.17,25.0
+2017,Management,43.0,"Jaipuria Institute of Management, Noida",Noida,Uttar Pradesh,41.92,IR17-MGMT-1-1-2812648366,66.3,4.56,75.02,50.06,6.49
+2017,Management,44.0,Shanmugha Arts Science Technology & Research Academy (SASTRA),Thanjavur,Tamil Nadu,41.9,IR17-MGMT-2-18477,59.91,9.0,71.11,64.32,5.79
+2017,Management,45.0,Birla Institute of Management Technology,Greater Noida,Uttar Pradesh,41.76,IR17-MGMT-1-1-2812588086,59.56,6.9,74.88,59.98,8.39
+2017,Management,46.0,Prin. L.N. Welingkar Institute of Management Development & Research,Mumbai,Maharashtra,41.27,IR17-MGMT-1-14004,62.69,5.06,73.72,54.08,7.89
+2017,Management,47.0,MIT School of Telecom Management,Pune,Maharashtra,40.94,IR17-MGMT-1-15717,60.37,0.12,73.76,79.87,0.48
+2017,Management,48.0,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Gwalior,Madhya Pradesh,40.51,IR17-MGMT-2-18625,47.67,22.86,51.31,80.58,10.3
+2017,Management,49.0,"International Management Institute, Kolkata",Kolkata,West Bengal,40.4,IR17-MGMT-1-2811862299,67.42,12.58,56.58,48.85,1.92
+2017,Management,50.0,Xavier Institute of Management & Entrepreneurship,Bengaluru,Karnataka,40.07,IR17-MGMT-1-1-2811763720,49.39,0.15,78.36,84.82,10.56
+2017,Pharmacy,1.0,Jamia Hamdard,New Delhi,Delhi,73.64,IR17-PHRM-2-17784,62.25,90.03,85.45,59.05,49.7
+2017,Pharmacy,2.0,"National Institute of Pharmaceutical Education and Research, Mohali",S.A.S. Nagar (Mohali),Punjab,73.18,IR17-PHRM-1-1-NIP-1,71.97,80.91,69.53,70.26,63.84
+2017,Pharmacy,3.0,University Institute of Pharmaceutical Sciences,Chandigarh,Chandigarh,69.59,IR17-PHRM-2-18023,68.01,57.93,87.0,90.44,53.75
+2017,Pharmacy,4.0,Institute of Chemical Technology,Mumbai,Maharashtra,65.67,IR17-PHRM-2-18261,75.12,64.44,65.19,60.6,46.98
+2017,Pharmacy,5.0,"National Institute of Pharmaceutical Education and Research, Hyderabad",Hyderabad,Telangana,65.14,IR17-PHRM-2-18693,88.8,44.84,65.74,77.3,41.71
+2017,Pharmacy,6.0,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,64.79,IR17-PHRM-2-18599,69.09,57.7,75.2,55.81,61.34
+2017,Pharmacy,7.0,Manipal College of Pharmaceutical Sciences,Manipal,Karnataka,59.64,IR17-PHRM-1-1-2812279307,74.94,41.95,56.0,65.21,68.5
+2017,Pharmacy,8.0,"Poona College of Pharmacy, Erandwane, Pune",Pune,Maharashtra,54.69,IR17-PHRM-1-1-2816342749,62.33,39.08,57.71,70.28,57.02
+2017,Pharmacy,9.0,S.R.M Institute of Science and Technology,Chennai,Tamil Nadu,54.28,IR17-PHRM-2-1-596,58.35,51.02,58.17,74.65,23.81
+2017,Pharmacy,10.0,JSS College of Pharmacy,Mysore,Karnataka,52.83,IR17-PHRM-1-17445,58.78,31.95,54.39,86.27,61.08
+2017,Pharmacy,11.0,Dr. Harisingh Gour Vishwavidyalaya-Sagar,Sagar,Madhya Pradesh,51.13,IR17-PHRM-1-22,42.06,63.2,40.57,64.03,50.37
+2017,Pharmacy,12.0,Birla Institute of Technology,Ranchi,Jharkhand,51.09,IR17-PHRM-2-1-2811781771,67.49,43.97,38.74,61.74,37.3
+2017,Pharmacy,13.0,Annamalai University,Annamalainagar,Tamil Nadu,50.91,IR17-PHRM-2-1-33,53.2,62.41,49.88,47.95,14.53
+2017,Pharmacy,14.0,Delhi Institute of Pharmaceutical Sciences and Research,New Delhi,Delhi,48.44,IR17-PHRM-1-17860,55.67,22.31,68.27,61.39,52.64
+2017,Pharmacy,15.0,Bombay College of Pharmacy,Mumbai,Maharashtra,47.87,IR17-PHRM-1-1-2809301801,62.57,28.35,48.81,50.39,58.0
+2017,Pharmacy,16.0,Nirma University,Ahmedabad,Gujarat,47.57,IR17-PHRM-2-18406,59.32,33.29,52.74,65.97,26.27
+2017,Pharmacy,17.0,JSS College of Pharmacy,Ootacamund,Tamil Nadu,47.13,IR17-PHRM-1-17497,48.44,25.86,60.67,74.65,52.5
+2017,Pharmacy,18.0,Andhra University,Visakhapatnam,Andhra Pradesh,46.25,IR17-PHRM-2-1-31,48.49,42.54,51.34,60.2,26.52
+2017,Pharmacy,19.0,Sri Ramachandra University,Chennai,Tamil Nadu,45.97,IR17-PHRM-2-1-661,64.04,31.42,31.83,71.07,38.54
+2017,Pharmacy,20.0,Banasthali Vidyapith,Banasthali,Rajasthan,45.76,IR17-PHRM-2-18508,53.1,25.57,73.17,65.64,9.68
+2017,Pharmacy,21.0,I.S. F. College of Pharmacy,Moga,Punjab,45.13,IR17-PHRM-1-17804,47.59,50.59,40.21,57.42,18.86
+2017,Pharmacy,22.0,"Department of Pharmaceutical Sciences, Dibrugarh University",Dibrugarh,Assam,45.12,IR17-PHRM-1-17138,52.26,40.24,56.46,48.3,12.48
+2017,Pharmacy,23.0,L. M. College of Pharmacy,Ahmedabad,Gujarat,44.4,IR17-PHRM-1-17207,65.76,9.59,61.08,56.96,38.72
+2017,Pharmacy,24.0,Y. B. Chavan College of Pharmacy,Aurangabad,Maharashtra,41.85,IR17-PHRM-1-17689,55.29,15.24,56.83,57.32,35.86
+2017,Pharmacy,25.0,Integral University,Lucknow,Uttar Pradesh,41.57,IR17-PHRM-2-18265,54.92,32.74,40.78,62.05,9.07
+2017,Pharmacy,26.0,Acharya Nagarjuna University College of Pharmaceutical Sciences,Guntur,Andhra Pradesh,41.5,IR17-PHRM-1-18020,47.76,29.61,59.8,57.61,5.69
+2017,Pharmacy,27.0,N.G.S.M.Institute of Pharmaceutical Sciences,Mangalore,Karnataka,40.63,IR17-PHRM-1-1-2811891107,54.3,9.22,52.18,80.96,30.3
+2017,Pharmacy,28.0,"Department of Pharmaceutical Sciences, Maharshi Dayanand University, Rohtak.",Rohtak,Haryana,40.53,IR17-PHRM-1-17868,50.85,24.79,44.38,67.11,22.45
+2017,Pharmacy,29.0,Prin.K.M.Kundnani College of Pharmacy,Mumbai,Maharashtra,40.37,IR17-PHRM-1-17747,54.83,17.65,51.98,56.77,25.39
+2017,Pharmacy,30.0,Goa College of Pharmacy,Panaji,Goa,40.01,IR17-PHRM-1-1-2809439609,66.17,1.9,57.14,55.21,26.37
+2017,Pharmacy,31.0,Devi Ahilya Vishwavidyalaya,Indore,Madhya Pradesh,39.2,IR17-PHRM-2-1-155,52.97,16.8,48.27,62.99,23.16
+2017,Pharmacy,32.0,"Sanjivani College of Pharmaceutical Education and Research, Kopargaon",Kopargaon,Maharashtra,38.44,IR17-PHRM-1-17659,59.98,9.09,53.6,70.0,0.03
+2017,Pharmacy,33.0,"College of Pharmacy, Madras Medical College",Chennai,Tamil Nadu,38.34,IR17-PHRM-1-17136,53.18,15.54,39.6,70.0,28.13
+2017,Pharmacy,34.0,Smt. Kishoritai Bhoyar College of Pharmacy,Kamptee,Maharashtra,38.2,IR17-PHRM-1-17848,63.7,8.93,48.84,62.94,3.49
+2017,Pharmacy,35.0,Guru Ghasidas Vishwavidyalaya,Bilaspur,Chhattisgarh,38.1,IR17-PHRM-2-18215,67.94,17.87,34.35,45.94,9.02
+2017,Pharmacy,36.0,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",Kolhapur,Maharashtra,37.67,IR17-PHRM-1-1-2809406046,54.35,7.77,44.58,61.5,39.57
+2017,Pharmacy,37.0,KLE Academy of Higher Education and Research,Belagavi,Karnataka,37.61,IR17-PHRM-2-1-N002,61.47,13.43,42.63,56.8,9.25
+2017,Pharmacy,38.0,R. C. Patel Institute of Pharmaceutical Education & Research,Shirpur,Maharashtra,37.53,IR17-PHRM-1-1-2809276349,56.58,18.06,39.27,61.89,10.91
+2017,Pharmacy,39.0,Shoolini University of Biotechnology and Management Sciences-Solan,Solan,Himachal Pradesh,37.45,IR17-PHRM-2-1-629,46.47,16.88,57.11,48.71,21.56
+2017,Pharmacy,40.0,Padmashree Dr D Y Patil Institute of Pharmaceutical Sciences and Research,Pune,Maharashtra,37.42,IR17-PHRM-1-22444,60.63,4.09,43.42,69.48,23.67
+2017,Pharmacy,41.0,P. E. Society's Modern College of Pharmacy,Pune,Maharashtra,37.06,IR17-PHRM-1-17165,53.03,18.15,41.74,64.01,9.48
+2017,Pharmacy,42.0,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,Mumbai,Maharashtra,36.93,IR17-PHRM-1-17092,54.66,12.47,60.46,46.68,0.28
+2017,Pharmacy,43.0,Narsee Monjee Institute of Management Studies -Mumbai,Mumbai,Maharashtra,36.64,IR17-PHRM-2-18385,50.22,15.85,48.31,49.61,21.98
+2017,Pharmacy,44.0,Guru Jambeshwar University of Science and Technology,Hissar,Haryana,36.59,IR17-PHRM-2-1-216,59.35,25.41,14.44,58.42,24.34
+2017,Pharmacy,45.0,Institute of Pharmaceutical Education and Research,Wardha,Maharashtra,36.28,IR17-PHRM-1-17169,52.27,26.25,28.56,65.08,5.11
+2017,Pharmacy,46.0,PSG College of Pharmacy,Coimbatore,Tamil Nadu,36.21,IR17-PHRM-1-17491,53.15,14.0,41.46,69.95,7.7
+2017,Pharmacy,47.0,MVP Samaj's College of Pharmacy,Nashik,Maharashtra,36.11,IR17-PHRM-1-23151,55.37,1.47,54.42,69.38,12.4
+2017,Pharmacy,48.0,Chalapathi Institute of Pharmaceutical Sciences,Guntur,Andhra Pradesh,36.1,IR17-PHRM-1-1-2813272662,55.93,6.16,45.87,67.21,15.81
+2017,Pharmacy,49.0,Gurunanak College of Pharmacy,Nagpur,Maharashtra,35.99,IR17-PHRM-1-1-2815712186,61.31,6.77,44.87,65.0,0.98
+2017,Pharmacy,50.0,AISSMS College of Pharmacy,Pune,Maharashtra,35.7,IR17-PHRM-1-17746,53.59,15.65,39.19,63.11,7.66
+2017,College,1.0,Miranda House,Delhi,Delhi,69.39,IR17-COLL-1-29115,75.76,27.44,90.06,96.45,41.82
+2017,College,2.0,Loyola College,District Chennai,Tamil Nadu,68.68,IR17-COLL-2-959129,66.92,100.0,48.42,56.45,80.45
+2017,College,3.0,Shri Ram College of Commerce,Delhi,Delhi,67.18,IR17-COLL-2-29134,77.63,0.2,97.51,93.8,53.98
+2017,College,4.0,Bishop Heber College,District Tiruchirapalli,Tamil Nadu,61.18,IR17-COLL-1-19387,76.62,53.99,61.28,68.11,18.63
+2017,College,5.0,Atma Ram Sanatan Dharma College,New Delhi,Delhi,60.68,IR17-COLL-2-21799,74.22,30.54,79.6,82.51,0.21
+2017,College,6.0,St. Xavier`s College,Kolkata,West Bengal,59.12,IR17-COLL-2-20078,64.23,36.86,74.17,56.32,54.92
+2017,College,7.0,Lady Shri Ram College for Women,New Delhi,Delhi,58.28,IR17-COLL-2-29111,68.35,1.96,71.44,92.38,56.72
+2017,College,8.0,Dyal Singh College,New Delhi,Delhi,58.22,IR17-COLL-1-19855,87.03,23.46,55.26,78.67,17.95
+2017,College,9.0,Deen Dayal Upadhyaya College,New Delhi,Delhi,58.06,IR17-COLL-2-20022,80.06,32.26,55.35,85.46,9.25
+2017,College,10.0,The Women's Christian College,Chennai,Tamil Nadu,57.37,IR17-COLL-2-19443,72.06,10.17,86.73,62.5,26.64
+2017,College,11.0,P.S.G. College of Arts & Science,District Coimbatore,Tamil Nadu,55.64,IR17-COLL-2-818511,55.73,37.26,72.04,60.58,43.72
+2017,College,12.0,Madras Christian College,District Kancheepuram,Tamil Nadu,55.44,IR17-COLL-2-967530,74.34,26.16,52.96,63.31,51.7
+2017,College,13.0,Ayya Nadar Janaki Ammal College,District Virudhnagar,Tamil Nadu,54.62,IR17-COLL-1-18824,65.19,21.87,72.01,65.88,28.14
+2017,College,14.0,P.S.G.R. Krishnammal College for Women,District Coimbatore,Tamil Nadu,53.97,IR17-COLL-1-819241,68.11,15.64,70.73,63.13,32.56
+2017,College,15.0,Keshav Mahavidyalya,Delhi,Delhi,53.21,IR17-COLL-2-20024,76.34,21.49,60.62,72.31,0.11
+2017,College,16.0,Ethiraj College for Women,Chennai,Tamil Nadu,52.85,IR17-COLL-1-15094,57.67,7.02,77.01,60.57,58.21
+2017,College,17.0,Christ College (Autonomous),Thrissur,Kerala,52.62,IR17-COLL-2-21140,70.8,5.47,77.83,67.69,6.82
+2017,College,18.0,Loreto College,Calcutta-16,West Bengal,51.85,IR17-COLL-1-29161,68.59,1.18,75.82,69.09,17.16
+2017,College,19.0,Kongunadu Arts & Science College,District Coimbatore,Tamil Nadu,51.84,IR17-COLL-1-24821,54.49,46.4,64.49,62.95,6.5
+2017,College,20.0,Acharya Narendra Dev College,Kalkaji,Delhi,51.06,IR17-COLL-1-19833,73.43,7.07,55.5,87.62,6.13
+2017,College,21.0,AU College of Science and Technology,Visakhapatnam,Andhra Pradesh,50.85,IR17-COLL-1-30222,85.05,7.53,52.04,60.5,17.4
+2017,College,22.0,Sri Krishna Arts and Science College,Coimbatore,Tamil Nadu,50.8,IR17-COLL-2-1277986,51.15,3.06,77.56,72.48,45.93
+2017,College,23.0,AU College of Arts and Commerce,Visakhapatnam,Andhra Pradesh,49.73,IR17-COLL-2-30226,79.93,0.0,66.2,56.97,6.52
+2017,College,24.0,Andhra Loyola College,Vijayawada,Andhra Pradesh,49.41,IR17-COLL-2-16853,61.11,22.45,61.07,66.88,12.92
+2017,College,25.0,Rajagiri College of Social Sciences,Dist. Ernakulam,Kerala,48.9,IR17-COLL-2-18888,82.95,1.13,51.14,72.46,1.3
+2017,College,26.0,Holy Cross College,District Tiruchirapalli,Tamil Nadu,48.13,IR17-COLL-1-25232,67.51,7.1,59.59,60.15,25.4
+2017,College,27.0,Fatima College (Autonomous),Madurai,Tamil Nadu,47.95,IR17-COLL-1-15202,63.69,4.18,60.23,65.13,31.71
+2017,College,28.0,Sacred Heart College,Dist. Ernakulam,Kerala,47.24,IR17-COLL-2-22683,74.86,11.73,53.26,58.74,3.08
+2017,College,29.0,St. Joseph`s College of Commerce,Bengaluru,Karnataka,47.21,IR17-COLL-1-20019,52.83,0.0,67.36,71.44,38.0
+2017,College,30.0,Rajiv Gandhi Institute of Information Technology and Biotechnology (RGIITBT),Pune,Maharashtra,47.04,IR17-COLL-1-21126,71.85,1.94,44.11,66.68,40.74
+2017,College,31.0,St. Joseph's College,Dist. Calicut,Kerala,46.73,IR17-COLL-1-20139,62.86,5.87,62.24,65.58,13.03
+2017,College,32.0,Post Graduate Government College for Girls,Chandigarh,Chandigarh,46.54,IR17-COLL-2-1-11028,54.6,0.02,68.09,82.21,8.06
+2017,College,33.0,Ramanujan College,Kalkaji,Delhi,45.92,IR17-COLL-2-2003358,56.39,0.83,65.17,83.52,0.1
+2017,College,34.0,Shaheed Bhagat Singh College (Evening Classes),New Delhi,Delhi,45.76,IR17-COLL-2-29130,72.48,1.29,43.48,84.77,1.7
+2017,College,35.0,Fergusson College,Dist. Pune,Maharashtra,45.51,IR17-COLL-2-19281,48.08,15.04,62.25,53.67,44.65
+2017,College,36.0,Degree College of Physical Education,Dist. Amravati,Maharashtra,45.48,IR17-COLL-2-19229,54.04,0.02,78.35,64.56,0.02
+2017,College,37.0,Shri M.V. & Smt. N.V. Virani Science College,Dist. Rajkot,Gujarat,45.31,IR17-COLL-1-19146,60.11,2.84,72.53,51.73,8.2
+2017,College,38.0,V.V. Vanniaperumal College for Women,District Virudhnagar,Tamil Nadu,45.06,IR17-COLL-1-67207,56.72,4.41,69.15,60.02,8.75
+2017,College,39.0,Virudhunagar Hindu Nadars Senthikumara Nadar College,District Virudhnagar,Tamil Nadu,44.8,IR17-COLL-2-67573,58.97,32.54,46.18,55.39,7.41
+2017,College,40.0,St. Xavier's College,Mumbai,Maharashtra,44.67,IR17-COLL-2-2587381,53.25,4.58,57.8,54.29,51.77
+2017,College,41.0,Goswami Ganesh Dutta S.D. College,Sector 32 Chandigarh,Chandigarh,44.56,IR17-COLL-2-19095,50.78,7.21,71.07,67.34,0.17
+2017,College,42.0,St. Joseph's College,Dist. Trichur,Kerala,44.35,IR17-COLL-1-20138,56.26,0.02,68.41,62.5,9.88
+2017,College,43.0,A.V.C. College-District Quaide-E-Milleth,District Quaide-E-Milleth,Tamil Nadu,44.29,IR17-COLL-1-19386,62.18,17.62,51.04,60.11,3.42
+2017,College,44.0,Dr. N.G.P. Arts & Science College,District Coimbatore,Tamil Nadu,44.0,IR17-COLL-1-19418,54.4,9.68,58.34,70.26,6.15
+2017,College,44.0,St Aloysius College (Autonomous),Mangalore,Karnataka,44.0,IR17-COLL-2-21092,57.63,6.69,54.37,68.56,14.97
+2017,College,46.0,Sri Guru Nanak Dev Khalsa College,New Delhi,Delhi,43.86,IR17-COLL-1-20029,68.69,0.0,51.57,54.94,21.17
+2017,College,47.0,Justice Baseer Ahmed Sayeed College for Women,Chennai,Tamil Nadu,43.77,IR17-COLL-1-19427,54.06,1.55,67.63,57.61,16.86
+2017,College,48.0,Mercy College,Dist. Palakkad,Kerala,43.68,IR17-COLL-2-20199,54.48,0.02,79.18,50.2,0.14
+2017,College,49.0,Little Flower College,District Trichur,Kerala,43.59,IR17-COLL-1-21963,49.02,0.0,73.17,70.22,0.64
+2017,College,50.0,K.S. Rangaswamy College of Arts and Science,Tiruchengode,Tamil Nadu,43.32,IR17-COLL-1-27982,47.05,15.52,65.94,57.02,10.73
+2017,College,51.0,MES Keveeyam College,Valanchary,Kerala,43.3,IR17-COLL-2-19444,49.09,2.99,75.85,60.0,0.1
+2017,College,52.0,Vimla College,Dist. Trichur,Kerala,43.23,IR17-COLL-2-20207,58.56,1.65,65.52,58.65,1.49
+2017,College,53.0,"Government College of Arts, Science and Commerce Quepem",Quepem,Goa,43.18,IR17-COLL-1-30551,67.92,0.0,49.17,70.07,0.14
+2017,College,54.0,Holy Cross College,District Kanyakumari,Tamil Nadu,43.17,IR17-COLL-2-20105,60.37,2.9,51.39,70.08,11.2
+2017,College,55.0,St. Mary's College,Dist. Trichur,Kerala,42.72,IR17-COLL-2-21977,50.52,1.31,73.04,60.15,0.25
+2017,College,56.0,Saiva Bhanu Kshatriya College,District Virudhnagar,Tamil Nadu,42.57,IR17-COLL-1-59902,63.0,8.2,55.01,55.04,0.25
+2017,College,57.0,Gobi Arts and Science College-Karattatipalayam Post,Karattatipalayam Post,Tamil Nadu,42.39,IR17-COLL-1-19419,53.57,2.75,65.9,60.0,2.99
+2017,College,58.0,Vivekanand College,Kolhapur,Maharashtra,42.26,IR17-COLL-2-18987,51.27,6.42,70.77,51.24,2.15
+2017,College,59.0,Shri Shankarlal Sundarbai Shasun Jain College for Women,Chennai,Tamil Nadu,42.07,IR17-COLL-2-30622,49.74,0.0,66.11,70.08,1.11
+2017,College,59.0,Meenakshi College for Women,District Chennai,Tamil Nadu,42.07,IR17-COLL-1-19435,53.9,2.53,51.29,70.02,20.67
+2017,College,61.0,"Vitthalbhai Patel and Rajrathan, P.T. Patel Science College",Dist. Anand,Gujarat,41.99,IR17-COLL-1-19878,47.72,20.51,58.81,55.65,5.24
+2017,College,62.0,Srimathi D.N. Bhat Vaishnav College for Women,District Kancheepuram,Tamil Nadu,41.91,IR17-COLL-2-19438,44.56,2.83,75.77,60.03,0.33
+2017,College,63.0,Kongu Arts & Science College,District Erode,Tamil Nadu,41.9,IR17-COLL-2-19383,43.44,0.75,67.78,58.76,29.73
+2017,College,64.0,J.B. College,District Jorhat,Assam,41.81,IR17-COLL-2-19551,53.16,4.16,59.56,59.13,12.71
+2017,College,65.0,Nirmala College for Women,District Coimbatore,Tamil Nadu,41.73,IR17-COLL-2-24847,55.7,4.29,56.65,61.4,7.95
+2017,College,66.0,Rathinam College of Arts and Science,Coimbatore,Tamil Nadu,41.69,IR17-COLL-2-221339,45.89,0.04,68.8,71.13,0.4
+2017,College,67.0,Mahendra Arts & Science College,Namakkal,Tamil Nadu,41.33,IR17-COLL-2-21350,42.22,5.14,69.77,67.69,0.39
+2017,College,68.0,Sri Ramakrishna College of Arts & Science for Women,District Coimbatore,Tamil Nadu,40.89,IR17-COLL-2-19380,56.35,0.84,55.87,60.82,7.21
+2017,College,69.0,SNR Sons College,Coimbatore,Tamil Nadu,40.29,IR17-COLL-2-1-2811558558,56.5,3.24,51.26,57.26,12.75
+2017,College,70.0,St. Teresa's College,Dist. Ernakula,Kerala,40.1,IR17-COLL-2-18891,51.59,3.03,56.34,53.43,19.11
+2017,College,71.0,Sri D. Manjunatheswara College,Dist. Dakshin Kannad,Karnataka,39.96,IR17-COLL-2-18873,43.61,1.57,70.75,58.21,1.5
+2017,College,72.0,Nanded Education Society`s Science College,Nanded,Maharashtra,39.47,IR17-COLL-1-24617,50.96,1.73,62.06,55.25,0.31
+2017,College,73.0,Mannam Memroial N.S.S. College,Kollam,Kerala,38.99,IR17-COLL-2-19929,56.92,0.3,51.28,60.0,0.33
+2017,College,74.0,Mehr Chand Mahajan D.A.V. College for Women,"Sector-36, Chandigarh",Chandigarh,38.84,IR17-COLL-2-29281,49.64,2.96,52.12,64.27,6.94
+2017,College,75.0,Hindusthan College of Arts and Science,Coimbatore,Tamil Nadu,38.65,IR17-COLL-2-14209,43.38,2.72,63.03,57.34,7.43
+2017,College,76.0,K.S.R. College of Arts and Science for Women,Namakkal,Tamil Nadu,38.6,IR17-COLL-1-30707,35.24,0.04,73.52,60.0,6.42
+2017,College,77.0,Bahauddin Govt. Science College,Dist. Junagadh,Gujarat,38.42,IR17-COLL-1-19882,42.87,0.71,68.33,54.53,1.55
+2017,College,78.0,Rama Krishna Mission Vivekananda Centenary College,Rahara,West Bengal,38.29,IR17-COLL-1-20038,47.01,17.82,49.47,42.55,18.81
+2017,College,79.0,S.D.M.S.M. Kalasala,District Krishna,Andhra Pradesh,38.28,IR17-COLL-2-20162,47.83,0.0,55.16,67.5,0.08
+2017,College,80.0,Dr.V.S.Krishna Govt. Degree College,Visakhapatnam,Andhra Pradesh,38.19,IR17-COLL-2-30258,50.46,1.95,60.33,48.73,2.67
+2017,College,81.0,Symbiosis College of Arts and Commerce,Pune,Maharashtra,38.05,IR17-COLL-2-19306,30.02,0.12,72.45,60.48,18.4
+2017,College,82.0,S R M College of Arts and Science,Potheri,Tamil Nadu,38.03,IR17-COLL-1-15615,48.06,10.65,43.93,49.33,31.04
+2017,College,83.0,Sai College of Computer Education,Dist. Osmanabad,Maharashtra,37.93,IR17-COLL-2-30643,35.97,0.0,81.78,44.67,0.04
+2017,College,84.0,Assumption College,Dist. Kottayam,Kerala,37.92,IR17-COLL-1-29947,52.41,0.77,53.64,54.15,5.21
+2017,College,85.0,Gayatri Vidya Parishad College for Degree and P.G Courses (Autonomous),District Visakapatnam,Andhra Pradesh,37.56,IR17-COLL-2-19204,44.03,0.0,62.16,58.14,0.89
+2017,College,86.0,Muthayammal College of Arts & Science,Namakkal,Tamil Nadu,37.46,IR17-COLL-1-18746,41.15,9.4,50.14,65.2,9.16
+2017,College,87.0,"St. Josephs College for Women, (Autonomous)",Visakhapatnam,Andhra Pradesh,37.15,IR17-COLL-1-21121,50.66,3.33,50.52,56.36,2.05
+2017,College,88.0,Jankidevi Bajaj College of Science,District Wardha,Maharashtra,37.07,IR17-COLL-1-19251,60.11,1.3,41.29,55.16,1.9
+2017,College,89.0,P.C. Jabin Science College,Dist. Dharwad,Karnataka,36.87,IR17-COLL-1-20095,48.84,9.31,49.91,50.59,2.92
+2017,College,90.0,Govt. College,District Anantapur,Andhra Pradesh,36.82,IR17-COLL-2-19869,43.51,0.19,63.2,49.42,5.16
+2017,College,91.0,Nirmala College,Dist. Ernakulam,Kerala,36.53,IR17-COLL-2-18887,53.11,8.5,49.24,43.68,0.42
+2017,College,92.0,K.B.N. College,District Krishna,Andhra Pradesh,36.36,IR17-COLL-1-20151,48.19,0.39,52.11,57.38,1.76
+2017,College,93.0,V.S.M. College,Ramachandrapuram,Andhra Pradesh,36.15,IR17-COLL-2-13947,32.9,0.0,67.59,62.44,0.08
+2017,College,94.0,J.G. College of Commerce,"Hubli, Dist. Dharwad",Karnataka,36.03,IR17-COLL-1-20049,34.2,0.0,75.61,44.61,1.79
+2017,College,95.0,Sacred Heart College (Autonomous),Tirupattur,Tamil Nadu,35.43,IR17-COLL-2-15860,52.13,14.37,32.09,58.87,0.72
+2017,College,96.0,Presidency College,Bengaluru,Karnataka,35.23,IR17-COLL-2-1-2812253596,38.21,1.76,52.67,54.98,20.02
+2017,College,97.0,National College,District Tiruchirapalli,Tamil Nadu,34.93,IR17-COLL-2-19433,27.2,12.19,58.78,58.61,8.53
+2017,College,98.0,Raja Narendralal Khan Women's College,District Midnapore,West Bengal,34.73,IR17-COLL-2-18715,26.41,9.57,60.24,62.33,4.93
+2017,College,99.0,Bharti Vidyapeeth`s Matoshri Bayabai Shripatrao Kadam Kanya Mahavidyalaya,Dist. Sangli,Maharashtra,34.69,IR17-COLL-2-1-2814445210,50.53,0.31,29.37,62.41,27.73
+2017,College,100.0,Thanthai Hans Roever College,Perambalur,Tamil Nadu,34.65,IR17-COLL-2-15929,38.95,9.55,43.12,68.25,0.31
