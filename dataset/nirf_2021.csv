@@ -1,0 +1,846 @@
+﻿year,category,rank,institute_name,city,state,score,institute_id,tlr,rpc,go,oi,pr
+2021,Overall,1,Indian Institute of Technology Madras,Chennai,Tamil Nadu,86.76,IR-O-U-0456,85.61,92.51,86.32,63.57,97.13
+2021,Overall,2,Indian Institute of Science,Bengaluru,Karnataka,82.67,IR-O-U-0220,79.13,91.48,78.23,58.39,100.0
+2021,Overall,3,Indian Institute of Technology Bombay,Mumbai,Maharashtra,82.52,IR-O-U-0306,83.52,87.81,80.86,57.48,91.96
+2021,Overall,4,Indian Institute of Technology Delhi,New Delhi,Delhi,81.75,IR-O-I-1074,84.02,84.46,75.07,67.97,93.89
+2021,Overall,5,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,76.5,IR-O-I-1075,80.5,75.23,80.74,56.97,79.3
+2021,Overall,6,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,75.62,IR-O-U-0573,74.25,76.23,83.23,55.35,82.92
+2021,Overall,7,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,71.4,IR-O-U-0560,76.68,68.37,83.16,65.31,47.28
+2021,Overall,8,Indian Institute of Technology Guwahati,Guwahati,Assam,69.26,IR-O-U-0053,73.75,66.25,81.26,62.95,47.04
+2021,Overall,9,Jawaharlal Nehru University,New Delhi,Delhi,66.61,IR-O-U-0109,71.19,44.96,95.07,73.36,54.12
+2021,Overall,10,Banaras Hindu University,Varanasi,Uttar Pradesh,63.1,IR-O-U-0500,64.5,45.0,100.0,53.13,49.38
+2021,Overall,11,Calcutta University,Kolkata,West Bengal,61.45,IR-O-U-0570,66.2,43.92,91.72,60.98,39.68
+2021,Overall,12,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,59.87,IR-O-U-0436,64.23,54.33,71.35,65.54,34.8
+2021,Overall,13,Jamia Millia Islamia,New Delhi,Delhi,59.54,IR-O-U-0108,66.44,43.43,86.67,72.35,20.25
+2021,Overall,14,Jadavpur University,Kolkata,West Bengal,58.93,IR-O-U-0575,51.7,51.72,87.77,50.16,53.3
+2021,Overall,15,Manipal Academy of Higher Education,Manipal,Karnataka,58.91,IR-O-U-0234,67.68,48.17,76.05,65.25,24.18
+2021,Overall,16,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,58.53,IR-O-U-0013,61.4,52.64,67.51,58.59,49.61
+2021,Overall,17,University of Hyderabad,Hyderabad,Telangana,57.67,IR-O-U-0042,69.59,40.74,77.44,58.72,32.13
+2021,Overall,18,Aligarh Muslim University,Aligarh,Uttar Pradesh,57.38,IR-O-U-0496,69.06,40.86,80.06,56.93,27.0
+2021,Overall,19,University of Delhi,Delhi,Delhi,56.03,IR-O-U-0120,42.65,54.23,82.66,59.6,44.81
+2021,Overall,20,Savitribai Phule Pune University,Pune,Maharashtra,55.83,IR-O-U-0323,62.95,42.77,86.96,50.92,16.41
+2021,Overall,21,Vellore Institute of Technology,Vellore,Tamil Nadu,55.39,IR-O-U-0490,48.43,56.83,69.94,59.38,38.8
+2021,Overall,22,Bharathiar University,Coimbatore,Tamil Nadu,55.38,IR-O-U-0447,61.79,47.45,74.17,53.21,24.6
+2021,Overall,23,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,54.97,IR-O-U-0467,52.39,44.58,71.79,63.34,51.82
+2021,Overall,24,Indian Institute of Science Education & Research Pune,Pune,Maharashtra,54.47,IR-O-U-0305,67.24,45.58,59.31,58.75,28.91
+2021,Overall,25,Anna University,Chennai,Tamil Nadu,54.42,IR-O-U-0439,51.91,43.09,73.11,51.35,61.72
+2021,Overall,26,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,53.88,IR-O-U-0205,48.18,56.64,71.16,55.15,27.0
+2021,Overall,27,Institute of Chemical Technology,Mumbai,Maharashtra,53.76,IR-O-U-0308,50.05,55.82,75.96,46.07,22.04
+2021,Overall,28,Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,53.74,IR-O-U-0701,55.87,47.41,69.88,56.69,31.08
+2021,Overall,29,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,53.32,IR-O-U-0391,55.81,43.13,72.05,59.5,32.81
+2021,Overall,30,Indian Institute of Technology Indore,Indore,Madhya Pradesh,53.22,IR-O-U-0273,57.51,49.25,69.71,56.59,15.91
+2021,Overall,31,Indian Institute of Technology Ropar,Rupnagar,Punjab,52.89,IR-O-U-0378,72.76,32.92,62.05,63.88,23.76
+2021,Overall,32,National Institute of Technology Karnataka,Surathkal,Karnataka,52.88,IR-O-U-0237,53.81,41.74,73.32,65.58,30.01
+2021,Overall,33,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,52.77,IR-O-U-0139,71.26,37.15,57.21,64.21,23.76
+2021,Overall,34,Mysore University,Mysuru,Karnataka,50.49,IR-O-U-0235,68.77,18.79,90.54,54.24,6.85
+2021,Overall,35,Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,50.48,IR-O-U-0572,59.67,38.82,66.26,53.53,23.34
+2021,Overall,36,Homi Bhabha National Institute,Mumbai,Maharashtra,50.42,IR-O-U-0304,68.64,36.45,65.98,50.79,6.22
+2021,Overall,37,Siksha `O` Anusandhan,Bhubaneswar,Odisha,50.34,IR-O-U-0363,63.89,29.92,71.34,65.89,13.28
+2021,Overall,38,Panjab University,Chandigarh,Chandigarh,50.31,IR-O-U-0078,48.88,40.86,71.57,53.49,37.31
+2021,Overall,39,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,50.0,IR-O-U-0356,62.4,27.78,70.0,78.43,11.06
+2021,Overall,40,"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,49.58,IR-O-U-0377,62.43,31.86,59.58,71.65,22.04
+2021,Overall,41,National Institute of Technology Rourkela,Rourkela,Odisha,49.27,IR-O-U-0357,49.19,48.29,65.32,51.66,17.89
+2021,Overall,42,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,49.15,IR-O-U-0476,58.58,38.28,66.3,57.78,10.48
+2021,Overall,43,Amity University,Gautam Budh Nagar,Uttar Pradesh,48.87,IR-O-U-0497,48.98,43.27,67.55,64.66,12.18
+2021,Overall,43,Kerala University,Thiruvananthapuram,Kerala,48.87,IR-O-U-0260,64.77,19.93,89.11,51.53,4.91
+2021,Overall,45,Thapar Institute of Engineering and Technology,Patiala,Punjab,48.83,IR-O-I-1480,50.44,42.26,67.3,56.35,19.32
+2021,Overall,46,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,48.7,IR-O-U-0584,51.58,38.99,68.65,50.22,27.77
+2021,Overall,47,University of Madras,Chennai,Tamil Nadu,48.66,IR-O-I-1357,61.35,31.82,66.43,53.88,20.25
+2021,Overall,48,"Andhra University, Visakhapatnam",Visakhapatnam,Andhra Pradesh,48.65,IR-O-U-0006,55.04,25.59,85.84,54.46,18.37
+2021,Overall,49,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,48.63,IR-O-I-1441,61.78,34.28,64.91,65.99,2.18
+2021,Overall,50,Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,48.57,IR-O-U-0272,63.78,30.9,63.49,66.63,8.1
+2021,Overall,51,Indian Institute of Technology Patna,Patna,Bihar,47.67,IR-O-U-0064,60.04,37.02,57.6,53.94,16.41
+2021,Overall,52,Mahatma Gandhi University,Kottayam,Kerala,47.62,IR-O-U-0262,59.27,34.73,68.77,52.55,4.24
+2021,Overall,53,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,47.3,IR-O-U-0473,49.93,39.07,68.47,58.6,10.48
+2021,Overall,54,Visvesvaraya National Institute of Technology,Nagpur,Maharashtra,46.98,IR-O-U-0334,49.85,37.31,68.93,55.11,15.39
+2021,Overall,54,Delhi Technological University,New Delhi,Delhi,46.98,IR-O-U-0098,54.52,29.82,65.95,59.25,25.82
+2021,Overall,56,JSS Academy of Higher Education and Research,Mysuru,Karnataka,46.95,IR-O-U-0222,63.04,19.39,66.7,70.04,18.85
+2021,Overall,57,Alagappa University,Karaikudi,Tamil Nadu,46.79,IR-O-U-0435,58.71,27.32,67.45,51.68,23.34
+2021,Overall,58,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,46.78,IR-O-U-0355,51.73,37.83,62.64,55.02,18.85
+2021,Overall,59,National Institute of Technology Warangal,Warangal,Telangana,46.69,IR-O-U-0025,50.61,31.04,70.32,56.38,25.01
+2021,Overall,60,King George`s Medical University,Lucknow,Uttar Pradesh,46.65,IR-O-U-0523,64.39,27.23,62.97,57.57,8.1
+2021,Overall,61,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,46.6,IR-O-U-0474,54.06,34.0,64.82,64.68,7.48
+2021,Overall,62,Osmania University,Hyderabad,Telangana,46.57,IR-O-U-0027,52.04,28.16,79.86,51.62,13.82
+2021,Overall,62,Gujarat University,Ahmedabad,Gujarat,46.57,IR-O-U-0136,64.76,15.7,81.28,56.13,5.57
+2021,Overall,64,Jamia Hamdard,New Delhi,Delhi,46.46,IR-O-U-0107,57.82,27.62,69.75,60.64,8.1
+2021,Overall,65,Cochin University of Science and Technology,Cochin,Kerala,46.02,IR-O-U-0253,54.37,29.63,70.28,52.7,14.88
+2021,Overall,66,Banasthali Vidyapith,Banasthali,Rajasthan,45.89,IR-O-U-0389,54.19,14.23,83.55,75.99,10.48
+2021,Overall,67,Gauhati University,Guwahati,Assam,45.87,IR-O-U-0052,55.17,19.05,83.56,58.4,10.48
+2021,Overall,68,Symbiosis International,Pune,Maharashtra,45.65,IR-O-U-0329,61.83,18.5,64.52,72.16,14.35
+2021,Overall,69,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,45.64,IR-O-U-0020,58.89,30.78,64.62,55.99,2.18
+2021,Overall,70,Tata Institute of Social Sciences,Mumbai,Maharashtra,45.63,IR-O-U-0331,61.2,12.32,77.33,72.28,8.71
+2021,Overall,71,National Institute of Technology Durgapur,Durgapur,West Bengal,45.36,IR-O-U-0577,50.51,34.26,66.66,56.15,9.9
+2021,Overall,72,Malaviya National Institute of Technology,Jaipur,Rajasthan,45.29,IR-O-U-0410,56.13,35.12,57.57,58.38,5.57
+2021,Overall,73,Tezpur University,Tezpur,Assam,45.22,IR-O-U-0056,58.32,30.02,61.65,52.17,11.62
+2021,Overall,74,Kalasalingam Academy of Research and Education,Srivilliputtur,Tamil Nadu,45.07,IR-O-U-0458,56.74,21.81,65.2,73.06,11.62
+2021,Overall,75,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,44.81,IR-O-U-0446,55.4,24.41,67.59,67.94,5.57
+2021,Overall,76,University of Kashmir,Srinagar,Jammu and Kashmir,44.64,IR-O-U-0196,60.49,19.51,77.03,50.12,2.18
+2021,Overall,77,Chandigarh University,Mohali,Punjab,44.62,IR-O-U-0747,57.48,14.24,63.4,75.44,28.91
+2021,Overall,78,Dr. B. R. Ambedkar National Institute of Technology,Jalandhar,Punjab,44.53,IR-O-U-0374,54.39,25.23,64.17,63.76,14.35
+2021,Overall,79,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,44.4,IR-O-I-1486,64.83,18.35,61.13,64.73,7.48
+2021,Overall,80,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,44.19,IR-O-I-1110,65.15,14.45,63.29,61.56,14.88
+2021,Overall,81,Lovely Professional University,Phagwara,Punjab,43.95,IR-O-U-0379,47.55,27.51,63.87,65.97,20.7
+2021,Overall,82,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,43.93,IR-O-U-0184,50.05,30.59,61.27,62.07,12.73
+2021,Overall,83,Madurai Kamaraj University,Madurai,Tamil Nadu,43.75,IR-O-U-0463,61.71,24.77,57.68,48.43,14.35
+2021,Overall,84,Shiv Nadar University,Dadri,Uttar Pradesh,43.6,IR-O-U-0642,59.5,19.37,63.5,59.14,13.28
+2021,Overall,85,Guru Nanak Dev University,Amritsar,Punjab,43.21,IR-O-U-0376,40.78,28.63,76.11,53.77,17.89
+2021,Overall,86,PSG College of Technology,Coimbatore,Tamil Nadu,43.14,IR-O-C-37013,55.37,18.13,58.69,50.17,43.26
+2021,Overall,87,Pondicherry University,Puducherry,Puducherry,43.1,IR-O-U-0369,39.94,30.1,72.4,58.18,17.89
+2021,Overall,88,Motilal Nehru National Institute of Technology,Prayagraj,Uttar Pradesh,43.04,IR-O-U-0530,47.86,28.49,67.68,54.77,11.06
+2021,Overall,89,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,42.94,IR-O-C-16604,53.36,29.01,59.42,53.63,9.9
+2021,Overall,90,North Eastern Hill University,Shillong,Meghalaya,42.79,IR-O-U-0341,55.53,16.31,74.61,51.63,11.62
+2021,Overall,90,Bharathidasan University,Tiruchirappalli,Tamil Nadu,42.79,IR-O-U-0448,54.74,29.92,53.67,47.8,18.85
+2021,Overall,92,Sri Venkateswara University,Tirupati,Andhra Pradesh,42.78,IR-O-U-0037,51.21,19.87,79.19,50.61,5.57
+2021,Overall,93,National Institute of Technology Silchar,Silchar,Assam,42.68,IR-O-U-0055,47.28,32.31,64.18,52.84,6.85
+2021,Overall,94,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,42.56,IR-O-N-10,63.31,14.77,63.13,60.92,4.24
+2021,Overall,95,Calicut University,Malappuram,Kerala,42.42,IR-O-U-0251,63.32,16.64,63.32,54.77,2.88
+2021,Overall,96,Mumbai University,Mumbai,Maharashtra,41.79,IR-O-U-0318,49.58,19.08,78.35,47.78,7.48
+2021,Overall,97,Visva Bharati,Santiniketan,West Bengal,41.74,IR-O-U-0589,49.51,26.16,73.81,36.58,6.22
+2021,Overall,98,Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,41.72,IR-O-U-0149,45.31,29.28,64.48,57.03,7.48
+2021,Overall,99,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,41.43,IR-O-U-0099,48.12,22.64,64.22,52.45,21.15
+2021,Overall,100,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,41.1,IR-O-U-0295,64.06,10.35,60.07,66.19,1.46
+2021,University,1,Indian Institute of Science,Bengaluru,Karnataka,82.67,IR-O-U-0220,79.13,91.48,78.23,58.39,100.0
+2021,University,2,Jawaharlal Nehru University,New Delhi,Delhi,67.99,IR-O-U-0109,71.19,44.96,95.07,73.36,67.88
+2021,University,3,Banaras Hindu University,Varanasi,Uttar Pradesh,64.02,IR-O-U-0500,64.5,45.0,100.0,53.13,58.57
+2021,University,4,Calcutta University,Kolkata,West Bengal,62.06,IR-O-U-0570,66.2,43.92,91.72,60.98,45.77
+2021,University,5,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,61.23,IR-O-U-0436,64.23,54.33,71.35,65.54,48.36
+2021,University,6,Jamia Millia Islamia,New Delhi,Delhi,60.74,IR-O-U-0108,66.44,43.43,86.67,72.35,32.17
+2021,University,7,Manipal Academy of Higher Education,Manipal,Karnataka,60.58,IR-O-U-0234,67.68,48.17,76.05,65.25,40.93
+2021,University,8,Jadavpur University,Kolkata,West Bengal,60.33,IR-O-U-0575,51.7,51.72,87.77,50.16,67.31
+2021,University,9,University of Hyderabad,Hyderabad,Telangana,59.71,IR-O-U-0042,69.59,40.74,77.44,58.72,52.49
+2021,University,10,Aligarh Muslim University,Aligarh,Uttar Pradesh,58.97,IR-O-U-0496,69.06,40.86,80.06,56.93,42.9
+2021,University,11,Savitribai Phule Pune University,Pune,Maharashtra,58.34,IR-O-U-0323,62.95,42.77,86.96,50.92,41.49
+2021,University,12,University of Delhi,Delhi,Delhi,57.09,IR-O-U-0120,42.65,54.23,82.66,59.6,55.37
+2021,University,13,Vellore Institute of Technology,Vellore,Tamil Nadu,56.63,IR-O-U-0490,48.43,56.83,69.94,59.38,51.16
+2021,University,14,Bharathiar University,Coimbatore,Tamil Nadu,56.44,IR-O-U-0447,61.79,47.45,74.17,53.21,35.22
+2021,University,15,Institute of Chemical Technology,Mumbai,Maharashtra,56.1,IR-O-U-0308,50.05,55.82,75.96,46.07,45.43
+2021,University,16,Anna University,Chennai,Tamil Nadu,54.97,IR-O-U-0439,51.91,43.09,73.11,51.35,67.2
+2021,University,17,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,54.74,IR-O-U-0391,55.81,43.13,72.05,59.5,46.97
+2021,University,18,Homi Bhabha National Institute,Mumbai,Maharashtra,53.24,IR-O-U-0304,68.64,36.45,65.98,50.79,34.35
+2021,University,19,Mysore University,Mysuru,Karnataka,52.68,IR-O-U-0235,68.77,18.79,90.54,54.24,28.8
+2021,University,20,Siksha `O` Anusandhan,Bhubaneswar,Odisha,52.34,IR-O-U-0363,63.89,29.92,71.34,65.89,33.3
+2021,University,21,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,52.06,IR-O-U-0356,62.4,27.78,70.0,78.43,31.74
+2021,University,22,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,51.83,IR-O-U-0476,58.58,38.28,66.3,57.78,37.34
+2021,University,23,Panjab University,Chandigarh,Chandigarh,51.59,IR-O-U-0078,48.88,40.86,71.57,53.49,50.12
+2021,University,24,"Andhra University, Visakhapatnam",Visakhapatnam,Andhra Pradesh,51.1,IR-O-U-0006,55.04,25.59,85.84,54.46,42.86
+2021,University,25,Amity University,Gautam Budh Nagar,Uttar Pradesh,50.9,IR-O-U-0497,48.98,43.27,67.55,64.66,32.53
+2021,University,26,Thapar Institute of Engineering and Technology,Patiala,Punjab,50.65,IR-O-I-1480,50.44,42.26,67.3,56.35,37.52
+2021,University,27,Kerala University,Thiruvananthapuram,Kerala,50.52,IR-O-U-0260,64.77,19.93,89.11,51.53,21.44
+2021,University,28,University of Madras,Chennai,Tamil Nadu,50.46,IR-O-I-1357,61.35,31.82,66.43,53.88,38.17
+2021,University,29,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,50.36,IR-O-I-1441,61.78,34.28,64.91,65.99,19.52
+2021,University,30,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,49.98,IR-O-U-0473,49.93,39.07,68.47,58.6,37.34
+2021,University,31,Mahatma Gandhi University,Kottayam,Kerala,49.3,IR-O-U-0262,59.27,34.73,68.77,52.55,20.97
+2021,University,32,Osmania University,Hyderabad,Telangana,49.16,IR-O-U-0027,52.04,28.16,79.86,51.62,39.67
+2021,University,33,Alagappa University,Karaikudi,Tamil Nadu,49.09,IR-O-U-0435,58.71,27.32,67.45,51.68,46.34
+2021,University,34,JSS Academy of Higher Education and Research,Mysuru,Karnataka,48.79,IR-O-U-0222,63.04,19.39,66.7,70.04,37.19
+2021,University,35,Banasthali Vidyapith,Banasthali,Rajasthan,48.57,IR-O-U-0389,54.19,14.23,83.55,75.99,37.34
+2021,University,35,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,48.57,IR-O-U-0020,58.89,30.78,64.62,55.99,31.52
+2021,University,37,Tata Institute of Social Sciences,Mumbai,Maharashtra,48.37,IR-O-U-0331,61.2,12.32,77.33,72.28,36.09
+2021,University,38,Symbiosis International,Pune,Maharashtra,48.22,IR-O-U-0329,61.83,18.5,64.52,72.16,40.04
+2021,University,39,King George`s Medical University,Lucknow,Uttar Pradesh,48.21,IR-O-U-0523,64.39,27.23,62.97,57.57,23.67
+2021,University,40,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,48.17,IR-O-U-0474,54.06,34.0,64.82,64.68,23.23
+2021,University,41,Jamia Hamdard,New Delhi,Delhi,48.02,IR-O-U-0107,57.82,27.62,69.75,60.64,23.67
+2021,University,42,Delhi Technological University,New Delhi,Delhi,48.01,IR-O-U-0098,54.52,29.82,65.95,59.25,36.07
+2021,University,43,Gujarat University,Ahmedabad,Gujarat,47.6,IR-O-U-0136,64.76,15.7,81.28,56.13,15.9
+2021,University,44,Cochin University of Science and Technology,Cochin,Kerala,47.37,IR-O-U-0253,54.37,29.63,70.28,52.7,28.41
+2021,University,45,Gauhati University,Guwahati,Assam,47.35,IR-O-U-0052,55.17,19.05,83.56,58.4,25.34
+2021,University,46,Tezpur University,Tezpur,Assam,47.27,IR-O-U-0056,58.32,30.02,61.65,52.17,32.14
+2021,University,47,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,47.17,IR-O-I-1486,64.83,18.35,61.13,64.73,35.23
+2021,University,48,University of Kashmir,Srinagar,Jammu and Kashmir,46.97,IR-O-U-0196,60.49,19.51,77.03,50.12,25.52
+2021,University,49,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,46.74,IR-O-I-1110,65.15,14.45,63.29,61.56,40.41
+2021,University,50,Kalasalingam Academy of Research and Education,Srivilliputtur,Tamil Nadu,46.52,IR-O-U-0458,56.74,21.81,65.2,73.06,26.14
+2021,University,51,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,46.44,IR-O-U-0446,55.4,24.41,67.59,67.94,21.9
+2021,University,52,Chandigarh University,Mohali,Punjab,46.15,IR-O-U-0747,57.48,14.24,63.4,75.44,44.23
+2021,University,53,Guru Nanak Dev University,Amritsar,Punjab,45.67,IR-O-U-0376,40.78,28.63,76.11,53.77,42.52
+2021,University,54,Sri Venkateswara University,Tirupati,Andhra Pradesh,45.61,IR-O-U-0037,51.21,19.87,79.19,50.61,33.9
+2021,University,55,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,45.44,IR-O-N-10,63.31,14.77,63.13,60.92,32.97
+2021,University,56,Shiv Nadar University,Dadri,Uttar Pradesh,45.0,IR-O-U-0642,59.5,19.37,63.5,59.14,27.3
+2021,University,57,Bharathidasan University,Tiruchirappalli,Tamil Nadu,44.63,IR-O-U-0448,54.74,29.92,53.67,47.8,37.19
+2021,University,58,Pondicherry University,Puducherry,Puducherry,44.36,IR-O-U-0369,39.94,30.1,72.4,58.18,30.52
+2021,University,59,North Eastern Hill University,Shillong,Meghalaya,44.24,IR-O-U-0341,55.53,16.31,74.61,51.63,26.14
+2021,University,60,Calicut University,Malappuram,Kerala,44.13,IR-O-U-0251,63.32,16.64,63.32,54.77,20.01
+2021,University,61,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,44.05,IR-O-U-0295,64.06,10.35,60.07,66.19,31.02
+2021,University,62,Lovely Professional University,Phagwara,Punjab,43.33,IR-O-U-0379,47.55,27.51,63.87,65.97,14.49
+2021,University,63,Madurai Kamaraj University,Madurai,Tamil Nadu,43.32,IR-O-U-0463,61.71,24.77,57.68,48.43,10.04
+2021,University,64,Visva Bharati,Santiniketan,West Bengal,42.76,IR-O-U-0589,49.51,26.16,73.81,36.58,16.35
+2021,University,65,Babasheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,42.63,IR-O-U-0498,47.93,15.81,71.24,71.6,20.97
+2021,University,66,University of Jammu,Jammu,Jammu and Kashmir,42.52,IR-O-U-0195,49.65,17.53,72.91,45.77,32.01
+2021,University,67,Gandhi Institute of Technology and Management,Visakhapatnam,Andhra Pradesh,42.13,IR-O-U-0011,49.3,14.93,69.39,56.83,32.97
+2021,University,68,Bharati Vidyapeeth,Pune,Maharashtra,42.1,IR-O-I-1361,54.05,11.21,65.27,56.98,37.74
+2021,University,69,Bangalore University,Bangalore,Karnataka,41.98,IR-O-U-0215,53.29,16.54,65.15,57.16,22.8
+2021,University,70,Manonmaniam Sundaranar University,Tirunelveli,Tamil Nadu,41.67,IR-O-U-0464,55.3,19.43,59.29,50.68,23.23
+2021,University,71,Mumbai University,Mumbai,Maharashtra,41.56,IR-O-U-0318,49.58,19.08,78.35,47.78,5.23
+2021,University,72,"Padmashree Dr. D. Y. Patil Vidyapeeth, Mumbai",Mumbai,Maharashtra,41.47,IR-O-U-0321,63.3,3.49,63.55,62.15,25.02
+2021,University,73,Pandit Deendayal Petroleum University,Gandhinagar,Gujarat,41.38,IR-O-U-0147,56.94,15.43,61.13,49.4,25.02
+2021,University,73,Periyar University,Salem,Tamil Nadu,41.38,IR-O-U-0470,51.4,22.43,60.04,52.69,19.52
+2021,University,75,Avinashilingam Institute for Home Science & Higher Education for Women,Coimbatore,Tamil Nadu,41.24,IR-O-U-0444,61.3,3.62,64.37,58.87,30.09
+2021,University,76,Dr. Babasaheb Ambedkar Marathwada University,Aurangabad,Maharashtra,41.14,IR-O-U-0298,41.21,13.84,84.71,55.89,20.97
+2021,University,77,NITTE,Mangaluru,Karnataka,41.04,IR-O-U-0239,60.34,7.25,57.87,67.37,24.51
+2021,University,78,Maharshi Dayanand University,Rohtak,Haryana,41.03,IR-O-I-1280,47.73,16.05,69.91,51.65,27.44
+2021,University,79,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,40.79,IR-O-U-0099,48.12,22.64,64.22,52.45,14.81
+2021,University,80,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,Puducherry,Puducherry,40.42,IR-O-U-0370,60.99,8.04,51.9,73.35,20.01
+2021,University,81,Kuvempu University,Shimoga,Karnataka,40.4,IR-O-U-0232,50.59,14.06,70.94,50.1,18.0
+2021,University,82,Visvesvaraya Technological University,Belgaum,Karnataka,40.37,IR-O-U-0249,53.4,21.81,60.13,53.42,4.35
+2021,University,83,International Institute of Information Technology Hyderabad,Hyderabad,Telangana,40.2,IR-O-U-0014,41.22,30.31,51.98,52.25,31.19
+2021,University,84,Central University of Punjab,Bathinda,Punjab,39.99,IR-O-U-0372,51.13,17.39,53.26,62.1,25.74
+2021,University,85,The University of Burdwan,Bardhaman,West Bengal,39.98,IR-O-U-0569,43.91,19.82,69.71,49.16,20.01
+2021,University,86,Birla Institute of Technology,Ranchi,Jharkhand,39.86,IR-O-U-0202,47.86,26.71,54.55,50.95,14.81
+2021,University,87,Utkal University,Bhubaneswar,Odisha,39.8,IR-O-U-0366,41.99,13.78,72.66,50.52,34.8
+2021,University,88,Guru Jambheshwar University of Science and Technology,Hisar,Haryana,39.66,IR-O-U-0162,54.01,15.61,56.44,47.85,26.97
+2021,University,89,Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,39.53,IR-O-U-0190,43.21,23.06,64.69,54.6,12.52
+2021,University,90,Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,39.48,IR-O-U-0143,43.8,14.83,68.44,58.31,23.67
+2021,University,91,KLE Academy of Higher Education and Research,Belagavi,Karnataka,39.44,IR-O-U-0225,57.64,9.98,49.27,61.36,31.74
+2021,University,92,Chettinad Academy of Research and Education,"Kelambakkam, Chengalpattu District",Tamil Nadu,39.26,IR-O-U-0451,61.18,6.64,56.44,57.3,19.02
+2021,University,93,Assam University,Silchar,Assam,39.21,IR-O-U-0050,52.68,13.32,63.79,48.04,18.51
+2021,University,94,Dayalbagh Educational Institute,Agra,Uttar Pradesh,39.06,IR-O-U-0507,50.8,4.09,67.06,63.36,28.35
+2021,University,95,Ashoka University,Sonepat,Haryana,39.02,IR-O-U-0744,57.91,3.2,60.0,76.49,10.41
+2021,University,96,Goa University,Goa,Goa,38.96,IR-O-U-0121,48.86,15.05,60.91,55.96,20.01
+2021,University,97,"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,38.92,IR-O-U-0043,49.4,15.25,60.65,56.03,18.0
+2021,University,98,Graphic Era University,Dehradun,Uttarakhand,38.91,IR-O-U-0555,47.99,9.74,60.76,62.23,32.17
+2021,University,99,"Jain university, Bangalore",Bengluru,Karnataka,38.89,IR-O-U-0223,39.29,12.72,73.89,59.54,25.52
+2021,University,100,University of Petroleum and Energy Studies,Dehradun,Uttarakhand,38.88,IR-O-U-0564,46.46,15.08,60.13,61.98,21.9
+2021,Engineering,1,Indian Institute of Technology Madras,Chennai,Tamil Nadu,90.19,IR-E-U-0456,95.47,96.43,81.92,62.44,100.0
+2021,Engineering,2,Indian Institute of Technology Delhi,New Delhi,Delhi,88.96,IR-E-I-1074,91.76,95.82,80.97,66.39,98.63
+2021,Engineering,3,Indian Institute of Technology Bombay,Mumbai,Maharashtra,85.16,IR-E-U-0306,89.32,92.56,79.71,53.68,92.88
+2021,Engineering,4,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,83.22,IR-E-I-1075,86.71,83.13,89.79,55.96,87.05
+2021,Engineering,5,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,82.03,IR-E-U-0573,80.51,88.59,83.01,58.46,88.5
+2021,Engineering,6,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,78.08,IR-E-U-0560,79.28,78.13,90.74,63.36,63.59
+2021,Engineering,7,Indian Institute of Technology Guwahati,Guwahati,Assam,73.84,IR-E-U-0053,79.25,70.32,84.63,59.83,60.58
+2021,Engineering,8,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,68.69,IR-E-U-0013,82.6,56.9,72.54,56.58,66.7
+2021,Engineering,9,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,66.08,IR-E-U-0467,70.0,54.63,78.13,61.35,69.32
+2021,Engineering,10,National Institute of Technology Karnataka,Surathkal,Karnataka,64.19,IR-E-U-0237,73.15,50.17,78.62,64.54,50.18
+2021,Engineering,11,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,64.07,IR-E-U-0205,69.29,65.53,73.12,54.62,35.36
+2021,Engineering,12,Vellore Institute of Technology,Vellore,Tamil Nadu,63.68,IR-E-U-0490,61.41,69.7,67.01,59.84,49.73
+2021,Engineering,13,Indian Institute of Technology Indore,Indore,Madhya Pradesh,62.56,IR-E-U-0273,76.22,55.89,71.57,55.76,30.29
+2021,Engineering,14,Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,62.1,IR-E-U-0701,67.4,51.62,79.07,55.8,49.96
+2021,Engineering,15,Institute of Chemical Technology,Mumbai,Maharashtra,60.31,IR-E-U-0308,75.45,54.62,72.56,45.67,21.98
+2021,Engineering,16,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,59.67,IR-E-U-0436,69.63,59.01,59.56,56.68,35.04
+2021,Engineering,17,Jadavpur University,Kolkata,West Bengal,59.19,IR-E-U-0575,54.82,60.61,76.88,43.0,48.82
+2021,Engineering,18,Anna University,Chennai,Tamil Nadu,58.31,IR-E-U-0439,66.29,50.06,58.6,50.87,65.95
+2021,Engineering,19,Indian Institute of Technology Ropar,Rupnagar,Punjab,58.09,IR-E-U-0378,81.35,34.08,69.1,62.78,33.74
+2021,Engineering,20,National Institute of Technology Rourkela,Rourkela,Odisha,58.02,IR-E-U-0357,62.21,56.58,72.53,50.72,28.08
+2021,Engineering,21,Indian Institute of Technology Patna,Patna,Bihar,57.38,IR-E-U-0064,76.49,44.92,63.77,53.22,28.83
+2021,Engineering,22,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,56.86,IR-E-U-0139,82.1,35.05,57.31,62.64,39.87
+2021,Engineering,23,National Institute of Technology Warangal,Warangal,Telangana,56.76,IR-E-U-0025,67.88,39.6,74.47,55.52,40.72
+2021,Engineering,23,Thapar Institute of Engineering and Technology,Patiala,Punjab,56.76,IR-E-I-1480,64.89,51.54,68.52,56.05,25.35
+2021,Engineering,25,National Institute of Technology Calicut,Kozhikode,Kerala,56.48,IR-E-U-0263,68.0,34.63,77.94,63.52,37.53
+2021,Engineering,26,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,56.35,IR-E-U-0391,62.96,39.96,79.57,55.73,39.87
+2021,Engineering,27,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,56.2,IR-E-U-0584,66.13,47.54,64.47,49.7,42.36
+2021,Engineering,28,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,55.71,IR-E-U-0355,75.09,37.81,66.44,55.62,29.93
+2021,Engineering,29,National Institute of Technology Durgapur,Durgapur,West Bengal,55.48,IR-E-U-0577,69.23,42.64,68.37,56.43,26.15
+2021,Engineering,30,Visvesvaraya National Institute of Technology,Nagpur,Maharashtra,54.94,IR-E-U-0334,66.19,46.05,70.66,53.53,17.84
+2021,Engineering,31,Amity University,Gautam Budh Nagar,Uttar Pradesh,54.87,IR-E-U-0497,68.46,57.24,52.38,56.94,9.87
+2021,Engineering,32,Siksha `O` Anusandhan,Bhubaneswar,Odisha,54.77,IR-E-U-0363,75.76,34.28,70.16,65.14,12.15
+2021,Engineering,33,Jamia Millia Islamia,New Delhi,Delhi,54.46,IR-E-U-0108,60.27,50.0,72.96,54.71,13.24
+2021,Engineering,34,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,54.17,IR-E-U-0473,60.31,50.91,67.01,60.9,13.24
+2021,Engineering,35,Aligarh Muslim University,Aligarh,Uttar Pradesh,54.0,IR-E-U-0496,71.79,50.09,56.66,40.38,20.65
+2021,Engineering,36,Delhi Technological University,New Delhi,Delhi,53.96,IR-E-U-0098,66.23,31.79,73.63,58.61,39.59
+2021,Engineering,37,Malaviya National Institute of Technology,Jaipur,Rajasthan,53.95,IR-E-U-0410,70.69,43.21,62.04,57.79,15.86
+2021,Engineering,38,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,53.22,IR-E-U-0476,71.47,37.62,67.55,57.06,12.7
+2021,Engineering,39,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,53.12,IR-E-U-0356,69.99,29.98,70.72,76.68,13.24
+2021,Engineering,40,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,52.85,IR-E-U-0255,77.49,23.18,61.09,65.27,39.01
+2021,Engineering,41,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,52.58,IR-E-U-0184,65.95,35.39,69.05,61.66,21.98
+2021,Engineering,42,Motilal Nehru National Institute of Technology,Prayagraj,Uttar Pradesh,51.9,IR-E-U-0530,64.23,34.07,73.63,54.84,21.98
+2021,Engineering,43,Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,51.56,IR-E-U-0395,76.38,28.07,62.59,63.34,13.78
+2021,Engineering,44,National Institute of Technology Kurukshetra,Kurukshetra,Haryana,50.59,IR-E-U-0172,62.2,40.64,62.01,53.66,19.73
+2021,Engineering,45,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,50.2,IR-E-C-16604,66.95,34.56,61.71,53.48,20.65
+2021,Engineering,46,Birla Institute of Technology,Ranchi,Jharkhand,50.06,IR-E-U-0202,68.2,34.19,58.24,50.41,26.54
+2021,Engineering,47,Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,49.99,IR-E-U-0149,64.14,34.39,65.08,56.74,17.35
+2021,Engineering,48,National Institute of Technology Silchar,Silchar,Assam,49.57,IR-E-U-0055,63.11,40.36,61.95,52.73,8.68
+2021,Engineering,49,Dr. B. R. Ambedkar National Institute of Technology,Jalandhar,Punjab,49.01,IR-E-U-0374,67.97,27.72,60.78,63.12,18.32
+2021,Engineering,50,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,48.49,IR-E-U-0020,71.09,38.38,48.62,55.06,4.23
+2021,Engineering,51,Manipal Institute of Technology,Manipal,Karnataka,48.17,IR-E-C-7252,70.14,28.99,50.15,62.03,21.98
+2021,Engineering,52,"College of Engineering, Pune",Pune,Maharashtra,48.12,IR-E-C-41593,64.83,22.39,67.83,54.17,29.57
+2021,Engineering,53,PSG College of Technology,Coimbatore,Tamil Nadu,47.91,IR-E-C-37013,68.57,23.58,48.35,48.89,57.14
+2021,Engineering,54,International Institute of Information Technology Hyderabad,Hyderabad,Telangana,47.12,IR-E-U-0014,50.76,33.07,71.08,51.44,26.15
+2021,Engineering,55,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,46.65,IR-E-U-0474,59.83,41.05,45.39,63.17,9.87
+2021,Engineering,56,Kalasalingam Academy of Research and Education,Srivilliputtur,Tamil Nadu,46.57,IR-E-U-0458,64.24,24.41,60.42,65.23,13.78
+2021,Engineering,57,Visvesvaraya Technological University,Belgaum,Karnataka,45.63,IR-E-U-0249,70.27,31.03,47.84,49.93,6.83
+2021,Engineering,58,Defence Institute of Advanced Technology,Pune,Maharashtra,45.52,IR-E-U-0297,67.03,33.73,52.16,45.71,2.87
+2021,Engineering,59,National Institute of Technology Meghalaya,Shillong,Meghalaya,45.37,IR-E-U-0619,67.63,24.12,55.3,64.22,3.56
+2021,Engineering,60,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,45.02,IR-E-U-0284,55.71,28.88,63.97,58.59,9.87
+2021,Engineering,61,Chandigarh University,Mohali,Punjab,45.01,IR-E-U-0747,68.9,17.05,46.81,76.33,22.42
+2021,Engineering,62,Jawaharlal Nehru Technological University,Hyderabad,Telangana,44.95,IR-E-U-0017,72.29,27.99,41.03,53.8,12.7
+2021,Engineering,63,"Indraprastha Institute of Information Technology, Delhi",New Delhi,Delhi,44.85,IR-E-U-0105,54.79,31.79,68.04,39.39,13.24
+2021,Engineering,64,National Institute of Technology Raipur,Raipur,Chhattisgarh,44.83,IR-E-U-0092,60.57,28.98,59.26,58.32,2.87
+2021,Engineering,65,M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,43.74,IR-E-C-1331,66.25,16.84,60.05,53.7,14.31
+2021,Engineering,66,Lovely Professional University,Phagwara,Punjab,43.69,IR-E-U-0379,62.69,25.97,45.82,64.46,14.83
+2021,Engineering,67,Banasthali Vidyapith,Banasthali,Rajasthan,43.64,IR-E-U-0389,59.29,14.29,67.27,74.92,6.19
+2021,Engineering,68,Pandit Deendayal Petroleum University,Gandhinagar,Gujarat,43.17,IR-E-U-0147,70.06,23.25,53.33,42.09,2.87
+2021,Engineering,69,National Institute of Technology Srinagar,Srinagar,Jammu and Kashmir,42.63,IR-E-U-0197,65.87,14.29,57.85,63.89,6.19
+2021,Engineering,70,"Punjab Engineering College (Deemed to be University), Chandigarh",Chandigarh,Chandigarh,42.62,IR-E-U-0080,55.98,15.24,65.57,55.41,26.15
+2021,Engineering,71,Thiagarajar College of Engineering,Madurai,Tamil Nadu,42.58,IR-E-C-26794,56.11,18.65,60.91,50.99,28.83
+2021,Engineering,72,National Institute of Technology Patna,Patna,Bihar,42.06,IR-E-U-0072,54.45,24.3,61.87,50.77,9.87
+2021,Engineering,73,Indian Institute of Information Technology Guwahati,Guwahati,Assam,41.98,IR-E-U-0795,64.87,9.13,56.91,53.01,31.01
+2021,Engineering,74,College of Engineering (A),Visakhapatnam,Andhra Pradesh,41.92,IR-E-C-24004,64.45,9.77,69.23,53.92,4.23
+2021,Engineering,75,Graphic Era University,Dehradun,Uttarakhand,41.83,IR-E-U-0555,64.78,13.64,49.07,60.45,24.53
+2021,Engineering,76,International Institute of Information Technology Bangalore,Bengaluru,Karnataka,41.64,IR-E-U-0221,58.9,10.89,63.64,60.93,18.8
+2021,Engineering,77,R.V. College of Engineering,Bengaluru,Karnataka,41.52,IR-E-C-1269,63.87,14.45,57.01,50.3,15.86
+2021,Engineering,78,Sri Krishna College of Engineering and Technology,Coimbatore,Tamil Nadu,41.29,IR-E-C-36995,62.23,10.86,63.26,49.71,17.35
+2021,Engineering,79,Shri Mata Vaishno Devi University,Katra,Jammu and Kashmir,41.22,IR-E-U-0201,69.07,20.55,47.85,45.49,2.17
+2021,Engineering,80,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur",Jabalpur,Madhya Pradesh,41.17,IR-E-U-0286,46.17,29.61,61.76,54.06,6.83
+2021,Engineering,81,Indian Institute of Food Processing Technology (IIFPT),Thanjavur,Tamil Nadu,41.13,IR-E-C-45375,71.85,7.98,52.14,57.56,9.87
+2021,Engineering,82,"Veermata Jijabai Technological Institute, (VJTI, Mumbai)",Mumbai,Maharashtra,41.07,IR-E-C-33641,60.34,11.62,66.02,53.6,9.28
+2021,Engineering,83,PES University,Bengaluru,Karnataka,41.06,IR-E-U-0733,62.28,13.35,60.53,49.36,13.24
+2021,Engineering,84,Manipal University Jaipur,Jaipur,Rajasthan,40.63,IR-E-U-0749,65.35,16.65,50.79,58.72,0.0
+2021,Engineering,85,National Institute of Technology Goa,Ponda,Goa,40.6,IR-E-U-0620,56.69,21.42,53.53,57.08,7.45
+2021,Engineering,86,"National Institute of Technology, Jamshedpur",Jamshedpur,Jharkhand,40.53,IR-E-U-0207,56.45,15.62,67.65,45.74,8.07
+2021,Engineering,87,Indian Institute of Information Technology Allahabad,Prayagraj (Allahabad),Uttar Pradesh,40.28,IR-E-U-0516,46.57,15.7,72.28,51.74,19.73
+2021,Engineering,88,Netaji Subhas University of Technology (NSUT),South West,Delhi,40.22,IR-E-C-6379,47.14,22.25,65.82,44.23,18.32
+2021,Engineering,89,Panjab University,Chandigarh,Chandigarh,40.16,IR-E-U-0078,39.71,42.62,48.4,43.12,14.83
+2021,Engineering,90,Kumaraguru College of Technology,Coimbatore,Tamil Nadu,39.92,IR-E-C-36926,61.76,15.76,52.48,45.71,15.86
+2021,Engineering,91,University of Petroleum and Energy Studies,Dehradun,Uttarakhand,39.87,IR-E-U-0564,57.92,20.29,51.01,57.05,4.9
+2021,Engineering,92,National Institute of Technology Agartala,Agratala,Tripura,39.86,IR-E-U-0493,56.96,21.82,48.87,57.71,6.83
+2021,Engineering,93,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,39.84,IR-E-U-0489,55.8,28.48,38.53,63.61,4.9
+2021,Engineering,94,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,39.82,IR-E-U-0522,53.07,23.11,56.79,49.3,6.83
+2021,Engineering,95,College of Engineering Trivandrum,Thiruvananthapuram,Kerala,39.4,IR-E-C-43708,63.85,10.25,53.4,50.16,14.83
+2021,Engineering,96,Bharati Vidyapeeth Deemed University College of Engineering,Pune,Maharashtra,39.39,IR-E-C-35417,60.35,3.01,62.73,71.58,6.83
+2021,Engineering,97,The Northcap University,Gurugram,Haryana,39.23,IR-E-U-0163,60.36,12.71,56.83,51.32,8.07
+2021,Engineering,98,B.M.S. College of Engineering,Bengaluru,Karnataka,39.13,IR-E-C-1262,59.62,12.33,54.1,51.93,15.35
+2021,Engineering,99,National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,39.09,IR-E-U-0189,50.19,21.92,58.2,46.54,11.59
+2021,Engineering,100,"C.V. Raman Global University, Odisha",Bhubaneswar,Odisha,38.94,IR-E-C-30045,62.09,5.58,58.89,57.55,11.02
+2021,Engineering,101,Siddaganga Institute of Technology,Tumkur,Karnataka,38.81,IR-E-C-1297,59.38,15.43,54.24,49.56,5.55
+2021,Engineering,102,Coimbatore Institute of Technology,Coimbatore,Tamil Nadu,38.74,IR-E-C-36969,63.99,8.47,43.38,50.51,32.73
+2021,Engineering,103,Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,38.58,IR-E-U-0190,55.99,22.73,47.47,54.74,0.0
+2021,Engineering,104,Tezpur University,Tezpur,Assam,38.39,IR-E-U-0056,49.58,34.26,41.5,41.9,7.45
+2021,Engineering,105,Karunya Institute of Technology and Sciences,Coimbatore,Tamil Nadu,38.38,IR-E-U-0460,52.14,26.57,43.78,51.97,8.07
+2021,Engineering,106,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Gwalior,Madhya Pradesh,38.33,IR-E-U-0267,46.9,17.04,66.48,53.57,4.9
+2021,Engineering,107,Dhirubhai Ambani Institute of Information and Communication Technology,Gandhinagar,Gujarat,38.2,IR-E-U-0130,50.12,11.09,71.67,48.81,6.19
+2021,Engineering,108,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,37.93,IR-E-U-0099,41.3,32.95,47.68,44.66,16.36
+2021,Engineering,109,Sri Sairam Engineering College,Kancheepuram,Tamil Nadu,37.84,IR-E-C-16547,55.56,11.27,58.93,57.83,2.17
+2021,Engineering,110,Rajalakshmi Engineering College,Chennai,Tamil Nadu,37.71,IR-E-C-16626,64.13,4.96,56.15,53.93,3.56
+2021,Engineering,111,"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,37.7,IR-E-U-0043,57.75,15.85,49.23,56.26,1.46
+2021,Engineering,112,B. S. Abdur Rahman Crescent Institute of Science and Technology,Chennai,Tamil Nadu,37.58,IR-E-U-0445,60.38,16.43,47.28,44.6,6.19
+2021,Engineering,113,Chitkara University,Rajpura,Punjab,37.5,IR-E-U-0373,53.58,13.38,52.56,58.11,11.02
+2021,Engineering,114,National Institute of Technology Manipur,Imphal,Manipur,37.45,IR-E-U-0613,61.1,14.77,42.18,58.89,3.56
+2021,Engineering,115,National Institute of Foundry and Forge Technology (NIFFT),Ranchi,Jharkhand,37.35,IR-E-C-43264,67.07,4.72,53.71,45.16,5.55
+2021,Engineering,116,Veer Surendra Sai University of Technology,Burla,Odisha,37.34,IR-E-U-0367,53.46,22.16,46.3,47.1,6.83
+2021,Engineering,117,Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,37.3,IR-E-U-0143,56.48,14.79,52.46,50.11,4.23
+2021,Engineering,118,Manav Rachna International Institute of Research & Studies,Faridabad,Haryana,37.26,IR-E-U-0169,57.82,6.21,58.38,52.21,11.59
+2021,Engineering,119,Shri Ramdeobaba College of Engineering and Management,Nagpur,Maharashtra,37.22,IR-E-C-18886,59.71,7.98,57.72,50.85,2.87
+2021,Engineering,120,Punjab Technical University,Kapurthala,Punjab,37.15,IR-E-U-0382,63.62,32.28,16.04,46.24,5.55
+2021,Engineering,121,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,37.09,IR-E-I-1441,55.8,19.82,39.47,65.05,0.0
+2021,Engineering,122,Vishwakarma Institute of Technology,Pune,Maharashtra,36.82,IR-E-I-1015,56.71,5.43,63.65,48.32,6.19
+2021,Engineering,123,University College of Engingeering,Kakinada,Andhra Pradesh,36.72,IR-E-C-18154,59.48,4.18,57.92,56.26,4.23
+2021,Engineering,124,Mepco Schlenk Engineering College,Sivakasi,Tamil Nadu,36.67,IR-E-C-27058,49.66,19.34,47.9,46.51,17.35
+2021,Engineering,125,"Vels Institute of Science, Technology & Advanced Studies (VISTAS)",Chennai,Tamil Nadu,36.63,IR-E-U-0491,57.36,21.44,42.16,41.95,3.56
+2021,Engineering,126,Dayalbagh Educational Institute,Agra,Uttar Pradesh,36.62,IR-E-U-0507,61.61,7.63,49.47,53.44,6.19
+2021,Engineering,127,YMCA University of Science & Tech (Formerely YMCA Institute of Engineering),Faridabad,Haryana,36.59,IR-E-U-0175,59.79,6.05,55.73,50.04,6.83
+2021,Engineering,128,Government College of Technology,Coimbatore,Tamil Nadu,36.54,IR-E-C-36975,51.56,9.16,55.01,49.5,23.7
+2021,Engineering,129,Jaypee University of Information Technology,Solan,Himachal Pradesh,36.53,IR-E-U-0186,47.14,21.27,55.23,46.01,3.56
+2021,Engineering,130,G. H. Raisoni College of Engineering,Nagpur,Maharashtra,36.46,IR-E-C-18817,52.49,8.85,60.93,48.69,9.87
+2021,Engineering,131,PSG Institute of Technology and Applied Research,Coimbatore,Tamil Nadu,36.41,IR-E-C-50605,60.8,2.1,55.86,49.86,13.78
+2021,Engineering,132,University College of Engineering,Hyderabad,Telangana,36.37,IR-E-C-27616,59.95,6.78,52.91,50.28,7.45
+2021,Engineering,133,Chaitanya Bharathi Institute of Technology,Hyderabad,Telangana,36.32,IR-E-C-25622,60.36,2.21,56.74,51.57,10.45
+2021,Engineering,134,SR University,Warangal,Telangana,36.11,IR-E-C-19754,62.51,6.49,41.74,62.54,8.07
+2021,Engineering,135,Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology,Hyderabad,Telangana,36.06,IR-E-C-19667,61.89,6.83,50.96,47.63,4.9
+2021,Engineering,136,The Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,Maharashtra,35.95,IR-E-U-0332,49.65,23.08,48.98,42.64,0.74
+2021,Engineering,137,Sri Krishna College of Technology,Coimbatore,Tamil Nadu,35.94,IR-E-C-37064,54.45,8.12,60.34,47.44,3.56
+2021,Engineering,138,NMAM Institute of Technology,"Nitte, Udupi",Karnataka,35.93,IR-E-C-1400,59.12,9.14,50.79,48.71,4.23
+2021,Engineering,139,P E S College of Engineering,Mandya,Karnataka,35.89,IR-E-C-1345,60.69,1.04,56.57,60.6,0.0
+2021,Engineering,139,Army Institute of Technology,Pune,Maharashtra,35.89,IR-E-C-42054,53.37,1.08,64.93,58.2,7.45
+2021,Engineering,141,New Horizon College of Engineering,Bengaluru,Karnataka,35.87,IR-E-C-1371,51.75,5.91,64.47,53.23,3.56
+2021,Engineering,141,Vardhaman College of Engineering,Rangareddy,Telangana,35.87,IR-E-C-19650,53.07,8.0,55.81,48.64,15.35
+2021,Engineering,143,Bharatiya Vidya Bhavan`s Sardar Patel Institute of Technology,Mumbai,Maharashtra,35.67,IR-E-C-33773,48.87,11.24,63.74,46.71,2.17
+2021,Engineering,144,Pondicherry Engineering College,Puducherry,Puducherry,35.66,IR-E-C-6581,50.19,14.63,56.41,34.53,14.83
+2021,Engineering,144,National Institute of Technology Puducherry,Karaikal,Puducherry,35.66,IR-E-U-0621,52.36,5.42,53.92,68.57,6.83
+2021,Engineering,146,Anurag University,Hyderabad,Telangana,35.55,IR-E-C-19747,55.78,2.62,52.86,60.28,14.31
+2021,Engineering,147,Chandigarh Engineering College,Sahibzada Ajit Singh Nagar,Punjab,35.42,IR-E-C-10342,60.56,4.7,46.08,66.18,0.0
+2021,Engineering,148,"National Institute of Food Technology, Entrepreneurship & Management",Sonipat,Haryana,35.35,IR-E-S-8898,52.72,5.62,57.16,63.41,0.74
+2021,Engineering,149,Yeshwantrao Chavan College of Engineering,Nagpur,Maharashtra,35.28,IR-E-C-18254,56.1,7.1,55.05,52.36,0.74
+2021,Engineering,150,Dr. Vishwanath Karad MIT World Peace University,Pune,Maharashtra,35.24,IR-E-U-0938,61.8,6.18,50.16,48.25,0.0
+2021,Engineering,151,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,35.18,IR-E-N-10,56.25,7.13,52.07,55.33,2.17
+2021,Engineering,152,BMS Institute of Technology & Management,Bengaluru,Karnataka,35.1,IR-E-C-1336,49.99,4.88,59.32,54.59,13.24
+2021,Engineering,153,Nirma University,Ahmedabad,Gujarat,35.07,IR-E-U-0146,52.02,13.43,51.68,45.95,4.9
+2021,Engineering,154,"Amity University, Gwalior",Gwalior,Madhya Pradesh,35.02,IR-E-U-0604,57.48,3.71,58.75,46.18,2.87
+2021,Engineering,155,CVR College Of Engineering,Ibrahimpatan,Telangana,35.0,IR-E-C-19607,58.79,3.48,54.75,52.16,1.46
+2021,Engineering,156,"Government Engineering College, Thrissur",Thrissur,Kerala,34.91,IR-E-C-8277,60.69,3.88,50.29,51.95,2.87
+2021,Engineering,157,"Jain University, Bangalore",Bengluru,Karnataka,34.72,IR-E-U-0223,48.96,18.52,44.87,54.32,0.74
+2021,Engineering,158,Maulana Abul Kalam Azad University of Technology,Nadia,West Bengal,34.7,IR-E-U-0592,46.79,18.71,52.47,42.66,2.87
+2021,Engineering,159,Institute of Aeronautical Engineering,Hyderabad,Telangana,34.61,IR-E-C-19706,50.17,14.51,49.88,49.39,2.87
+2021,Engineering,160,National Institute of Technology Arunachal Pradesh,Itanagar,Arunachal Pradesh,34.59,IR-E-U-0615,59.59,9.94,41.8,51.5,2.17
+2021,Engineering,161,Indira Gandhi Delhi Technical University for Women,Delhi,Delhi,34.52,IR-E-U-0685,43.09,8.82,65.36,54.48,4.23
+2021,Engineering,161,Sant Longowal Institute of Engineering & Technology,Longowal,Punjab,34.52,IR-E-U-0384,58.4,16.31,29.59,57.04,4.9
+2021,Engineering,163,"Silicon Institute of Technology (SIT), Bhubaneswar",Bhubaneswar,Odisha,34.46,IR-E-C-30153,55.5,3.07,54.5,59.17,0.74
+2021,Engineering,164,Kongu Engineering College,Perundurai,Tamil Nadu,34.38,IR-E-C-37065,57.61,8.0,46.3,43.96,10.45
+2021,Engineering,165,Goka Raju Ranga Raju Institute of Engineering & Technology,Hyderabad,Telangana,34.36,IR-E-C-19534,55.87,5.71,52.63,49.43,4.23
+2021,Engineering,166,Annamalai University,Annamalainagar,Tamil Nadu,34.23,IR-E-U-0443,59.64,25.05,21.64,30.19,14.83
+2021,Engineering,167,Rajiv Gandhi Institute of Petroleum Technology,Amethi,Uttar Pradesh,34.18,IR-E-U-0535,58.91,7.14,49.49,42.47,2.17
+2021,Engineering,168,Nitte Meenakshi Institute of Technology,Bengaluru,Karnataka,34.14,IR-E-C-1352,57.43,4.88,50.31,51.73,2.17
+2021,Engineering,169,Institute of Engineering & Management,Kolkata,West Bengal,34.09,IR-E-C-6192,50.66,9.34,44.8,67.09,4.23
+2021,Engineering,170,R.M.K. Engineering College,Thiruvallur,Tamil Nadu,34.04,IR-E-C-16614,54.45,3.25,55.6,52.39,3.56
+2021,Engineering,171,Noida Institute of Engineering & Technology,Greater Noida,Uttar Pradesh,33.99,IR-E-I-1093,52.45,1.37,57.5,48.67,14.83
+2021,Engineering,172,Hindustan Institute of Technology and Science (HITS),Chennai,Tamil Nadu,33.98,IR-E-U-0454,48.41,17.65,44.02,46.84,6.83
+2021,Engineering,172,Dr. D. Y. Patil Institute of Technology,Pune,Maharashtra,33.98,IR-E-C-42227,53.67,0.46,60.1,51.72,5.55
+2021,Engineering,172,Guru Nanak Dev University,Amritsar,Punjab,33.98,IR-E-U-0376,24.31,32.53,56.36,46.22,10.45
+2021,Engineering,175,Sri Ramakrishna Engineering College,Coimbatore,Tamil Nadu,33.96,IR-E-C-37089,54.46,6.83,50.09,45.1,10.45
+2021,Engineering,176,KIET Group of Institutions,Ghaziabad,Uttar Pradesh,33.85,IR-E-C-46111,57.83,4.54,53.35,44.67,0.0
+2021,Engineering,177,Galgotias University,Gautam Budh Nagar,Uttar Pradesh,33.79,IR-E-U-0643,54.08,8.46,49.47,49.18,2.17
+2021,Engineering,178,Velagapudi Ramakrishna Siddhartha Engineering College,Vijayawada,Andhra Pradesh,33.73,IR-E-C-18010,54.41,8.15,46.79,52.53,3.56
+2021,Engineering,179,Sharda University,Greater Noida,Uttar Pradesh,33.64,IR-E-U-0541,52.08,10.44,41.15,54.55,12.15
+2021,Engineering,180,KLE Technological University,Dharwad,Karnataka,33.58,IR-E-U-0854,54.63,6.75,50.42,48.01,2.87
+2021,Engineering,181,Shri G. S. Institute of Technology & Science,Indore,Madhya Pradesh,33.49,IR-E-C-36143,52.93,3.8,55.1,48.3,6.19
+2021,Engineering,182,North Eastern Regional Institute of Science & Technology,Itanagar,Arunachal Pradesh,33.38,IR-E-U-0046,60.11,11.98,34.94,43.51,4.23
+2021,Engineering,183,St. Josephs College of Engineering,Kancheepuram,Tamil Nadu,33.36,IR-E-C-16537,51.5,10.67,50.71,45.66,0.0
+2021,Engineering,184,Lakshmi Narain College of Technology,Bhopal,Madhya Pradesh,33.23,IR-E-C-36022,51.79,1.86,57.61,55.45,0.74
+2021,Engineering,185,Centurion University of Technology and Management,Paralakhemundi,Odisha,33.14,IR-E-U-0353,52.52,3.79,54.32,53.05,0.74
+2021,Engineering,186,Rabindranath Tagore University,Raisen,Madhya Pradesh,33.07,IR-E-I-1356,56.04,1.76,47.95,61.42,0.0
+2021,Engineering,186,National Institute of Technology Uttarakhand,Srinagar (Garhwal),Uttarakhand,33.07,IR-E-U-0616,57.07,12.26,42.75,35.71,1.46
+2021,Engineering,188,JSS Science and Technology University,Mysuru,Karnataka,33.04,IR-E-C-1412,50.71,4.3,53.39,49.93,8.68
+2021,Engineering,189,Easwari Engineering College,Chennai,Tamil Nadu,32.75,IR-E-C-16560,51.44,2.41,56.66,48.49,4.23
+2021,Engineering,190,International Institute of Information Technology Bhubaneswar,Bhubaneswar,Odisha,32.73,IR-E-I-1033,42.3,12.58,54.47,49.64,4.23
+2021,Engineering,191,National Engineering College,Kovilpatti,Tamil Nadu,32.64,IR-E-C-27089,56.42,5.8,45.79,46.72,1.46
+2021,Engineering,192,Sona College of Technology,Salem,Tamil Nadu,32.61,IR-E-C-37028,53.68,4.16,49.5,48.67,4.9
+2021,Engineering,193,C M R Institute of Technology,Bengaluru,Karnataka,32.56,IR-E-C-1406,55.56,4.14,46.07,52.22,2.17
+2021,Engineering,194,G.L.Bajaj Institute of Technology and Management,Greater Noida,Uttar Pradesh,32.55,IR-E-C-46239,57.13,3.72,47.78,47.32,0.0
+2021,Engineering,195,DIT University,Dehradun,Uttarakhand,32.53,IR-E-U-0774,50.14,7.09,48.53,55.03,1.46
+2021,Engineering,196,The National Institute of Engineering,Mysore,Karnataka,32.52,IR-E-C-1438,53.79,2.33,51.03,50.48,4.23
+2021,Engineering,197,K. J. Somaiya College of Engineering,Mumbai,Maharashtra,32.48,IR-E-C-33584,52.22,3.33,58.94,38.08,2.17
+2021,Engineering,197,Kakatiya Institute of Technology & Science,Warangal,Telangana,32.48,IR-E-C-27400,55.8,1.64,49.13,49.25,4.9
+2021,Engineering,199,Walchand College of Engineering,Sangli,Maharashtra,32.46,IR-E-C-11015,48.25,4.54,56.11,47.93,6.19
+2021,Engineering,200,Sri Venkateswara University,Tirupati,Andhra Pradesh,32.42,IR-E-U-0037,41.76,25.59,37.58,43.31,3.56
+2021,Management,1,Indian Institute of Management Ahmedabad,Ahmedabad,Gujarat,83.69,IR-M-S-8890,91.41,65.09,99.43,70.01,98.53
+2021,Management,2,Indian Institute of Management Bangalore,Bengaluru,Karnataka,83.48,IR-M-S-8903,91.53,63.43,98.99,71.88,100.0
+2021,Management,3,Indian Institute of Management Calcutta,Kolkata,West Bengal,80.04,IR-M-S-8972,87.33,58.14,98.1,72.9,94.87
+2021,Management,4,Indian Institute of Management Kozhikode,Kozhikode,Kerala,73.34,IR-M-S-8909,81.37,52.04,95.38,68.28,74.1
+2021,Management,5,Indian Institute of Technology Delhi,New Delhi,Delhi,72.15,IR-M-I-1074,67.47,76.71,86.18,59.33,57.31
+2021,Management,6,Indian Institute of Management Indore,Indore,Madhya Pradesh,71.1,IR-M-S-8918,81.54,50.74,93.98,66.29,59.91
+2021,Management,7,Indian Institute of Management Lucknow,Lucknow,Uttar Pradesh,71.02,IR-M-S-8959,84.54,41.12,94.84,68.06,75.51
+2021,Management,8,Xavier Labour Relations Institute (XLRI),Jamshedpur,Jharkhand,69.93,IR-M-S-132,87.8,39.37,98.38,67.33,53.66
+2021,Management,9,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,69.5,IR-M-U-0573,62.46,75.87,90.66,51.02,47.68
+2021,Management,10,Indian Institute of Technology Bombay,Mumbai,Maharashtra,68.08,IR-M-U-0306,86.23,49.98,85.26,57.51,44.16
+2021,Management,11,Management Development Institute,Gurugram,Haryana,67.59,IR-M-I-1170,78.04,49.36,95.55,69.81,32.8
+2021,Management,12,"National Institute of Industrial Engineering, Mumbai",Mumbai,Maharashtra,64.52,IR-M-S-8931,73.05,49.9,93.47,67.69,21.81
+2021,Management,13,Indian Institute of Technology Madras,Chennai,Tamil Nadu,64.32,IR-M-U-0456,67.24,57.1,78.44,62.13,51.25
+2021,Management,14,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,63.79,IR-M-U-0560,57.49,76.37,80.11,57.56,18.54
+2021,Management,15,Indian Institute of Management Raipur,Raipur,Chhattisgarh,62.12,IR-M-S-8868,79.91,35.73,90.13,71.0,23.05
+2021,Management,16,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,61.31,IR-M-I-1075,67.6,54.16,83.12,56.22,25.42
+2021,Management,17,Indian Institute of Management Tiruchirappalli,Tiruchirappalli,Tamil Nadu,61.1,IR-M-S-8948,76.15,28.66,86.12,62.82,61.64
+2021,Management,18,Indian Institute of Management Udaipur,Udaipur,Rajasthan,60.94,IR-M-S-8942,79.24,34.91,84.46,70.4,27.67
+2021,Management,19,S. P. Jain Institute of Management & Research,Mumbai,Maharashtra,58.73,IR-M-I-1044,74.82,22.49,99.16,70.37,26.56
+2021,Management,20,Symbiosis Institute of Business Management,Pune,Maharashtra,58.64,IR-M-C-19343,79.53,19.99,94.97,67.56,30.32
+2021,Management,21,Indian Institute of Management Ranchi,Ranchi,Jharkhand,58.26,IR-M-S-8904,71.44,25.54,91.75,72.58,35.61
+2021,Management,22,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,57.53,IR-M-N-10,77.77,21.57,92.07,69.48,23.66
+2021,Management,23,Indian Institute of Management Shillong,Shillong,Meghalaya,56.87,IR-M-S-8937,70.29,18.79,93.21,77.6,37.38
+2021,Management,24,Great Lakes Institute of Management,Chennai,Tamil Nadu,56.75,IR-M-N-16,84.52,19.46,84.54,66.6,19.88
+2021,Management,25,Indian Institute of Foreign Trade,New Delhi,Delhi,56.59,IR-M-U-0102,79.06,18.18,85.64,59.54,43.41
+2021,Management,26,International Management Institute,New Delhi,Delhi,56.26,IR-M-I-1064,68.62,31.02,87.5,70.06,18.54
+2021,Management,27,ICFAI Foundation for Higher Education,Hyderabad,Telangana,55.82,IR-M-U-0012,73.96,31.74,76.98,75.99,11.11
+2021,Management,28,Indian Institute of Management Rohtak,Rohtak,Haryana,55.4,IR-M-S-8895,56.43,35.03,88.05,75.82,27.67
+2021,Management,29,Amity University,Gautam Budh Nagar,Uttar Pradesh,55.09,IR-M-U-0497,68.77,46.74,67.7,56.34,12.71
+2021,Management,30,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,54.54,IR-M-U-0205,72.69,43.64,59.17,53.32,24.84
+2021,Management,31,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,54.35,IR-M-U-0356,76.28,21.5,80.13,76.37,13.48
+2021,Management,32,T. A. Pai Management Institute Manipal,Manipal,Karnataka,54.08,IR-M-S-156,66.02,26.94,86.13,67.85,21.81
+2021,Management,33,Indian Institute of Management Kashipur,Kashipur,Uttarakhand,53.1,IR-M-S-8967,65.05,26.53,86.13,62.1,21.81
+2021,Management,34,Xavier University,Bhubaneswar,Odisha,53.05,IR-M-U-0715,68.29,22.13,91.99,53.96,21.18
+2021,Management,35,Goa Institute of Management,Sanquelim,Goa,52.75,IR-M-S-87,71.6,17.3,84.98,75.12,15.73
+2021,Management,36,Jamia Millia Islamia,New Delhi,Delhi,52.39,IR-M-U-0108,65.25,32.45,75.78,67.99,11.11
+2021,Management,37,Lovely Professional University,Phagwara,Punjab,51.85,IR-M-U-0379,73.17,33.66,57.63,67.66,14.99
+2021,Management,38,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,51.61,IR-M-U-0020,68.23,46.13,49.97,68.12,4.99
+2021,Management,38,"Institute of Management Technology, Ghaziabad",Ghaziabad,Uttar Pradesh,51.61,IR-M-S-394,70.3,23.62,81.92,58.73,11.92
+2021,Management,40,Indian Institute of Management,Nagpur,Maharashtra,50.62,IR-M-S-15962,72.82,5.15,86.53,64.91,34.23
+2021,Management,41,BML Munjal University,Gurgaon,Haryana,50.05,IR-M-U-0735,67.73,23.78,76.49,66.16,6.84
+2021,Management,42,Thapar Institute of Engineering and Technology,Patiala,Punjab,49.76,IR-M-I-1480,62.91,38.92,58.21,63.79,11.92
+2021,Management,43,Fore School of Management,New Delhi,Delhi,49.34,IR-M-I-1066,68.95,11.43,86.64,65.54,13.48
+2021,Management,44,Birla Institute of Management Technology,Greater Noida,Uttar Pradesh,48.83,IR-M-S-354,67.15,12.37,82.73,71.46,12.71
+2021,Management,45,Chandigarh University,Mohali,Punjab,48.57,IR-M-U-0747,69.97,12.71,65.47,81.38,25.42
+2021,Management,46,University of Petroleum and Energy Studies,Dehradun,Uttarakhand,48.47,IR-M-U-0564,69.62,28.32,63.1,63.64,1.05
+2021,Management,47,Banaras Hindu University,Varanasi,Uttar Pradesh,47.89,IR-M-U-0500,55.85,27.42,78.26,52.04,20.53
+2021,Management,48,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,47.71,IR-M-U-0467,40.84,39.01,74.19,63.2,25.99
+2021,Management,49,Aligarh Muslim University,Aligarh,Uttar Pradesh,47.64,IR-M-U-0496,57.89,36.63,68.96,44.61,10.29
+2021,Management,50,KREA University,"Sri City, Chittoor",Andhra Pradesh,47.58,IR-M-I-1238,72.03,4.34,84.06,73.59,4.99
+2021,Management,51,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,47.54,IR-M-U-0099,59.63,21.91,75.27,52.63,27.67
+2021,Management,52,International Management Institute,Kolkata,West Bengal,47.48,IR-M-I-1408,69.51,12.48,79.77,63.36,5.93
+2021,Management,53,PSG College of Technology,Coimbatore,Tamil Nadu,47.09,IR-M-C-37013,59.52,15.85,74.94,51.75,43.04
+2021,Management,54,Chitkara University,Rajpura,Punjab,47.06,IR-M-U-0373,70.05,15.35,65.91,70.67,11.92
+2021,Management,55,Institute of Rural Management Anand,Anand,Gujarat,46.87,IR-M-S-92,60.79,14.14,82.52,60.4,18.54
+2021,Management,56,K.J.Somaiya Institute Of Management,Mumbai,Maharashtra,46.68,IR-M-S-220,69.24,8.13,83.48,59.05,8.6
+2021,Management,57,Anna University,Chennai,Tamil Nadu,46.62,IR-M-U-0439,47.31,40.72,51.16,50.81,49.02
+2021,Management,58,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Gwalior,Madhya Pradesh,46.58,IR-M-U-0267,70.99,23.76,57.61,52.84,13.48
+2021,Management,59,Jaipuria Institute of Management,Noida,Uttar Pradesh,46.32,IR-M-S-3283,64.6,10.3,78.58,67.81,13.48
+2021,Management,60,Alliance University,Bengaluru,Karnataka,46.23,IR-M-U-0213,70.3,7.5,78.2,68.5,4.04
+2021,Management,61,Indian Institute of Management Sambalpur,Sambalpur,Odisha,46.17,IR-M-S-6,60.5,9.82,80.87,63.61,25.42
+2021,Management,62,International Management Institute Bhubaneswar,Bhubaneswar,Odisha,46.08,IR-M-I-1124,71.14,9.59,73.91,66.83,4.04
+2021,Management,63,Institute of Management Technology,Hyderabad,Telangana,46.04,IR-M-I-1132,65.13,10.11,75.25,69.2,14.99
+2021,Management,64,Graphic Era University,Dehradun,Uttarakhand,45.16,IR-M-U-0555,58.8,26.7,55.75,66.42,17.16
+2021,Management,65,Loyola Institute of Business Administration,Chennai,Tamil Nadu,44.74,IR-M-S-331,57.71,6.57,80.44,56.83,36.94
+2021,Management,66,Pandit Deendayal Petroleum University,Gandhinagar,Gujarat,44.56,IR-M-U-0147,65.62,19.26,68.01,53.92,1.05
+2021,Management,67,"Indian Institute of Management, Amritsar",Amritsar,Punjab,44.53,IR-M-S-16881,49.83,10.18,88.36,66.77,21.81
+2021,Management,68,"Jaipuria Institute of Management, Lucknow",Lucknow,Uttar Pradesh,44.32,IR-M-S-419,65.49,4.06,80.8,57.91,14.99
+2021,Management,69,Bharati Vidyapeeth's Institute of Management and Entrepreneurship Development,Pune,Maharashtra,43.99,IR-M-I-1156,66.11,0.24,75.12,75.04,15.73
+2021,Management,70,Birla Institute of Technology,Ranchi,Jharkhand,43.95,IR-M-U-0202,57.78,22.29,60.02,58.07,21.18
+2021,Management,71,Jagan Institute of Management Studies,Delhi,Delhi,43.92,IR-M-C-32855,63.92,3.96,80.6,69.34,4.99
+2021,Management,72,Principal L N Welingkar Institute of Management Development and Research,Mumbai,Maharashtra,43.73,IR-M-C-34129,66.21,6.11,78.1,58.34,5.93
+2021,Management,73,IIHMR University,Jaipur,Rajasthan,43.44,IR-M-U-0851,64.29,7.49,71.36,74.17,2.07
+2021,Management,74,Jaipuria Institute of Management,Jaipur,Rajasthan,43.32,IR-M-S-309,68.57,6.21,72.19,57.7,6.84
+2021,Management,75,Indian Institute of Forest Management,Bhopal,Madhya Pradesh,43.22,IR-M-I-1058,69.04,3.0,72.77,56.36,14.24
+2021,Pharmacy,1,Jamia Hamdard,New Delhi,Delhi,78.52,IR-P-U-0107,75.03,82.33,82.36,57.63,90.75
+2021,Pharmacy,2,Panjab University,Chandigarh,Chandigarh,77.99,IR-P-U-0078,76.44,80.63,77.42,73.07,80.78
+2021,Pharmacy,3,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,75.57,IR-P-U-0391,90.02,61.69,81.75,70.71,66.33
+2021,Pharmacy,4,National Institute of Pharmaceutical Education and Research Mohali,Mohali,Punjab,74.52,IR-P-U-0380,77.38,61.47,81.56,65.54,100.0
+2021,Pharmacy,5,Institute of Chemical Technology,Mumbai,Maharashtra,74.18,IR-P-U-0308,80.79,66.1,84.0,52.33,80.78
+2021,Pharmacy,6,National Institute of Pharmaceutical Education and Research Hyderabad,Hyderabad,Telangana,74.08,IR-P-I-1077,79.55,58.82,89.96,71.06,74.72
+2021,Pharmacy,7,JSS College of Pharmacy,Ooty,Tamil Nadu,68.99,IR-P-C-35006,83.34,33.64,90.34,73.91,84.38
+2021,Pharmacy,8,"Manipal College of Pharmaceutical Sciences, Manipal",Udupi,Karnataka,67.65,IR-P-C-7249,75.73,50.2,74.53,67.9,81.71
+2021,Pharmacy,9,JSS College of Pharmacy,Mysore,Karnataka,65.18,IR-P-C-35007,78.93,30.3,89.7,66.85,77.86
+2021,Pharmacy,10,National Institute of Pharmaceutical Education and Research Ahmedabad,Gandhinagar,Gujarat,63.3,IR-P-N-14,73.18,51.41,73.85,65.41,46.25
+2021,Pharmacy,11,Amity University,Gautam Budh Nagar,Uttar Pradesh,61.48,IR-P-U-0497,73.61,61.77,57.72,59.54,33.82
+2021,Pharmacy,12,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,61.21,IR-P-U-0436,68.19,57.78,68.21,77.63,20.25
+2021,Pharmacy,13,National Institute of Pharmaceutical Education and Research Raebareli,Lucknow,Uttar Pradesh,60.33,IR-P-N-26,86.81,36.87,63.82,63.0,41.71
+2021,Pharmacy,14,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,59.99,IR-P-N-10,80.16,43.19,76.17,61.49,16.03
+2021,Pharmacy,15,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,58.39,IR-P-U-0473,67.92,52.18,69.42,50.86,33.82
+2021,Pharmacy,16,Annamalai University,Annamalainagar,Tamil Nadu,57.86,IR-P-U-0443,72.47,48.32,71.64,36.35,36.62
+2021,Pharmacy,17,"Poona College of Pharmacy, Pune",Pune,Maharashtra,55.97,IR-P-C-35430,70.91,29.91,73.26,54.99,55.81
+2021,Pharmacy,18,"Punjabi University, Patiala",Patiala,Punjab,55.74,IR-P-U-0383,61.26,46.44,68.14,42.2,55.81
+2021,Pharmacy,19,National Institute of Pharmaceutical Education and Research Guwahati,Guwahati,Assam,55.73,IR-P-I-1073,67.16,31.6,74.58,57.7,54.07
+2021,Pharmacy,20,Nirma University,Ahmedabad,Gujarat,55.06,IR-P-U-0146,64.13,42.21,72.53,52.68,33.82
+2021,Pharmacy,21,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,54.82,IR-P-I-1486,67.44,34.67,70.81,52.0,48.34
+2021,Pharmacy,22,Banasthali Vidyapith,Banasthali,Rajasthan,54.21,IR-P-U-0389,72.21,24.12,85.5,76.05,6.06
+2021,Pharmacy,23,Lovely Professional University,Phagwara,Punjab,54.2,IR-P-U-0379,66.22,54.64,51.34,56.46,20.25
+2021,Pharmacy,24,Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,53.33,IR-P-U-0143,52.8,44.53,74.79,57.91,33.82
+2021,Pharmacy,25,Bombay College of Pharmacy,Mumbai,Maharashtra,53.24,IR-P-C-33873,74.55,20.72,63.3,53.68,66.33
+2021,Pharmacy,26,Birla Institute of Technology,Ranchi,Jharkhand,52.34,IR-P-U-0202,64.33,31.69,60.37,60.46,54.07
+2021,Pharmacy,27,Guru Jambheshwar University of Science and Technology,Hisar,Haryana,51.28,IR-P-U-0162,71.14,31.4,56.51,45.96,46.25
+2021,Pharmacy,28,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,Mumbai,Maharashtra,51.2,IR-P-C-33877,72.88,28.04,70.64,52.04,16.03
+2021,Pharmacy,29,I. S. F. College of Pharmacy,Moga,Punjab,50.77,IR-P-C-10398,60.99,31.41,65.18,60.86,39.24
+2021,Pharmacy,30,AU College of Pharmaceutical Sciences,Visakhapatnam,Andhra Pradesh,50.52,IR-P-I-1450,52.78,27.59,83.0,42.26,55.81
+2021,Pharmacy,31,Maharshi Dayanand University,Rohtak,Haryana,50.19,IR-P-I-1280,59.64,38.87,56.72,49.0,44.04
+2021,Pharmacy,32,Delhi Pharmaceutical Sciences and Research University,Delhi,Delhi,50.08,IR-P-U-0853,55.89,18.16,75.54,58.62,68.91
+2021,Pharmacy,33,National Institute of Pharmaceutical Education and Research Kolkata,Kolkata,West Bengal,49.9,IR-P-I-1072,80.14,13.74,57.25,63.71,39.24
+2021,Pharmacy,34,Maharishi Markandeshwar,Ambala,Haryana,49.81,IR-P-U-0168,59.93,32.19,63.51,53.02,41.71
+2021,Pharmacy,35,Chitkara University,Rajpura,Punjab,49.68,IR-P-U-0373,71.61,17.33,62.38,63.48,41.71
+2021,Pharmacy,36,Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,49.38,IR-P-U-0190,67.81,31.94,65.22,52.9,11.34
+2021,Pharmacy,37,"Vels Institute of Science, Technology & Advanced Studies (VISTAS)",Chennai,Tamil Nadu,49.06,IR-P-U-0491,65.26,40.73,49.66,49.2,24.08
+2021,Pharmacy,38,Dibrugarh University,Dibrugarh,Assam,48.89,IR-P-U-0051,67.35,29.8,61.27,41.07,33.82
+2021,Pharmacy,39,Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research,Pune,Maharashtra,48.27,IR-P-I-1335,70.16,8.18,73.74,53.97,46.25
+2021,Pharmacy,40,"KLE College of Pharmacy, Belgaum",Belgaum,Karnataka,46.26,IR-P-C-24505,68.3,11.36,69.61,60.31,24.08
+2021,Pharmacy,41,Integral University,Lucknow,Uttar Pradesh,45.7,IR-P-U-0519,62.12,34.65,46.3,43.33,30.82
+2021,Pharmacy,42,Guru Ghasidas Vishwavidyalaya,Bilaspur,Chhattisgarh,45.64,IR-P-U-0085,70.01,32.45,53.71,41.62,0.0
+2021,Pharmacy,43,Noida Institute of Engineering and Technology (Pharmacy Institute),Greater Noida,Uttar Pradesh,45.5,IR-P-I-1256,63.12,3.19,70.28,56.28,59.1
+2021,Pharmacy,44,Sri Padmavathi Mahila Visvavidyalayam,Tirupathi,Andhra Pradesh,45.4,IR-P-U-0034,68.76,24.16,55.53,52.82,11.34
+2021,Pharmacy,45,Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences,Mangaluru,Karnataka,45.39,IR-P-C-19322,68.3,16.74,67.04,58.59,6.06
+2021,Pharmacy,46,Smt. Kishoritai Bhoyar College of Pharmacy,Nagpur,Maharashtra,44.91,IR-P-C-18900,66.36,6.38,70.44,53.43,36.62
+2021,Pharmacy,47,L. M. College of Pharmacy,Ahmedabad,Gujarat,44.77,IR-P-C-409,69.91,9.39,56.96,51.91,44.04
+2021,Pharmacy,48,Kakatiya University,Hanamkonda,Telangana,44.4,IR-P-U-0019,43.2,31.1,64.19,50.97,41.71
+2021,Pharmacy,49,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",Kolhapur,Maharashtra,43.74,IR-P-C-11091,62.61,16.51,60.25,52.0,27.58
+2021,Pharmacy,50,R. C. Patel Institute of Pharmaceutical Education & Research,Shirpur,Maharashtra,43.34,IR-P-I-1045,71.18,11.08,65.57,55.6,0.0
+2021,Pharmacy,51,Chandigarh University,Mohali,Punjab,43.33,IR-P-U-0747,69.64,6.86,53.89,75.79,20.25
+2021,Pharmacy,52,M.S. Ramaiah University of Applied Sciences,Bangalore,Karnataka,43.12,IR-P-U-0724,65.15,16.04,50.25,59.62,27.58
+2021,Pharmacy,53,Y. B. Chavan College of Pharmacy,Aurangabad,Maharashtra,43.03,IR-P-C-34531,64.52,13.57,54.11,51.2,36.62
+2021,Pharmacy,54,Sri Venkateswara University,Tirupati,Andhra Pradesh,42.36,IR-P-U-0037,48.39,32.37,56.81,51.65,16.03
+2021,Pharmacy,55,Raghavendra Institute of Pharmaceuatical Education & Research,Anantapur,Andhra Pradesh,42.16,IR-P-C-26907,62.66,5.15,67.3,56.04,27.58
+2021,Pharmacy,56,Goa College of Pharmacy,Panaji,Goa,42.13,IR-P-C-30858,66.76,4.22,61.09,52.28,33.82
+2021,Pharmacy,57,Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy,Bela,Punjab,42.11,IR-P-C-10250,60.03,8.18,71.48,62.25,11.34
+2021,Pharmacy,58,"Kumaun University, Nainital",Nainital,Uttarakhand,41.89,IR-P-U-0562,61.06,21.79,56.9,50.41,6.06
+2021,Pharmacy,59,G. L. A. University,Mathura,Uttar Pradesh,41.78,IR-P-U-0513,64.29,20.05,51.1,46.5,16.03
+2021,Pharmacy,60,Acharya & B M Reddy College of Pharmacy,Bengaluru,Karnataka,41.66,IR-P-C-40354,63.5,6.89,67.13,55.05,16.03
+2021,Pharmacy,61,Anurag University,Hyderabad,Telangana,41.28,IR-P-C-19747,61.03,4.95,47.64,63.77,55.81
+2021,Pharmacy,62,Sri Venkateswara College of Pharmacy,Chittoor,Andhra Pradesh,41.2,IR-P-C-26904,66.16,2.56,70.09,65.6,0.0
+2021,Pharmacy,63,"Chandigarh College of Pharmacy, Landran",Landran,Punjab,40.72,IR-P-C-10283,63.61,13.54,51.26,62.01,11.34
+2021,Pharmacy,64,PSG College of Pharmacy,Coimbatore,Tamil Nadu,40.4,IR-P-C-45540,57.28,9.66,51.26,52.31,48.34
+2021,Pharmacy,65,Bharati Vidyapeeth's College of Pharmacy,Navi Mumbai,Maharashtra,40.26,IR-P-C-33814,65.95,11.13,44.32,51.86,30.82
+2021,Pharmacy,66,C.U. Shah College of Pharmacy,Mumbai,Maharashtra,40.13,IR-P-C-44200,64.43,5.13,55.98,52.96,27.58
+2021,Pharmacy,67,Mohan Lal Sukhadia University,Udaipur,Rajasthan,39.8,IR-P-U-0413,64.44,14.95,53.91,52.13,0.0
+2021,Pharmacy,68,Bundelkhand University,Jhansi,Uttar Pradesh,39.61,IR-P-U-0502,65.24,11.09,60.24,46.61,0.0
+2021,Pharmacy,69,Guru Nanak Institute of Pharmaceutical Science & Technology,Kolkata,West Bengal,39.47,IR-P-S-10906,63.11,2.72,68.6,48.65,11.34
+2021,Pharmacy,69,Chalapathi Institute of Pharmaceutical Sciences,Guntur,Andhra Pradesh,39.47,IR-P-C-39486,64.14,5.47,67.04,51.81,0.0
+2021,Pharmacy,71,Pt. Ravishankar Shukla University,Raipur,Chhattisgarh,39.33,IR-P-U-0093,46.84,23.24,65.17,46.66,6.06
+2021,Pharmacy,72,Jaipur National University,Jaipur,Rajasthan,38.7,IR-P-U-0401,50.72,27.44,51.75,49.04,0.0
+2021,Pharmacy,72,Vishnu Institute of Pharmaceutical Education and Research,Narsapur,Telangana,38.7,IR-P-C-19613,60.18,1.64,46.9,53.74,54.07
+2021,Pharmacy,74,KMCH College of Pharmacy,Coimbatore,Tamil Nadu,38.67,IR-P-C-45528,65.27,2.43,52.81,57.84,20.25
+2021,Pharmacy,75,Sri Adichunchanagiri College of Pharmacy,B.G Nagara,Karnataka,38.58,IR-P-C-40080,64.78,1.03,59.18,58.66,11.34
+2021,College,1,Miranda House,Delhi,Delhi,75.42,IR-C-C-6355,76.75,59.21,82.67,70.96,80.66
+2021,College,2,Lady Shri Ram College For Women,New Delhi,Delhi,69.44,IR-C-C-6415,71.09,14.56,91.4,69.46,90.17
+2021,College,3,Loyola College,Chennai,Tamil Nadu,69.28,IR-C-C-44006,66.45,97.77,53.62,46.25,100.0
+2021,College,4,St. Xavier`s College,Kolkata,West Bengal,67.41,IR-C-C-11881,68.05,46.65,78.3,55.47,80.66
+2021,College,5,Ramakrishna Mission Vidyamandira,Howrah,West Bengal,67.26,IR-C-C-11926,77.69,54.97,85.19,28.91,37.47
+2021,College,6,PSGR Krishnammal College for Women,Coimbatore,Tamil Nadu,67.14,IR-C-C-41046,74.48,38.88,81.34,61.09,50.71
+2021,College,7,Presidency College,Chennai,Tamil Nadu,66.96,IR-C-C-43921,70.12,93.42,54.59,50.79,61.66
+2021,College,8,St. Stephens's College,Delhi,Delhi,66.71,IR-C-C-22470,76.4,23.23,66.75,64.04,95.84
+2021,College,9,Hindu College,Delhi,Delhi,66.51,IR-C-C-6377,70.04,25.57,78.98,69.25,79.69
+2021,College,10,Shri Ram College of Commerce,Delhi,Delhi,66.39,IR-C-C-6419,72.46,2.93,89.76,77.24,68.06
+2021,College,11,Sri Venkateswara College,Delhi,Delhi,66.24,IR-C-C-6369,76.42,51.39,73.09,62.84,34.11
+2021,College,12,Atma Ram Sanatan Dharm College,New Delhi,Delhi,66.17,IR-C-C-22462,78.38,49.99,77.19,64.95,15.29
+2021,College,13,Deen Dayal Upadhyaya College,New Delhi,Delhi,64.9,IR-C-C-6361,75.86,52.12,67.16,61.54,38.0
+2021,College,14,Hans Raj College,Delhi,Delhi,64.65,IR-C-C-6425,67.94,28.64,78.43,72.0,63.71
+2021,College,15,Rama Krishna Mission Vivekananda Centenary College,Rahara,West Bengal,64.45,IR-C-I-1317,76.11,28.58,94.91,27.54,32.33
+2021,College,16,Gargi College,Delhi,Delhi,64.37,IR-C-C-6429,77.3,19.07,82.26,67.34,32.93
+2021,College,17,Kirori Mal College,Delhi,Delhi,64.3,IR-C-C-6385,78.06,40.51,69.29,66.96,29.82
+2021,College,18,Madras Christian College,Chennai,Tamil Nadu,63.9,IR-C-C-43965,71.5,52.27,59.45,53.51,72.46
+2021,College,19,PSG College of Arts and Science,Coimbatore,Tamil Nadu,62.93,IR-C-C-41124,65.2,40.07,70.32,51.94,80.66
+2021,College,20,Acharya Narendra Dev College,New Delhi,Delhi,62.85,IR-C-C-6380,80.49,31.1,70.82,57.83,25.04
+2021,College,21,Ramakrishna Mission Residential College,Kolkata,West Bengal,62.5,IR-C-C-42814,76.03,31.84,80.7,28.41,43.0
+2021,College,22,P. D. Patel Institute of Applied Sciences,Changa,Gujarat,61.19,IR-C-C-16178,69.48,85.09,61.4,50.3,2.56
+2021,College,23,Thiagarajar College,Madurai,Tamil Nadu,60.61,IR-C-C-36513,66.45,67.8,64.64,53.35,23.56
+2021,College,24,Lady Irwin College,Delhi,Delhi,60.11,IR-C-C-27608,71.33,33.19,69.77,59.28,32.33
+2021,College,25,"University College, Thiruvananthapuram",Thiruvananthapuram,Kerala,59.58,IR-C-C-43671,75.09,31.83,70.63,56.68,14.37
+2021,College,26,Daulat Ram College,Delhi,Delhi,59.22,IR-C-C-6367,68.46,8.28,82.73,70.0,29.17
+2021,College,27,Sri Krishna Arts and Science College,Coimbatore,Tamil Nadu,59.09,IR-C-C-41126,70.14,6.92,85.83,62.52,22.81
+2021,College,27,"St. Joseph's College, Tiruchirappalli",Tiruchirappalli,Tamil Nadu,59.09,IR-C-C-35860,66.72,47.17,64.61,46.08,45.73
+2021,College,29,Dyal Singh College,New Delhi,Delhi,58.98,IR-C-C-6432,75.38,26.52,70.81,60.02,11.47
+2021,College,30,Madras School of Social Work,Chennai,Tamil Nadu,58.59,IR-C-C-43964,70.7,1.75,89.2,63.14,14.37
+2021,College,31,Rajagiri College of Social Sciences,Ernakulam,Kerala,58.23,IR-C-C-11691,78.61,9.79,74.49,53.63,13.42
+2021,College,32,Bhaskaracharya College of Applied Sciences,New Delhi,Delhi,58.0,IR-C-C-6387,77.9,38.74,58.52,50.58,13.42
+2021,College,33,Kamala Nehru College,Delhi,Delhi,57.68,IR-C-C-6417,72.9,8.34,78.19,65.69,11.47
+2021,College,34,Andhra Loyola College,Vijayawada,Andhra Pradesh,57.47,IR-C-C-25376,63.18,41.77,67.36,52.35,38.53
+2021,College,35,Maitreyi College,New Delhi,Delhi,57.33,IR-C-C-6391,75.13,20.63,67.94,64.58,7.25
+2021,College,36,Kongunadu Arts & Science College,Coimbatore,Tamil Nadu,57.3,IR-C-C-41106,61.06,55.98,67.28,52.97,23.56
+2021,College,37,Shaheed Rajguru College of Applied Sciences for Women,Delhi,Delhi,57.17,IR-C-C-6426,73.47,25.34,68.14,69.39,0.0
+2021,College,38,I. C. College of Home Science,Hisar,Haryana,57.15,IR-C-C-29454,76.76,0.27,83.22,56.04,0.0
+2021,College,39,Sri Guru Tegh Bahadur Khalsa College,Delhi,Delhi,56.86,IR-C-C-6353,74.3,44.02,55.92,61.82,3.78
+2021,College,40,Women`s Christian College,Chennai,Tamil Nadu,56.18,IR-C-C-43946,64.67,24.29,77.4,48.92,24.31
+2021,College,41,Jesus & Mary College,New Delhi,Delhi,56.15,IR-C-C-6420,67.33,3.08,78.97,60.37,29.82
+2021,College,42,Government Arts College,Coimbatore,Tamil Nadu,56.05,IR-C-C-41035,73.98,30.23,54.54,48.23,34.69
+2021,College,43,Bishop Heber College,Tiruchirappalli,Tamil Nadu,55.97,IR-C-C-35825,58.5,47.77,61.47,49.65,50.71
+2021,College,44,"Mar Ivanios College, Thiruvananthapuram",Thiruvananthapuram,Kerala,55.64,IR-C-C-43767,58.49,57.11,67.18,54.46,14.37
+2021,College,45,"St. Teresa's College, Ernakulam",Ernakulam,Kerala,55.63,IR-C-C-11582,70.98,14.41,73.91,55.49,10.45
+2021,College,46,"Government College for Women, Thiruvananthapuram",Thiruvananthapuram,Kerala,55.62,IR-C-C-43705,73.83,11.17,69.26,57.64,13.42
+2021,College,47,Virudhunagar Hindu Nadars Senthikumara Nadar College,Virudhunagar,Tamil Nadu,55.49,IR-C-C-36502,64.78,62.89,58.24,47.62,8.34
+2021,College,48,Sri Ramakrishna Mission Vidyalaya College of Arts and Science,Coimbatore,Tamil Nadu,55.16,IR-C-I-1293,61.54,88.14,56.82,10.67,20.45
+2021,College,49,"Holy Cross College, Tiruchirappalli",Tiruchirappalli,Tamil Nadu,55.09,IR-C-C-35787,65.34,16.09,73.35,54.76,27.15
+2021,College,50,Kanchi Mamunivar Centre for Post Graduate Studies,Puducherry,Puducherry,55.01,IR-C-C-6502,70.63,24.66,71.63,46.51,4.97
+2021,College,51,Ethiraj College for Women,Chennai,Tamil Nadu,54.77,IR-C-C-43902,65.79,6.91,68.98,53.53,48.29
+2021,College,52,Maharaja Agrasen College,Delhi,Delhi,54.76,IR-C-C-6412,76.52,17.93,57.7,63.13,7.25
+2021,College,53,Ramanujan College,New Delhi,Delhi,54.68,IR-C-C-6431,63.0,8.79,84.27,64.75,6.13
+2021,College,54,V.O. Chidambaram College,Tuticorin,Tamil Nadu,54.61,IR-C-C-41157,75.1,16.55,65.59,56.9,0.0
+2021,College,55,Queen Mary`s College,Chennai,Tamil Nadu,54.58,IR-C-N-6,64.96,18.55,72.98,53.03,22.81
+2021,College,56,"Scott Christian College, Nagercoil",Nagercoil,Tamil Nadu,54.48,IR-C-C-41189,73.83,24.03,60.33,51.15,11.47
+2021,College,57,St. Xavier's College,Ahmedabad,Gujarat,54.4,IR-C-C-5855,52.88,55.08,67.57,53.84,27.15
+2021,College,58,Stella Maris College For Women,Chennai,Tamil Nadu,54.27,IR-C-C-43931,59.92,13.86,65.91,60.48,56.88
+2021,College,59,Dr. N. G. P. Arts and Science College,Coimbatore,Tamil Nadu,54.15,IR-C-C-41054,61.87,19.79,75.9,55.67,18.8
+2021,College,60,Deshbandhu College,New Delhi,Delhi,53.99,IR-C-C-6409,74.29,25.75,54.39,54.74,13.42
+2021,College,61,"Government Institute of Science, Nagpur",Nagpur,Maharashtra,53.93,IR-C-C-18938,74.55,11.06,64.84,49.86,12.46
+2021,College,62,"M S Ramaiah College of Arts, Science, and Commerce",Bengaluru,Karnataka,53.88,IR-C-C-20729,52.72,6.49,74.15,59.19,73.61
+2021,College,63,Sacred Heart College,Ernakulam,Kerala,53.63,IR-C-C-11708,68.08,18.69,72.53,50.93,3.78
+2021,College,64,"St. Thomas College, Thrissur",Thrissur,Kerala,53.61,IR-C-C-8169,68.27,17.05,71.68,55.56,2.56
+2021,College,65,"Jamal Mohamed College, Tiruchirappalli",Tiruchirappalli,Tamil Nadu,53.55,IR-C-C-35832,68.49,34.56,56.4,51.57,17.08
+2021,College,66,Ayya Nadar Janaki Ammal College,Sivakasi,Tamil Nadu,53.42,IR-C-C-36579,62.47,29.98,64.65,49.16,28.51
+2021,College,67,St. Xavier's College,Palayamkottai,Tamil Nadu,53.22,IR-C-C-41173,67.39,44.34,49.95,52.45,18.8
+2021,College,68,Indraprastha College for Women,Delhi,Delhi,53.18,IR-C-C-6365,67.18,3.74,68.71,66.1,19.63
+2021,College,69,St. Joseph's College,Kozhikode,Kerala,53.13,IR-C-C-8010,68.45,11.16,70.96,52.94,10.45
+2021,College,70,Shivaji College,Delhi,Delhi,53.0,IR-C-C-6366,74.08,17.3,59.96,54.0,3.78
+2021,College,71,College of Social Work,Mumbai,Maharashtra,52.86,IR-C-C-33688,68.7,0.21,75.71,58.08,6.13
+2021,College,72,N. G. M. College,Pollachi,Tamil Nadu,52.61,IR-C-C-41073,66.24,13.4,69.81,53.06,13.42
+2021,College,73,"Farook College, Kozhikkode",Kozhikode,Kerala,52.49,IR-C-C-8023,66.85,9.65,72.55,55.52,6.13
+2021,College,74,St. Joseph`s College of Commerce,Bengaluru,Karnataka,52.31,IR-C-C-20830,60.38,0.16,82.34,61.07,14.37
+2021,College,75,Ramjas College,Delhi,Delhi,52.27,IR-C-C-6371,66.92,20.08,53.99,67.09,22.81
+2021,College,75,"Alagappa Government Arts College, Karaikudi",Karaikudi,Tamil Nadu,52.27,IR-C-C-28526,57.8,38.96,63.04,40.82,34.69
+2021,College,77,Bethune College,Kolkata,West Bengal,52.23,IR-C-C-11991,67.18,16.01,59.15,43.73,38.0
+2021,College,78,Government Home Science College,Chandigarh,Chandigarh,52.22,IR-C-C-29284,70.75,0.63,67.87,56.06,12.46
+2021,College,79,"S.B. College, Changanacherry",Kottayam,Kerala,52.17,IR-C-C-11831,63.74,42.91,59.7,47.15,6.13
+2021,College,80,Mar Thoma College,Tiruvalla,Kerala,52.01,IR-C-C-11615,62.71,10.2,78.21,55.95,2.56
+2021,College,81,"S S Jain Subodh P G College, Jaipur",Jaipur,Rajasthan,51.89,IR-C-C-39206,55.05,2.26,85.03,74.37,8.34
+2021,College,82,Vellalar College for Women,Erode,Tamil Nadu,51.84,IR-C-C-41068,62.76,8.2,71.4,52.34,24.31
+2021,College,82,Government College,Kasaragod,Kerala,51.84,IR-C-C-43874,66.56,7.1,73.27,56.96,1.3
+2021,College,84,Sri Ramakrishna College of Arts and Science,Coimbatore,Tamil Nadu,51.65,IR-C-C-41100,65.63,7.91,74.0,49.82,7.25
+2021,College,85,St. Francis College for Women,Hyderabad,Telangana,51.58,IR-C-C-25990,62.7,3.33,79.45,52.0,9.41
+2021,College,86,Mar Athanasius College,Kothamangalam,Kerala,51.46,IR-C-C-11815,67.27,17.58,67.25,50.96,0.0
+2021,College,87,Lady Doak College,Madurai,Tamil Nadu,51.38,IR-C-C-36578,66.27,19.32,60.33,43.14,25.75
+2021,College,88,Government Institute of Forensic Science,Nagpur,Maharashtra,51.34,IR-C-C-49799,70.18,13.91,66.42,38.36,7.25
+2021,College,89,Bishop Moore College,Alappuzha,Kerala,51.24,IR-C-C-43711,60.76,31.31,67.38,51.19,2.56
+2021,College,89,Bishop Kurialacherry College For Women,Kottayam,Kerala,51.24,IR-C-C-11616,64.42,4.75,77.4,54.06,0.0
+2021,College,91,Women's Christian College,Nagercoil,Tamil Nadu,51.22,IR-C-C-41184,65.52,11.07,68.35,53.22,9.41
+2021,College,92,"Maharaja's College, Ernakulam",Ernakulam,Kerala,51.13,IR-C-C-11697,72.11,15.39,50.06,55.94,18.8
+2021,College,93,CMS College Kottayam,Kottayam,Kerala,50.9,IR-C-C-11771,61.89,22.1,65.48,53.04,11.47
+2021,College,94,Shaheed Sukhdev College of Business Studies,New Delhi,Delhi,50.84,IR-C-C-6411,61.32,6.5,79.3,52.65,2.56
+2021,College,95,St. Aloysius College,Mangaluru,Karnataka,50.82,IR-C-C-16897,59.49,14.91,65.22,61.88,22.81
+2021,College,96,Fergusson College,Pune,Maharashtra,50.64,IR-C-I-1385,57.97,17.51,60.43,40.18,56.88
+2021,College,97,Government Brennen College,Kannur,Kerala,50.58,IR-C-C-43789,67.52,6.11,67.07,57.49,1.3
+2021,College,98,"Government Arts College, Tiruppur",Udumalpet,Tamil Nadu,50.49,IR-C-C-41110,64.1,22.21,63.64,56.05,0.0
+2021,College,99,"Government Victoria College, Palakkad",Palakkad,Kerala,50.37,IR-C-C-8209,67.84,11.5,61.83,52.13,8.34
+2021,College,100,Sri Sarada College for Women (Autonomous),Salem,Tamil Nadu,50.35,IR-C-C-9552,63.38,14.07,66.97,48.11,13.42
+2021,Medical,1,All India Institute of Medical Sciences,New Delhi,Delhi,92.07,IR-D-N-15,89.94,97.16,93.5,72.36,100.0
+2021,Medical,2,Post Graduate Institute of Medical Education and Research,Chandigarh,Chandigarh,82.62,IR-D-U-0079,83.23,86.31,88.27,64.4,76.73
+2021,Medical,3,Christian Medical College,Vellore,Tamil Nadu,75.33,IR-D-C-45654,85.48,51.55,94.12,62.43,91.63
+2021,Medical,4,"National Institute of Mental Health & Neuro Sciences, Bangalore",Bangalore,Karnataka,73.62,IR-D-U-0236,85.47,62.17,79.91,66.44,67.12
+2021,Medical,5,Sanjay Gandhi Postgraduate Institute of Medical Sciences,Lucknow,Uttar Pradesh,72.45,IR-D-N-33,86.22,57.9,88.19,60.36,55.43
+2021,Medical,6,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,69.25,IR-D-U-0436,77.82,53.22,87.03,74.47,50.67
+2021,Medical,7,Banaras Hindu University,Varanasi,Uttar Pradesh,67.62,IR-D-U-0500,73.35,57.84,84.13,64.98,49.27
+2021,Medical,8,Jawaharlal Institute of Post Graduate Medical Education & Research,Puducherry,Puducherry,67.42,IR-D-U-0368,74.63,41.18,88.57,68.14,81.59
+2021,Medical,9,King George`s Medical University,Lucknow,Uttar Pradesh,64.67,IR-D-U-0523,76.68,48.87,86.28,51.66,45.82
+2021,Medical,10,"Kasturba Medical College, Manipal",Manipal,Karnataka,63.6,IR-D-C-7242,70.54,41.91,79.04,72.64,68.04
+2021,Medical,11,Sree Chitra Tirunal Institute for Medical Sciences and Technology,Thiruvananthapuram,Kerala,63.04,IR-D-U-0266,74.66,43.36,79.2,63.72,54.19
+2021,Medical,12,Institute of Liver and Biliary Sciences,New Delhi,Delhi,61.29,IR-D-U-0106,89.45,36.8,69.96,59.55,34.67
+2021,Medical,13,St. John's Medical College,Bengaluru,Karnataka,60.83,IR-D-C-40453,75.51,35.97,80.2,66.22,47.33
+2021,Medical,14,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,58.92,IR-D-I-1486,71.45,29.87,82.45,68.71,51.58
+2021,Medical,15,Aligarh Muslim University,Aligarh,Uttar Pradesh,58.1,IR-D-U-0496,70.49,44.24,79.57,58.31,19.41
+2021,Medical,16,"Madras Medical College & Government General Hospital, Chennai",Chennai,Tamil Nadu,57.88,IR-D-C-49008,75.61,17.41,87.95,48.39,75.49
+2021,Medical,17,Maulana Azad Medical College,Delhi,Delhi,56.35,IR-D-C-6414,72.28,25.27,83.06,55.08,49.74
+2021,Medical,18,Vardhman Mahavir Medical College & Safdarjung Hospital,New Delhi,Delhi,56.2,IR-D-C-32922,78.22,27.53,82.46,62.44,17.42
+2021,Medical,19,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,55.96,IR-D-I-1110,73.48,28.23,76.95,68.65,31.89
+2021,Medical,20,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,55.74,IR-D-U-0473,72.19,34.12,70.72,60.37,36.64
+2021,Medical,21,Siksha `O` Anusandhan,Bhubaneswar,Odisha,54.13,IR-D-U-0363,72.33,32.36,71.36,65.07,19.41
+2021,Medical,22,Lady Hardinge Medical College,New Delhi,Delhi,54.07,IR-D-C-22461,76.27,22.42,75.87,49.83,43.16
+2021,Medical,23,"Kasturba Medical College, Mangalore",Mangaluru,Karnataka,53.75,IR-D-C-7251,71.31,23.06,73.68,71.72,35.34
+2021,Medical,24,"JSS Medical College, Mysore",Mysore,Karnataka,53.63,IR-D-C-35009,69.16,19.74,77.3,68.72,46.33
+2021,Medical,25,Jamia Hamdard,New Delhi,Delhi,53.18,IR-D-U-0107,68.65,40.99,54.28,69.44,24.85
+2021,Medical,26,Dayanand Medical College,Ludhiana,Punjab,53.13,IR-D-C-29255,79.52,16.52,82.15,54.76,24.0
+2021,Medical,27,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,52.91,IR-D-I-1441,69.61,39.82,59.5,66.53,15.33
+2021,Medical,28,All India Institute of Medical Sciences Jodhpur,Jodhpur,Rajasthan,52.87,IR-D-U-0689,74.31,33.58,61.61,61.4,20.37
+2021,Medical,29,Government Medical College & Hospital,Chandigarh,Chandigarh,51.9,IR-D-C-29442,69.66,23.4,77.0,59.33,26.52
+2021,Medical,30,University College of Medical Sciences,Delhi,Delhi,51.89,IR-D-I-1409,59.53,34.42,75.71,59.96,25.7
+2021,Medical,31,All India Institute of Medical Sciences Bhubaneswar,Khordha,Odisha,51.87,IR-D-U-0688,70.63,22.33,64.3,65.41,45.82
+2021,Medical,32,Medical College,Kolkata,West Bengal,51.69,IR-D-C-16424,67.74,15.27,86.66,42.96,51.58
+2021,Medical,33,PSG Institute of Medical Sciences & Research,Coimbatore,Tamil Nadu,51.62,IR-D-C-45515,73.22,10.01,73.93,62.4,56.24
+2021,Medical,34,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,51.52,IR-D-U-0295,73.5,19.76,74.77,72.82,13.14
+2021,Medical,35,Maharishi Markandeshwar,Ambala,Haryana,50.96,IR-D-U-0168,71.08,19.32,76.23,62.76,23.12
+2021,Medical,36,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,50.36,IR-D-U-0356,71.23,20.6,67.0,70.11,24.0
+2021,Medical,37,M. S. Ramaiah Medical College,Bengaluru,Karnataka,50.05,IR-D-C-40345,75.28,12.1,72.6,59.88,33.3
+2021,Medical,38,Sawai Man Singh Medical College,Jaipur,Rajasthan,49.65,IR-D-N-17,71.0,15.42,89.37,50.1,8.37
+2021,Medical,39,SCB Medical College and Hospital,Cuttack,Odisha,49.42,IR-D-N-0158,67.9,13.79,88.68,44.37,27.33
+2021,Medical,40,Annamalai University,Annamalainagar,Tamil Nadu,49.13,IR-D-U-0443,63.99,23.07,75.92,50.24,28.13
+2021,Medical,41,"Padmashree Dr. D. Y. Patil Vidyapeeth, Mumbai",Mumbai,Maharashtra,48.07,IR-D-U-0321,72.46,9.82,76.19,69.43,12.0
+2021,Medical,42,Krishna Institute of Medical Sciences Deemed University,Karad,Maharashtra,47.11,IR-D-U-0311,70.99,21.79,58.84,62.95,12.0
+2021,Medical,43,Narayana Medical College,Sri Potti Sriramulu Nellore,Andhra Pradesh,46.5,IR-D-C-30698,73.1,6.87,79.77,53.58,12.0
+2021,Medical,43,Regional Institute of Medical Sciences,Imphal West,Manipur,46.5,IR-D-C-9435,71.57,8.26,70.63,64.8,19.41
+2021,Medical,45,K. S. Hegde Medical Academy,Mangaluru,Karnataka,46.49,IR-D-C-19319,71.85,8.97,62.41,70.26,27.33
+2021,Medical,46,Mahatma Gandhi Medical College and Research Institute,Puducherry,Puducherry,46.08,IR-D-C-47762,70.74,12.74,57.24,73.67,22.22
+2021,Medical,47,Jawaharlal Nehru Medical College,Belagavi,Karnataka,46.04,IR-D-C-24503,68.28,13.53,58.84,64.66,32.6
+2021,Medical,48,"Tirunelveli Medical College, Tirunelveli",Tirunelveli -,Tamil Nadu,46.03,IR-D-C-47556,70.22,6.52,76.11,58.53,19.41
+2021,Medical,49,Chettinad Hospital and Research Institute,"Kelambakkam, Chengalpattu District",Tamil Nadu,45.32,IR-D-C-7049,72.42,7.02,66.81,61.87,19.41
+2021,Medical,50,"Shri B.M.Patil Medical College, Hospital & Research Centre",Vijayapura,Karnataka,45.11,IR-D-I-1325,70.07,7.9,69.35,66.48,12.0
+2021,Law,1,National Law School of India University,Bengaluru,Karnataka,78.06,IR-L-U-0238,78.19,55.62,83.92,74.74,100.0
+2021,Law,2,National Law University,New Delhi,Delhi,74.55,IR-L-U-0111,87.68,42.81,73.02,74.16,73.82
+2021,Law,3,NALSAR University of Law,Hyderabad,Telangana,72.39,IR-L-N-18,82.73,47.6,71.6,72.6,70.01
+2021,Law,4,The West Bengal National University of Juridicial Sciences,Kolkata,West Bengal,71.24,IR-L-U-0585,75.74,31.89,86.36,71.94,73.82
+2021,Law,5,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,71.09,IR-L-U-0573,77.7,77.46,70.12,69.73,38.85
+2021,Law,6,Gujarat National Law University,Gandhinagar,Gujarat,65.18,IR-L-U-0134,73.56,42.27,69.07,68.4,53.0
+2021,Law,7,Jamia Millia Islamia,New Delhi,Delhi,64.67,IR-L-U-0108,70.55,34.99,73.52,72.29,55.9
+2021,Law,8,"National Law University, Jodhpur",Jodhpur,Rajasthan,63.41,IR-L-U-0414,75.28,29.82,74.02,64.42,38.85
+2021,Law,9,Symbiosis Law School,Pune,Maharashtra,61.49,IR-L-C-19328,73.61,18.82,63.89,76.74,55.9
+2021,Law,10,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,57.28,IR-L-U-0356,78.4,26.53,54.3,74.08,9.52
+2021,Law,11,Aligarh Muslim University,Aligarh,Uttar Pradesh,55.96,IR-L-U-0496,55.23,23.67,90.06,48.72,29.44
+2021,Law,12,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,55.92,IR-L-U-0099,59.68,32.56,72.96,50.39,38.85
+2021,Law,13,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,55.19,IR-L-I-1441,70.38,45.02,51.48,56.89,17.26
+2021,Law,14,"National Law Institute University, Bhopal",Bhopal,Madhya Pradesh,52.89,IR-L-U-0285,59.21,25.95,62.01,59.28,38.85
+2021,Law,15,Dr. Ram Manohar Lohiya National Law University,Lucknow,Uttar Pradesh,51.44,IR-L-U-0511,59.53,2.6,74.08,48.34,38.85
+2021,Law,16,"The Rajiv Gandhi National University of Law, Patiala",Patiala,Punjab,50.98,IR-L-U-0386,56.13,27.41,50.38,71.78,46.52
+2021,Law,17,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,50.4,IR-L-U-0476,56.44,34.37,59.69,53.58,23.79
+2021,Law,18,National Law University,Cuttack,Odisha,50.31,IR-L-U-0358,60.72,13.12,49.79,60.05,55.9
+2021,Law,19,Christ University,Bengaluru,Karnataka,49.78,IR-L-U-0217,50.33,29.62,52.91,63.9,55.9
+2021,Law,20,National Law University and Judicial Academy,Kamrup,Assam,49.26,IR-L-U-0677,72.94,3.24,40.66,64.8,29.44
+2021,Law,21,Army Institute of Law,Mohali,Punjab,47.63,IR-L-C-22215,57.0,0.49,51.51,68.91,49.89
+2021,Law,22,Indian Law Institute,New Delhi,Delhi,47.38,IR-L-U-0103,47.29,15.96,52.37,56.03,73.82
+2021,Law,23,Banaras Hindu University,Varanasi,Uttar Pradesh,46.72,IR-L-U-0500,49.18,26.55,57.26,34.65,53.0
+2021,Law,24,Lovely Professional University,Phagwara,Punjab,46.18,IR-L-U-0379,55.84,9.73,44.4,69.89,42.86
+2021,Law,25,University of Petroleum and Energy Studies,Dehradun,Uttarakhand,46.03,IR-L-U-0564,52.44,28.28,48.91,68.48,17.26
+2021,Law,26,National University of Advanced Legal Studies (NUALS),Kochi,Kerala,45.66,IR-L-U-0264,45.93,20.63,54.43,52.9,53.0
+2021,Law,27,Panjab University,Chandigarh,Chandigarh,45.62,IR-L-U-0078,45.48,35.87,44.93,61.71,46.52
+2021,Law,28,Damodaram Sanjivayya National Law University,Visakhapatnam,Andhra Pradesh,45.31,IR-L-I-1291,60.8,2.57,48.45,61.09,23.79
+2021,Law,29,ICFAI Foundation for Higher Education,Hyderabad,Telangana,45.16,IR-L-U-0012,59.31,38.6,33.8,54.65,17.26
+2021,Law,30,"Sikkim Government Law College,Burtuk",Gangtok,Sikkim,44.24,IR-L-C-6601,55.32,0.0,64.58,50.17,9.52
+2021,Architecture,1,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,82.65,IR-A-U-0560,82.49,88.84,90.67,74.01,63.55
+2021,Architecture,2,National Institute of Technology Calicut,Kozhikode,Kerala,76.5,IR-A-U-0263,91.68,43.78,85.63,67.36,71.96
+2021,Architecture,3,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,76.14,IR-A-U-0573,68.94,85.19,88.69,67.83,70.01
+2021,Architecture,4,"School of Planning and Architecture, New Delhi",New Delhi,Delhi,70.12,IR-A-U-0116,75.2,31.57,80.98,75.28,100.0
+2021,Architecture,5,Centre for Environmental Planning and Technology University,Ahmedabad,Gujarat,66.77,IR-A-U-0127,71.22,56.72,81.66,59.58,46.52
+2021,Architecture,6,School of Planning and Architecture Bhopal,Bhopal,Madhya Pradesh,65.58,IR-A-U-0626,72.29,36.87,83.11,76.81,49.89
+2021,Architecture,7,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,65.14,IR-A-U-0467,55.14,58.58,83.14,62.52,84.95
+2021,Architecture,8,School of Planning & Architecture,Vijayawada,Andhra Pradesh,64.27,IR-A-U-0627,79.85,8.38,82.65,71.24,70.01
+2021,Architecture,9,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,61.76,IR-A-U-0584,72.8,41.0,65.59,60.2,53.0
+2021,Architecture,10,Jamia Millia Islamia,New Delhi,Delhi,57.23,IR-A-U-0108,65.08,4.88,88.43,72.26,53.0
+2021,Architecture,11,College of Engineering Trivandrum,Thiruvananthapuram,Kerala,57.02,IR-A-C-43708,62.9,28.13,80.76,54.3,46.52
+2021,Architecture,12,Lovely Professional University,Phagwara,Punjab,56.12,IR-A-U-0379,59.81,36.71,65.4,59.23,58.61
+2021,Architecture,13,Aligarh Muslim University,Aligarh,Uttar Pradesh,55.24,IR-A-U-0496,47.15,49.62,86.9,44.35,46.52
+2021,Architecture,14,Birla Institute of Technology,Ranchi,Jharkhand,55.21,IR-A-U-0202,60.22,42.07,60.51,59.6,46.52
+2021,Architecture,15,BMS College of Arhitecture,Bengaluru,Karnataka,54.99,IR-A-C-57952,68.59,2.59,85.0,57.43,42.86
+2021,Architecture,16,Chandigarh University,Mohali,Punjab,54.41,IR-A-U-0747,68.93,6.46,82.75,72.71,17.26
+2021,Architecture,17,Visvesvaraya National Institute of Technology,Nagpur,Maharashtra,53.93,IR-A-U-0334,58.81,38.93,61.06,69.69,34.41
+2021,Architecture,18,"Faculty of Architecture, Manipal Academy of Higher Education, Manipal",Udupi,Karnataka,53.78,IR-A-C-46330,63.81,0.37,79.39,70.07,53.0
+2021,Architecture,19,Thiagarajar College of Engineering,Madurai,Tamil Nadu,52.53,IR-A-C-26794,53.47,25.14,75.74,48.44,61.15
+2021,Architecture,20,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,52.42,IR-A-U-0284,55.66,33.18,71.04,63.75,29.44
+2021,Architecture,21,Chitkara University,Rajpura,Punjab,51.81,IR-A-U-0373,66.92,5.71,79.37,70.81,9.52
+2021,Architecture,22,Anna University,Chennai,Tamil Nadu,51.25,IR-A-U-0439,45.99,34.89,60.33,51.72,86.32
+2021,Architecture,23,National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,50.11,IR-A-U-0189,46.72,44.65,62.91,56.22,42.86
+2021,Architecture,24,Shri Mata Vaishno Devi University,Katra,Jammu and Kashmir,50.1,IR-A-U-0201,67.12,0.83,74.57,57.86,23.79
+2021,Architecture,25,M. G. R. Educational and Research Institute,Chennai,Tamil Nadu,49.75,IR-A-U-0461,62.37,0.95,79.87,52.03,34.41
+2021,Dental,1,Manipal College of Dental Sciences,Udupi,Karnataka,81.3,IR-N-C-7254,78.02,86.31,77.02,77.15,88.85
+2021,Dental,2,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,80.72,IR-N-I-1110,78.35,82.06,90.62,57.55,87.22
+2021,Dental,3,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,78.33,IR-N-I-1441,84.46,82.21,74.94,67.36,66.03
+2021,Dental,4,Maulana Azad Institute of Dental Sciences,Delhi,Delhi,77.57,IR-N-C-28507,91.09,58.62,84.14,58.18,100.0
+2021,Dental,5,King George`s Medical University,Lucknow,Uttar Pradesh,71.78,IR-N-U-0523,86.29,57.15,80.31,66.67,60.1
+2021,Dental,6,A.B.Shetty Memorial Institute of Dental Sciences,Mangaluru,Karnataka,70.95,IR-N-C-19320,77.95,44.7,85.7,72.75,97.48
+2021,Dental,7,"Manipal College of Dental Sciences, Mangalore",Mangalore,Karnataka,70.33,IR-N-C-7240,74.61,60.73,81.39,74.38,60.1
+2021,Dental,8,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,64.33,IR-N-I-1486,74.43,40.7,84.97,59.28,68.7
+2021,Dental,9,SDM College of Dental Sciences & Hospital,Dharwad,Karnataka,63.69,IR-N-N-238,71.36,33.94,93.3,63.16,71.22
+2021,Dental,10,SRM Dental College,Chennai,Tamil Nadu,63.57,IR-N-N-352,68.87,48.49,96.32,56.38,34.56
+2021,Dental,11,Nair Hospital Dental College,Mumbai,Maharashtra,62.73,IR-N-N-153,68.82,46.75,86.64,50.36,56.79
+2021,Dental,12,JSS Dental College and Hospital,Mysuru,Karnataka,62.19,IR-N-C-35008,73.12,31.73,81.11,71.54,73.59
+2021,Dental,13,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,61.44,IR-N-U-0436,67.46,30.54,87.77,76.17,68.7
+2021,Dental,14,Siksha `O` Anusandhan,Bhubaneswar,Odisha,61.14,IR-N-U-0363,79.7,30.37,91.5,63.55,34.56
+2021,Dental,15,M.S. Ramaiah University of Applied Sciences,Bangalore,Karnataka,61.06,IR-N-U-0724,74.22,34.2,89.6,61.33,44.91
+2021,Dental,16,Postgraduate Institute of Dental Sciences,Rohtak,Haryana,60.61,IR-N-C-30756,83.71,40.56,69.48,49.38,44.91
+2021,Dental,17,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,60.56,IR-N-U-0356,74.46,44.16,71.65,66.25,40.05
+2021,Dental,18,Bapuji Dental College & Hospital,Davangere,Karnataka,59.06,IR-N-C-40193,70.7,31.21,78.52,61.89,66.03
+2021,Dental,19,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,58.38,IR-N-U-0295,70.91,41.02,73.8,55.52,44.91
+2021,Dental,20,Jamia Millia Islamia,New Delhi,Delhi,58.32,IR-N-U-0108,74.65,33.84,58.47,72.22,68.7
+2021,Dental,21,Yenepoya Dental College,Mangaluru,Karnataka,57.69,IR-N-C-8528,77.85,24.41,76.83,67.22,49.26
+2021,Dental,22,Sree Balaji Dental College & Hospital,Chennai,Tamil Nadu,56.57,IR-N-N-91,76.94,16.93,85.06,57.21,56.79
+2021,Dental,23,Vishnu Dental College,West Godavari,Andhra Pradesh,54.55,IR-N-N-342,70.71,21.31,71.2,55.87,71.22
+2021,Dental,24,Meenakshi Academy of Higher Education and Research,Chennai,Tamil Nadu,54.37,IR-N-U-0465,70.19,36.06,64.8,55.23,40.05
+2021,Dental,25,"Faculty of Dental Sciences, Institute of Medical Sciences",Varanasi,Uttar Pradesh,53.23,IR-N-N-71,64.21,18.25,74.1,63.17,73.59
+2021,Dental,26,Aligarh Muslim University,Aligarh,Uttar Pradesh,52.85,IR-N-U-0496,73.26,22.93,77.67,50.05,34.56
+2021,Dental,27,Saraswati Dental College & Hospital,Lucknow,Uttar Pradesh,52.37,IR-N-C-49744,70.77,19.42,91.21,58.96,11.66
+2021,Dental,28,College of Dental Sciences,Davangere,Karnataka,52.28,IR-N-C-40192,70.41,20.12,81.72,59.57,28.23
+2021,Dental,29,"MGV's Karmaveer Bhausaheb Hiray Dental College, Panchavati, Nashik",Nashik,Maharashtra,52.25,IR-N-C-14028,68.9,21.83,94.63,40.16,20.76
+2021,Dental,30,Army College of Dental Sciences,Secunderabd,Telangana,51.99,IR-N-N-73,68.21,10.25,82.11,67.19,53.19
+2021,Dental,31,Coorg Institute of Dental Sciences,Virajpet,Karnataka,51.69,IR-N-C-40175,68.7,17.23,75.92,57.96,49.26
+2021,Dental,32,"Govt. Dental College, Indore",Indore,Madhya Pradesh,51.66,IR-N-C-29701,74.08,14.39,92.42,54.71,11.66
+2021,Dental,33,KLE Vishwanath Katti Institute of Dental Sciences,Belgaum,Karnataka,51.61,IR-N-C-24504,71.47,12.86,75.91,71.24,40.05
+2021,Dental,34,Maharishi Markandeshwar,Ambala,Haryana,51.46,IR-N-U-0168,64.65,23.9,79.21,62.32,28.23
+2021,Dental,35,M. G. R. Educational and Research Institute,Chennai,Tamil Nadu,51.44,IR-N-U-0461,61.5,21.64,92.98,50.84,28.23
+2021,Dental,36,Christian Dental College,Ludhiana,Punjab,51.43,IR-N-C-29150,70.22,10.14,84.22,64.65,40.05
+2021,Dental,37,Raja Rajeswari Dental College & Hospital,Bengaluru,Karnataka,51.31,IR-N-C-40140,67.03,20.62,92.33,65.42,0.0
+2021,Dental,38,Krishna Institute of Medical Sciences Deemed University,Karad,Maharashtra,51.09,IR-N-U-0311,65.67,16.89,82.57,53.19,44.91
+2021,Dental,39,Manav Rachna International Institute of Research & Studies,Faridabad,Haryana,51.02,IR-N-U-0169,67.32,11.13,85.99,68.16,34.56
+2021,Dental,40,I.T.S. Dental College Hospital & Research Center,Greater Noida,Uttar Pradesh,50.87,IR-N-C-28550,68.97,13.85,82.75,66.45,28.23
+2021,Research,1,Indian Institute of Science,Bengaluru,Karnataka,86.48,IR-R-U-0220,,,,57.58,86.67
+2021,Research,2,Indian Institute of Technology Madras,Chennai,Tamil Nadu,86.01,IR-R-U-0456,,,,62.72,100.0
+2021,Research,3,Indian Institute of Technology Bombay,Mumbai,Maharashtra,80.93,IR-R-U-0306,,,,56.71,84.78
+2021,Research,4,Indian Institute of Technology Delhi,New Delhi,Delhi,78.02,IR-R-I-1074,,,,67.03,69.56
+2021,Research,5,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,73.21,IR-R-U-0573,,,,54.55,81.78
+2021,Research,6,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,68.56,IR-R-I-1075,,,,56.18,53.85
+2021,Research,7,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,66.5,IR-R-U-0560,,,,64.58,59.0
+2021,Research,8,All India Institute of Medical Sciences,New Delhi,Delhi,66.26,IR-R-N-15,,,,73.35,87.04
+2021,Research,9,Indian Institute of Technology Guwahati,Guwahati,Assam,64.99,IR-R-U-0053,,,,61.97,41.13
+2021,Research,10,Tata Institute of Fundamental Research,Mumbai,Maharashtra,64.35,IR-R-U-0330,,,,64.33,58.82
+2021,Research,11,University of Delhi,Delhi,Delhi,56.96,IR-R-U-0120,,,,59.14,55.83
+2021,Research,12,Vellore Institute of Technology,Vellore,Tamil Nadu,55.58,IR-R-U-0490,,,,59.05,49.8
+2021,Research,13,Homi Bhabha National Institute,Mumbai,Maharashtra,55.24,IR-R-U-0304,,,,50.24,40.86
+2021,Research,14,Banaras Hindu University,Varanasi,Uttar Pradesh,54.96,IR-R-U-0500,,,,52.91,42.22
+2021,Research,15,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,54.7,IR-R-U-0013,,,,57.91,64.84
+2021,Research,16,Indian Institute of Science Education & Research Pune,Pune,Maharashtra,54.5,IR-R-U-0305,,,,58.02,55.05
+2021,Research,17,Jadavpur University,Kolkata,West Bengal,54.02,IR-R-U-0575,,,,50.13,58.45
+2021,Research,18,Jawaharlal Nehru University,New Delhi,Delhi,53.52,IR-R-U-0109,,,,72.75,37.69
+2021,Research,19,Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru,Karnataka,52.57,IR-R-U-0224,,,,60.79,38.87
+2021,Research,20,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,52.4,IR-R-U-0205,,,,54.36,45.32
+2021,Research,21,Institute of Chemical Technology,Mumbai,Maharashtra,51.22,IR-R-U-0308,,,,45.82,44.82
+2021,Research,22,Academy of Scientific & Innovative Research,Ghaziabad,Uttar Pradesh,51.18,IR-R-U-0713,,,,43.32,4.21
+2021,Research,23,Bharathiar University,Coimbatore,Tamil Nadu,50.88,IR-R-U-0447,,,,53.14,45.07
+2021,Research,24,Aligarh Muslim University,Aligarh,Uttar Pradesh,49.81,IR-R-U-0496,,,,56.77,42.22
+2021,Research,25,University of Hyderabad,Hyderabad,Telangana,49.25,IR-R-U-0042,,,,58.2,39.45
+2021,Research,26,Indian Institute of Technology Indore,Indore,Madhya Pradesh,48.86,IR-R-U-0273,,,,55.87,15.79
+2021,Research,27,Manipal Academy of Higher Education,Manipal,Karnataka,48.73,IR-R-U-0234,,,,64.78,40.02
+2021,Research,28,Panjab University,Chandigarh,Chandigarh,48.71,IR-R-U-0078,,,,53.04,51.77
+2021,Research,29,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,48.29,IR-R-U-0436,,,,64.92,38.87
+2021,Research,30,Jamia Millia Islamia,New Delhi,Delhi,48.28,IR-R-U-0108,,,,71.97,31.93
+2021,Research,31,National Institute of Technology Rourkela,Rourkela,Odisha,48.0,IR-R-U-0357,,,,51.63,36.48
+2021,Research,32,Anna University,Chennai,Tamil Nadu,47.87,IR-R-U-0439,,,,51.46,80.3
+2021,Research,33,Calcutta University,Kolkata,West Bengal,47.74,IR-R-U-0570,,,,60.89,31.93
+2021,Research,34,Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,46.72,IR-R-U-0572,,,,52.9,52.61
+2021,Research,35,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,45.91,IR-R-U-0467,,,,62.86,43.02
+2021,Research,36,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,44.76,IR-R-U-0391,,,,58.8,45.82
+2021,Research,37,Savitribai Phule Pune University,Pune,Maharashtra,44.51,IR-R-U-0323,,,,51.22,17.28
+2021,Research,38,Thapar Institute of Engineering and Technology,Patiala,Punjab,44.17,IR-R-I-1480,,,,55.91,30.53
+2021,Research,39,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,44.14,IR-R-U-0139,,,,63.35,24.02
+2021,Research,40,National Institute of Technology Karnataka,Surathkal,Karnataka,43.91,IR-R-U-0237,,,,64.95,30.53
+2021,Research,41,"Indian Statistical Institute, Kolkata",Kolkata,West Bengal,43.32,IR-R-U-0574,,,,54.43,61.43
+2021,Research,42,"National Institute of Mental Health & Neuro Sciences, Bangalore",Bangalore,Karnataka,43.03,IR-R-U-0236,,,,68.59,59.35
+2021,Research,43,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,42.98,IR-R-U-0355,,,,54.09,28.72
+2021,Research,44,"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,41.54,IR-R-U-0377,,,,70.75,28.35
+2021,Research,45,Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,41.16,IR-R-U-0272,,,,65.67,31.59
+2021,Research,46,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,40.16,IR-R-U-0473,,,,58.13,27.97
+2021,Research,47,Indian Institute of Technology Patna,Patna,Bihar,39.99,IR-R-U-0064,,,,53.25,34.59
+2021,Research,48,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,39.44,IR-R-U-0584,,,,49.82,24.43
+2021,Research,49,Indian Institute of Technology Ropar,Rupnagar,Punjab,38.96,IR-R-U-0378,,,,62.9,24.02
+2021,Research,50,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,38.53,IR-R-U-0476,,,,57.4,14.24
