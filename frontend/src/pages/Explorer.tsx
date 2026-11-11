@@ -11,11 +11,19 @@ const AGG:Record<string,(a:number[])=>number>={mean,median,max:a=>Math.max(...a)
 const CHARTS=[['auto','Auto'],['bar','Bar'],['lollipop','Lollipop'],['line','Line'],['area','Area'],['donut','Pie / Donut'],['hist','Histogram'],['box','Box plot'],['violin','Violin'],['strip','Strip'],['jitter','Jittered strip'],['sina','Sina'],['errorbar','Mean ± SD'],['heatmap','Heatmap'],['scatter','Scatter'],['bubble','Bubble']] as const;
 type Ch=typeof CHARTS[number][0];const DIST=['box','violin','strip','jitter','sina','errorbar'];
 export default function Explorer(){
+<<<<<<< HEAD
   const {rows:allRows,report,includeImputed}=useStore(),rows=allRows.filter(r=>includeImputed||!r.imputed),ys=yrs(rows),cats=[...new Set(rows.map(r=>r.category))].sort(),states=[...new Set(rows.map(r=>r.state))].sort();
   const metrics=(['score','rank','TLR','RPC','GO','OI','PR'] as Field[]).filter(f=>report?.avail.includes(f)||f==='rank');
   const [f,setF]=useState({metric:'score',agg:'mean',group:'year',chart:'auto' as Ch,y1:ys[0],y2:ys.at(-1)!,state:'All',cat:'All',maxRank:1000,x:'TLR',y:'RPC',z:'score',color:'none',topN:15});
   const u=(k:string,v:any)=>setF(o=>({...o,[k]:v}));
   const d=useMemo(()=>rows.filter(r=>r.year>=f.y1&&r.year<=f.y2&&(f.maxRank>=1000||Number.isFinite(r.rank)&&r.rank<=f.maxRank)&&(f.state==='All'||r.state===f.state)&&(f.cat==='All'||r.category===f.cat)),[rows,f.y1,f.y2,f.maxRank,f.state,f.cat]);
+=======
+  const {rows,report}=useStore(),ys=yrs(rows),cats=[...new Set(rows.map(r=>r.category))].sort(),states=[...new Set(rows.map(r=>r.state))].sort();
+  const metrics=(['score','rank','TLR','RPC','GO','OI','PR'] as Field[]).filter(f=>report?.avail.includes(f)||f==='rank');
+  const [f,setF]=useState({metric:'score',agg:'mean',group:'year',chart:'auto' as Ch,y1:ys[0],y2:ys.at(-1)!,state:'All',cat:'All',maxRank:1000,x:'TLR',y:'RPC',z:'score',color:'none',topN:15});
+  const u=(k:string,v:any)=>setF(o=>({...o,[k]:v}));
+  const d=useMemo(()=>rows.filter(r=>r.year>=f.y1&&r.year<=f.y2&&r.rank<=f.maxRank&&(f.state==='All'||r.state===f.state)&&(f.cat==='All'||r.category===f.cat)),[rows,f.y1,f.y2,f.maxRank,f.state,f.cat]);
+>>>>>>> origin/main
   const val=(r:Row,k:string)=>r[k as Field] as unknown as number,gk=(r:Row)=>String(r[f.group as 'year']);
   const ch=f.chart==='auto'?(f.group==='year'?'line':'bar'):f.chart;
   const err=((): string|null=>{

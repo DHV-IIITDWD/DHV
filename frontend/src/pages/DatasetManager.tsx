@@ -5,7 +5,11 @@ import {DataTable,download,toCSV} from '../components/ChartRenderer';
 import {readFile} from '../data';
 import {useStore} from '../store';
 import {FIELDS,Field} from '../types';
+<<<<<<< HEAD
 const REQ:Field[]=['year','name'];
+=======
+const REQ:Field[]=['year','name','rank'];
+>>>>>>> origin/main
 export default function DatasetManager(){
   const s=useStore(),ref=useRef<HTMLInputElement>(null),[status,setStatus]=useState(''),[err,setErr]=useState(''),[drag,setDrag]=useState(false);
   async function ingest(list:FileList|null){
@@ -24,9 +28,14 @@ export default function DatasetManager(){
       {err&&<p className="mt-3 text-sm text-red-700">{err}</p>}</div>
     {s.report&&<>
       <div className="grid grid-cols-2 lg:grid-cols-5 gap-3"><Kpi label="Records read" value={s.report.total}/><Kpi label="Records kept" value={s.report.kept}/>
+<<<<<<< HEAD
         <Kpi label="Dropped (missing year/name)" value={s.report.dropped}/><Kpi label="Rank bands" value={s.report.rankBands}/><Kpi label="Estimated rows" value={s.report.imputedRows}/><Kpi label="Duplicates removed" value={s.report.duplicates}/><Kpi label="Files" value={s.files.length} sub={s.files.map(f=>`${f.name} (${(f.size/1024).toFixed(0)} KB)`).join(', ')}/></div>
       {(s.report.rankBands>0||s.report.imputedRows>0)&&<Card title="Data quality and provenance"><p className="text-xs text-stone-600">The merged dataset contains {s.report.rankBands.toLocaleString()} rank-band observations and {s.report.imputedRows.toLocaleString()} rows marked as estimated/filled. Estimated rows are excluded from analytical views by default; use the global switch to include them deliberately. Rank intervals remain intervals and are not treated as exact ranks in movement calculations.</p></Card>}
       <Card title="Column mapping"><p className="text-xs text-stone-500 mb-3">Map your file's columns to the standard fields. Year and Institution name are required to identify a record. Rank can be missing; rank-specific questions will exclude those records. Institution ID and Filled provenance are mapped automatically when present.</p>
+=======
+        <Kpi label="Dropped (missing year/rank/name)" value={s.report.dropped}/><Kpi label="Duplicates removed" value={s.report.duplicates}/><Kpi label="Files" value={s.files.length} sub={s.files.map(f=>`${f.name} (${(f.size/1024).toFixed(0)} KB)`).join(', ')}/></div>
+      <Card title="Column mapping"><p className="text-xs text-stone-500 mb-3">Map your file's columns to the standard fields. Year, Institution name and Rank are required; charts needing other fields are disabled when they are unmapped.</p>
+>>>>>>> origin/main
         {miss.length>0&&<p className="text-sm text-amber-800 flex gap-2 mb-3"><AlertTriangle size={16}/>Required field(s) not mapped: {miss.join(', ')}</p>}
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-3">{FIELDS.map(f=><label key={f} className="text-xs text-stone-500 block">{f}{REQ.includes(f)&&' *'}
           <select className="inp w-full mt-1 text-ink" value={s.map[f]??''} onChange={e=>s.setMap({...s.map,[f]:e.target.value||undefined})}><option value="">— not mapped —</option>{s.cols.map(c=><option key={c}>{c}</option>)}</select></label>)}</div></Card>

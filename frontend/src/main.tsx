@@ -1,6 +1,7 @@
 import {createRoot} from 'react-dom/client';
 import './index.css';
 import App from './App';
+<<<<<<< HEAD
 import {readRemoteCsv} from './data';
 import {useStore} from './store';
 
@@ -13,3 +14,6 @@ readRemoteCsv(`${import.meta.env.BASE_URL}data/nirf_merged.csv`).then(raw=>{
 }).catch(error=>{
   console.warn('Bundled dataset could not be loaded. Upload a CSV/XLSX from Dataset Manager.',error);
 });
+=======
+createRoot(document.getElementById('root')!).render(<App/>);
+>>>>>>> origin/main

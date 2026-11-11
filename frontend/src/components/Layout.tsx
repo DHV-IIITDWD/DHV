@@ -8,7 +8,11 @@ export const NAV=[{to:'/',label:'Overview',icon:LayoutDashboard},{to:'/s/0',labe
  {to:'/explore',label:'Chart Explorer',icon:SlidersHorizontal},{to:'/ai',label:'AI Query Assistant',icon:MessageSquare},{to:'/data',label:'Dataset Manager',icon:Database}];
 export default function Layout(){
   const s=useStore(),loc=useLocation(),title=NAV.find(n=>n.to===loc.pathname)?.label??NAV.find(n=>loc.pathname.startsWith(n.to)&&n.to!=='/')?.label??'';
+<<<<<<< HEAD
   const visibleRows=s.rows.filter(r=>s.includeImputed||!r.imputed),years=yrs(visibleRows),cats=[...new Set(visibleRows.map(r=>r.category))].sort(),ds=s.files.map(f=>f.name).join(', ');
+=======
+  const years=yrs(s.rows),cats=[...new Set(s.rows.map(r=>r.category))].sort(),ds=s.files.map(f=>f.name).join(', ');
+>>>>>>> origin/main
   return <div className="flex h-screen">
     <aside className={`${s.collapsed?'w-14':'w-60'} shrink-0 bg-navy text-blue-100 flex flex-col transition-[width] duration-150`}>
       <div className="h-14 flex items-center gap-2 px-3 border-b border-white/10"><GraduationCap size={22} className="text-sky-300 shrink-0"/>{!s.collapsed&&<div className="leading-tight"><div className="font-semibold text-white tracking-tight">NIRF Analytics</div><div className="text-[10px] text-blue-300">Ranking insights 2017–2025</div></div>}</div>
@@ -26,7 +30,10 @@ export default function Layout(){
           {s.state&&<button className="inline-flex items-center gap-1 rounded-full bg-accent-soft text-accent px-2.5 py-1 font-medium" onClick={()=>s.setState(null)} title="Clear cross-filter">State: {s.state}<X size={12}/></button>}
           <label className="text-stone-500" htmlFor="yr">Year</label><select id="yr" className="inp" disabled={!years.length} value={s.year??''} onChange={e=>s.setYear(+e.target.value)}>{years.map(y=><option key={y}>{y}</option>)}</select>
           <label className="text-stone-500" htmlFor="ct">Category</label><select id="ct" className="inp" disabled={!cats.length} value={s.category} onChange={e=>s.setCategory(e.target.value)}>{cats.map(c=><option key={c}>{c}</option>)}</select>
+<<<<<<< HEAD
           <label className="inline-flex items-center gap-1.5 text-stone-500" title="Rows with values estimated during preprocessing are excluded by default"><input type="checkbox" checked={s.includeImputed} onChange={e=>s.setIncludeImputed(e.target.checked)}/> Include estimated rows</label>
+=======
+>>>>>>> origin/main
           <button className="btn" onClick={s.reset} disabled={!s.rows.length}><RotateCcw size={13}/>Reset filters</button></div>
       </header>
       <main className="flex-1 overflow-y-auto p-5 bg-paper"><Outlet/></main></div></div>;}

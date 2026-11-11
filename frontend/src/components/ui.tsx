@@ -12,4 +12,8 @@ export function ChartTypeSelector<T extends string>({value,onChange,options,labe
   return <div className="flex items-center gap-2">{label&&<span className="text-xs text-stone-500">{label}</span>}<div className="seg" role="group" aria-label={label??'Chart type'}>{options.map(o=><button key={o.id} aria-pressed={o.id===value} onClick={()=>onChange(o.id)}>{o.label}</button>)}</div></div>;}
 export function Gate({children}:{children:React.ReactNode}){const n=useStore(s=>s.rows.length);
   return n?<>{children}</>:<div className="card p-10 text-center max-w-lg mx-auto mt-16"><h2 className="font-semibold text-lg text-navy">No dataset loaded</h2><p className="text-stone-500 mt-1 mb-4">Upload a NIRF CSV or XLSX file. Nothing is shown until real data is loaded.</p><Link to="/data" className="btn-p">Go to Dataset Manager</Link></div>;}
+<<<<<<< HEAD
 export const useCat=():Row[]=>{const {rows,category,includeImputed}=useStore();return rows.filter(r=>r.category===category&&(includeImputed||!r.imputed))};
+=======
+export const useCat=():Row[]=>{const {rows,category}=useStore();return rows.filter(r=>r.category===category)};
+>>>>>>> origin/main

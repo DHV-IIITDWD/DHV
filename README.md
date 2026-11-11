@@ -1,6 +1,10 @@
 # DHV – NIRF Analytics Platform
 
+<<<<<<< HEAD
 A React + ECharts dashboard backed by FastAPI, Pandas and a Gemini-first LLM analytics service. The dashboard includes the 40 Annexure analyses, an interactive Explorer, Dataset Manager, graph alternatives for supported questions, the Q2.2 India map and an optional AI-query API.
+=======
+A React + ECharts dashboard backed by FastAPI, Pandas and a Gemini-first LLM analytics service. The dashboard UI is retained; the AI query API and LLM reliability layer have been repaired.
+>>>>>>> origin/main
 
 ## What the AI does
 
@@ -135,11 +139,16 @@ The response retains the existing frontend fields: `intent`, `filters`, `operati
 
 ## Notes
 
+<<<<<<< HEAD
 - The backend defaults to `data handling/nirf_merged.csv`; browser-side CSV/XLSX replacement is available from Dataset Manager. The bundled frontend copy loads automatically on dashboard startup.
+=======
+- The default dataset is `data handling/nirf_merged.csv`; upload another CSV from the AI Query page to activate it.
+>>>>>>> origin/main
 - Only one active dataset is held in backend memory. Restarting the backend resets an uploaded dataset to the default CSV.
 - The API key is intentionally not included in this ZIP. Create your own `backend/.env` from `.env.example`.
 - The backend retries temporary 429/5xx errors a bounded number of times. A provider outage or exhausted quota can still prevent new LLM plans; configure the optional Groq backup for an additional provider path.
 - Keep `.env`, `.venv`, `node_modules`, `.git` and generated build folders out of project ZIPs and source control.
+<<<<<<< HEAD
 
 
 ## Run locally (macOS / Windows / Linux)
@@ -188,3 +197,5 @@ The analytics dashboard works without the optional AI backend; AI Query requires
 - Install frontend dependencies from `frontend/` with `npm ci`; do not run Vite scripts from the repository root.
 
 See `docs/PROJECT_CHANGE_AUDIT.md` and `docs/VALIDATION_STATUS.md` for the integration record and exact validation limits.
+=======
+>>>>>>> origin/main

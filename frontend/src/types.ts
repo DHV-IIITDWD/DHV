@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 export const FIELDS = ['year','category','name','state','rank','score','TLR','RPC','GO','OI','PR','institutionId','imputed'] as const;
 export type Field = typeof FIELDS[number];
 export const NUM: Field[] = ['score','TLR','RPC','GO','OI','PR'];
@@ -23,5 +24,14 @@ export interface Report {
   total:number; kept:number; dropped:number; duplicates:number;
   missing:Record<string,number>; avail:Field[]; rankBands:number; imputedRows:number;
 }
+=======
+export const FIELDS = ['year','category','name','state','rank','score','TLR','RPC','GO','OI','PR'] as const;
+export type Field = typeof FIELDS[number];
+export const NUM: Field[] = ['score','TLR','RPC','GO','OI','PR'];
+export const PARAMS: Field[] = ['TLR','RPC','GO','OI','PR'];
+export type Row = {year:number;category:string;name:string;state:string;rank:number;score:number;TLR:number;RPC:number;GO:number;OI:number;PR:number};
+export type Mapping = Partial<Record<Field,string>>;
+export interface Report {total:number;kept:number;dropped:number;duplicates:number;missing:Record<string,number>;avail:Field[]}
+>>>>>>> origin/main
 export interface ChartSpec {type:'bar'|'line';title:string;x:(string|number)[];series:{name:string;data:number[]}[];xLabel:string;yLabel:string}
 export interface AIResponse {intent:string;filters:Record<string,unknown>;operation:string;chart_type:string;chart:ChartSpec|null;explanation:string;warnings:string[]}

@@ -136,6 +136,7 @@ export function specToOption(s:ChartSpec):any{
   return s.type==='bar'?{...base(s.title,'axis',s.series.length>1),xAxis:axC(s.x,s.xLabel,false,s.x.length>8?40:0),yAxis:axV(s.yLabel,false,true),
     series:s.series.map((a,i)=>({type:'bar',name:a.name,data:a.data,itemStyle:{color:T.series[i%8]}}))}
    :line(s.title,s.x,s.series,s.xLabel,s.yLabel);}
+<<<<<<< HEAD
 
 
 /* ---------- India state/UT choropleth ---------- */
@@ -551,3 +552,5 @@ export function chartViews(
 
   return result;
 }
+=======
+>>>>>>> origin/main

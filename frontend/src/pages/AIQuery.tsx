@@ -17,7 +17,11 @@ export default function AIQuery(){
   return <div className="max-w-3xl mx-auto flex flex-col h-[calc(100vh-6.5rem)]">
     <div className="flex-1 overflow-y-auto space-y-3 pb-3">{!msgs.length&&<div className="card p-5"><h2 className="font-semibold mb-1">Ask about the NIRF data</h2><p className="text-xs text-stone-500 mb-3">An LLM on the backend turns your question into a structured query; all numbers are computed from the real dataset.</p>
       <div className="flex flex-wrap gap-2">{SUGG.map(s=><button key={s} className="btn text-left" onClick={()=>send(s)}>{s}</button>)}</div></div>}
+<<<<<<< HEAD
       {msgs.map((m,i)=><div key={i} className={m.role==='user'?'flex justify-end':''}><div className={`card p-3 max-w-[92%] ${m.role==='user'?'chat-user-bubble':m.role==='error'?'border-red-300 bg-red-50 text-red-800':''}`}>
+=======
+      {msgs.map((m,i)=><div key={i} className={m.role==='user'?'flex justify-end':''}><div className={`card p-3 max-w-[92%] ${m.role==='user'?'bg-accent text-white border-accent':m.role==='error'?'border-red-300 bg-red-50 text-red-800':''}`}>
+>>>>>>> origin/main
         <p className="text-sm">{m.text}</p>
         {m.res&&<div className="mt-2 text-xs text-stone-500">Intent: {m.res.intent} · Operation: {m.res.operation} · Filters: {JSON.stringify(m.res.filters)}</div>}
         {m.res?.warnings?.map((w,k)=><p key={k} className="text-xs text-amber-700 mt-1">⚠ {w}</p>)}
